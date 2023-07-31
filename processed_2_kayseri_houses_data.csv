@@ -1,0 +1,1521 @@
+Binanın Yaşı,Binanın Kat Sayısı,Kullanım Durumu,Türü,Net Metrekare,Oda Sayısı,Bulunduğu Kat,Isıtma Tipi,House Price,House Location,Şehir,İlçe,Mahalle
+0 (Yeni),7,0,Konut,150,3.5+1,2.Kat,Kombi Doğalgaz,3200000,Kayseri - Melikgazi - Germir Mahallesi,Kayseri,4,Germir Mahallesi
+0 (Yeni),2,0,Konut,125,3+1,Düz Giriş,Kombi Doğalgaz,4500000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+5-10,9,0,Konut,100,2+1,Düz Giriş,Merkezi (Pay Ölçer),920000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+5-10,11,2,Konut,155,3+2,11.Kat,Merkezi (Pay Ölçer),2600000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+2,13,0,Konut,135,3+1,12.Kat,Merkezi Doğalgaz,2300000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+4,11,1,Konut,140,3+1,4.Kat,Merkezi Doğalgaz,1735000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,6,0,Konut,140,3+1,3.Kat,Kombi Doğalgaz,2525000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+16-20,7,0,Konut,120,3+1,7.Kat,Merkezi Doğalgaz,1250000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+21 Ve Üzeri,2,0,Konut,80,2+1,Düz Giriş,Kombi Doğalgaz,1650000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+16-20,9,2,Konut,120,3+1,9.Kat,Merkezi Doğalgaz,1300000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+0 (Yeni),8,0,Konut,125,3+1,5.Kat,Merkezi (Pay Ölçer),2380000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+3,10,0,Konut,105,2+1,5.Kat,Merkezi Doğalgaz,1390000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+1,12,0,Konut,130,3+1,5.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,4,0,Konut,190,4+1,4.Kat,Merkezi (Pay Ölçer),2300000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+5-10,12,2,Konut,135,3+1,10.Kat,Kombi Doğalgaz,1770000,Kayseri - Melikgazi - Aydınlıkevler Mahallesi,Kayseri,4,Aydınlıkevler Mahallesi
+11-15,12,0,Konut,130,3+1,6.Kat,Merkezi Doğalgaz,1380000,Kayseri - Melikgazi - Osman Kavuncu Mahallesi,Kayseri,4,Osman Kavuncu Mahallesi
+0 (Yeni),9,0,Konut,120,3+1,3.Kat,Kombi Doğalgaz,2000000,Kayseri - Melikgazi - Aydınlıkevler Mahallesi,Kayseri,4,Aydınlıkevler Mahallesi
+0 (Yeni),14,0,Konut,155,4+1,3.Kat,Merkezi (Pay Ölçer),2750000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+11-15,7,0,Konut,130,3+1,7.Kat,Merkezi (Pay Ölçer),1280000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+11-15,10,0,Konut,135,3+1,3.Kat,Kombi Doğalgaz,1575000,Kayseri - Kocasinan - Yeşil Mahallesi,Kayseri,3,Yeşil Mahallesi
+5-10,13,2,Konut,135,3+1,12.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+5-10,8,2,Konut,120,3+1,4.Kat,Merkezi Doğalgaz,1600000,Kayseri - Melikgazi - Kazımkarabekir Mahallesi,Kayseri,4,Kazımkarabekir Mahallesi
+5-10,13,1,Konut,165,3+1,1.Kat,Merkezi (Pay Ölçer),1895000,Kayseri - Kocasinan - Saray Bosna Mahallesi,Kayseri,3,Saray Bosna Mahallesi
+11-15,7,2,Konut,175,3+1,3.Kat,Merkezi Doğalgaz,2100000,Kayseri - Melikgazi - Gülük Mahallesi,Kayseri,4,Gülük Mahallesi
+21 Ve Üzeri,5,0,Konut,100,2+1,Düz Giriş,Merkezi Doğalgaz,955000,Kayseri - Kocasinan - Mevlana Mahallesi,Kayseri,3,Mevlana Mahallesi
+21 Ve Üzeri,5,1,Konut,105,2+1,3.Kat,Kombi Doğalgaz,900000,Kayseri - Melikgazi - Gülük Mahallesi,Kayseri,4,Gülük Mahallesi
+5-10,3,0,Konut,145,3+1,2.Kat,Kombi Doğalgaz,1635000,Kayseri - Melikgazi - Esentepe Mahallesi,Kayseri,4,Esentepe Mahallesi
+5-10,8,1,Konut,270,3+1,4.Kat,Merkezi Doğalgaz,2550000,Kayseri - Melikgazi - Esentepe Mahallesi,Kayseri,4,Esentepe Mahallesi
+11-15,9,2,Konut,145,3+1,5.Kat,Merkezi (Pay Ölçer),2095000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+5-10,14,0,Konut,130,3+1,3.Kat,Merkezi Doğalgaz,1485000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+5-10,13,0,Konut,165,3+1,3.Kat,Merkezi Doğalgaz,1485000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+4,13,0,Konut,130,3+1,7.Kat,Merkezi Doğalgaz,1770000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),5,0,Konut,100,2+1,2.Kat,Kombi Doğalgaz,1450000,Kayseri - Melikgazi - Hürriyet Mahallesi,Kayseri,4,Hürriyet Mahallesi
+2,12,1,Konut,120,3+1,4.Kat,Merkezi (Pay Ölçer),1445000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+3,19,0,Konut,170,4+1,17.Kat,Merkezi (Pay Ölçer),2850000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+4,5,2,Konut,165,4+1,2.Kat,Merkezi Doğalgaz,3000000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+0 (Yeni),12,0,Konut,135,3+1,1.Kat,Merkezi (Pay Ölçer),1595000,Kayseri - Melikgazi - Fatih Mahallesi,Kayseri,4,Fatih Mahallesi
+5-10,12,2,Konut,160,3+1,7.Kat,Merkezi (Pay Ölçer),1575000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+11-15,9,0,Konut,115,3+1,7.Kat,Merkezi (Pay Ölçer),1350000,Kayseri - Melikgazi - Esentepe Mahallesi,Kayseri,4,Esentepe Mahallesi
+16-20,1,0,Konut,237,3+1,Düz Giriş,Sobalı,870000,Kayseri - Melikgazi - Kazımkarabekir Mahallesi,Kayseri,4,Kazımkarabekir Mahallesi
+0 (Yeni),12,0,Konut,138,3+1,6.Kat,Merkezi (Pay Ölçer),2080000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+21 Ve Üzeri,11,0,Konut,130,3+1,10.Kat,Merkezi Doğalgaz,1800000,Kayseri - Melikgazi - Osman Kavuncu Mahallesi,Kayseri,4,Osman Kavuncu Mahallesi
+21 Ve Üzeri,6,2,Konut,110,3+1,Düz Giriş,Merkezi (Pay Ölçer),970000,Kayseri - Kocasinan - Mevlana Mahallesi,Kayseri,3,Mevlana Mahallesi
+4,14,1,Konut,210,4+1,13.Kat,Merkezi (Pay Ölçer),7000000,Kayseri - Kocasinan - Erciyesevler Mahallesi,Kayseri,3,Erciyesevler Mahallesi
+11-15,8,1,Konut,150,3+1,3.Kat,Kombi Doğalgaz,1588000,Kayseri - Kocasinan - Kocasinan Mahallesi,Kayseri,3,Kocasinan Mahallesi
+16-20,4,2,Konut,155,3+1,1.Kat,Kombi Doğalgaz,1320000,Kayseri - Melikgazi - Keykubat Mahallesi,Kayseri,4,Keykubat Mahallesi
+3,14,1,Konut,160,3+1,5.Kat,Merkezi (Pay Ölçer),330000000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+5-10,12,2,Konut,125,3+1,2.Kat,Merkezi Doğalgaz,1900000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+16-20,8,2,Konut,135,2+1,5.Kat,Kombi Doğalgaz,1250000,Kayseri - Kocasinan - Mimarsinan Mahallesi,Kayseri,3,Mimarsinan Mahallesi
+16-20,1,1,Konut,85,2+1,Bahçe Katı,Sobalı,1450000,Kayseri - Melikgazi - Fatih Mahallesi,Kayseri,4,Fatih Mahallesi
+0 (Yeni),13,0,Konut,100,2+1,1.Kat,Merkezi Doğalgaz,1400000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+5-10,14,0,Konut,110,3+1,5.Kat,Kombi Doğalgaz,1500000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+11-15,14,0,Konut,130,3+1,13.Kat,Merkezi Doğalgaz,2150000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+0 (Yeni),12,0,Konut,130,3+0,5.Kat,Merkezi (Pay Ölçer),1550000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+16-20,8,0,Konut,155,3+1,3.Kat,Kombi Doğalgaz,1499000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+11-15,14,0,Konut,160,3+1,12.Kat,Merkezi (Pay Ölçer),3225000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+21 Ve Üzeri,7,1,Konut,110,2+1,Düz Giriş,Merkezi (Pay Ölçer),820000,Kayseri - Kocasinan - Fevzi Çakmak Mahallesi,Kayseri,3,Fevzi Çakmak Mahallesi
+16-20,2,1,Konut,981,5+1,Düz Giriş,Sobalı,1700000,Kayseri - Melikgazi - Gürpınar Mahallesi,Kayseri,4,Gürpınar Mahallesi
+21 Ve Üzeri,2,0,Konut,120,4+0,Düz Giriş,Sobalı,220000,Kayseri - Melikgazi - Gürpınar Mahallesi,Kayseri,4,Gürpınar Mahallesi
+21 Ve Üzeri,5,1,Konut,140,3+1,Düz Giriş,Kombi Doğalgaz,1050000,Kayseri - Kocasinan - Yeni Mahallesi,Kayseri,3,Yeni Mahallesi
+1,13,1,Konut,73,2+1,6.Kat,Merkezi (Pay Ölçer),1550000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+16-20,2,0,Konut,140,3+1,Düz Giriş,Kat Kaloriferi,2850000,Kayseri - Kocasinan - Boztepe Mahallesi,Kayseri,3,Boztepe Mahallesi
+11-15,6,0,Konut,112,3+1,3.Kat,Merkezi Doğalgaz,1200000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),14,0,Konut,125,3+1,6.Kat,Merkezi Doğalgaz,403000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+0 (Yeni),10,0,Konut,150,3+1,5.Kat,Merkezi (Pay Ölçer),1875000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),8,0,Konut,135,3+1,3.Kat,Kombi Doğalgaz,1590000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+5-10,7,0,Konut,125,3+1,7.Kat,Kombi Doğalgaz,1280000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+0 (Yeni),7,0,Konut,125,3+1,3.Kat,Merkezi (Pay Ölçer),1565000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+4,13,0,Konut,130,3+1,7.Kat,Merkezi (Pay Ölçer),1770000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+16-20,4,1,Konut,130,3+1,Çatı Katı,Kombi Doğalgaz,1550000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+5-10,14,1,Konut,200,4+1,4.Kat,Merkezi (Pay Ölçer),2485000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),13,0,Konut,190,4+1,4.Kat,Merkezi (Pay Ölçer),3940000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+0 (Yeni),12,0,Konut,150,3+1,1.Kat,Merkezi Doğalgaz,1275000,Kayseri - Melikgazi - 19 Mayıs Mahallesi,Kayseri,4,19 Mayıs Mahallesi
+0 (Yeni),14,0,Konut,120,3+1,7.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Kocasinan - Ziyagökalp Mahallesi,Kayseri,3,Ziyagökalp Mahallesi
+0 (Yeni),6,0,Konut,150,3+1,5.Kat,Kombi Doğalgaz,1350000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+5-10,12,0,Konut,240,4+1,6.Kat,Merkezi (Pay Ölçer),4575000,Kayseri - Kocasinan - Mimarsinan Mahallesi,Kayseri,3,Mimarsinan Mahallesi
+2,4,0,Konut,125,3+1,Düz Giriş,Merkezi (Pay Ölçer),1450000,Kayseri - Kocasinan - Oruçreis Mahallesi,Kayseri,3,Oruçreis Mahallesi
+21 Ve Üzeri,2,2,Konut,100,3+1,Bahçe Katı,Kombi Doğalgaz,1630000,Kayseri - Kocasinan - Yenişehir Mahallesi,Kayseri,3,Yenişehir Mahallesi
+0 (Yeni),8,0,Konut,103,2.5+1,7.Kat,Merkezi (Pay Ölçer),1775000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+5-10,12,0,Konut,155,3+1,12.Kat,Merkezi Doğalgaz,1730000,Kayseri - Melikgazi - Esentepe Mahallesi,Kayseri,4,Esentepe Mahallesi
+11-15,14,1,Konut,140,3+1,2.Kat,Merkezi Fueloil,2800000,Kayseri - Melikgazi - Gültepe Mahallesi,Kayseri,4,Gültepe Mahallesi
+4,9,0,Konut,145,3+1,8.Kat,Merkezi (Pay Ölçer),1799000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+16-20,14,0,Konut,230,4+1,12.Kat,Merkezi Fueloil,3985000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+0 (Yeni),9,0,Konut,94,2+1,2.Kat,Merkezi Doğalgaz,287000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+3,17,0,Konut,170,4+1,17.Kat,Merkezi Doğalgaz,2595000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+0 (Yeni),8,0,Konut,87,2+1,4.Kat,Merkezi (Pay Ölçer),290000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),12,0,Konut,120,4+1,1.Kat,Merkezi Doğalgaz,622000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+21 Ve Üzeri,7,0,Konut,135,3+1,7.Kat,Merkezi Doğalgaz,1225000,Kayseri - Melikgazi - Kılıçaslan Mahallesi,Kayseri,4,Kılıçaslan Mahallesi
+0 (Yeni),14,0,Konut,138,3+1,4.Kat,Merkezi Doğalgaz,2349000,Kayseri - Kocasinan - Saray Bosna Mahallesi,Kayseri,3,Saray Bosna Mahallesi
+0 (Yeni),11,0,Konut,130,3+1,4.Kat,Merkezi (Pay Ölçer),2249000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+0 (Yeni),10,0,Konut,132,3+1,5.Kat,Merkezi (Pay Ölçer),1799000,Kayseri - Melikgazi - Anbar Mahallesi,Kayseri,4,Anbar Mahallesi
+16-20,4,1,Konut,85,2+1,4.Kat,Kombi Doğalgaz,900000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),14,0,Konut,120,3+1,5.Kat,Merkezi Doğalgaz,395000,Kayseri - Kocasinan - Cırgalan Mahallesi,Kayseri,3,Cırgalan Mahallesi
+1,7,0,Konut,135,3+1,3.Kat,Merkezi (Pay Ölçer),1595000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+0 (Yeni),12,0,Konut,132,3+1,5.Kat,Merkezi (Pay Ölçer),1900000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+1,14,0,Konut,145,3+1,9.Kat,Merkezi (Pay Ölçer),2300000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+0 (Yeni),7,0,Konut,145,3.5+1,6.Kat,Merkezi (Pay Ölçer),3500000,Kayseri - Melikgazi - Germir Mahallesi,Kayseri,4,Germir Mahallesi
+5-10,10,2,Konut,185,4+1,9.Kat,Merkezi (Pay Ölçer),5200000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+3,16,0,Konut,80,2+1,1.Kat,Merkezi (Pay Ölçer),1680000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+2,3,1,Konut,55,1+1,2.Kat,Kombi Doğalgaz,1170000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+11-15,5,2,Konut,120,3+1,5.Kat,Kombi Doğalgaz,1650000,Kayseri - Kocasinan - General Emir Mahallesi,Kayseri,3,General Emir Mahallesi
+5-10,10,1,Konut,145,3+1,8.Kat,Merkezi Doğalgaz,2850000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+16-20,12,1,Konut,130,3+1,7.Kat,Merkezi Doğalgaz,1195000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+0 (Yeni),4,0,Konut,85,2.5+1,Düz Giriş,Kombi Doğalgaz,1600000,Kayseri - Kocasinan - Yeni Mahallesi,Kayseri,3,Yeni Mahallesi
+0 (Yeni),7,0,Konut,100,3+0,1.Kat,Kombi Doğalgaz,1445000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+0 (Yeni),2,0,Konut,220,4+1,Bahçe Dublex,Kombi Doğalgaz,6500000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+16-20,14,1,Konut,130,3+1,6.Kat,Merkezi (Pay Ölçer),1265000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+0 (Yeni),14,0,Konut,135,3+1,7.Kat,Merkezi (Pay Ölçer),1900000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+11-15,14,1,Konut,135,3+1,5.Kat,Merkezi (Pay Ölçer),1455000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),14,0,Konut,120,2+1,5.Kat,Merkezi Doğalgaz,265000,Kayseri - Melikgazi - Tavlusun Mahallesi,Kayseri,4,Tavlusun Mahallesi
+16-20,2,0,Konut,100,2.5+1,2.Kat,Sobalı,1650000,Kayseri - Kocasinan - Argıncık Mahallesi,Kayseri,3,Argıncık Mahallesi
+21 Ve Üzeri,3,0,Konut,110,2+1,Düz Giriş,Sobalı,830000,Kayseri - Kocasinan - Kayabaşı Mahallesi,Kayseri,3,Kayabaşı Mahallesi
+5-10,9,2,Konut,75,1+1,6.Kat,Kombi Doğalgaz,755000,Kayseri - Melikgazi - Selçuklu Mahallesi,Kayseri,4,Selçuklu Mahallesi
+11-15,11,0,Konut,120,3+1,4.Kat,Merkezi Doğalgaz,1570000,Kayseri - Kocasinan - Turgut Reis Mahallesi,Kayseri,3,Turgut Reis Mahallesi
+11-15,14,2,Konut,135,3+1,7.Kat,Kombi Doğalgaz,1550000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+11-15,14,1,Konut,210,4+1,3.Kat,Merkezi Doğalgaz,3440000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+5-10,14,2,Konut,125,3+1,10.Kat,Merkezi (Pay Ölçer),1550000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+16-20,15,2,Konut,120,3+1,15.Kat,Merkezi Doğalgaz,770000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+21 Ve Üzeri,8,0,Konut,140,3+1,2.Kat,Merkezi Doğalgaz,1590000,Kayseri - Kocasinan - Fevzi Çakmak Mahallesi,Kayseri,3,Fevzi Çakmak Mahallesi
+11-15,14,0,Konut,135,3+1,13.Kat,Merkezi (Pay Ölçer),1465000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+11-15,13,1,Konut,130,3+1,Yüksek Giriş,Merkezi Doğalgaz,1525000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+16-20,9,1,Konut,135,3+1,9.Kat,Merkezi (Pay Ölçer),1375000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+5-10,13,0,Konut,165,3+1,10.Kat,Merkezi (Pay Ölçer),1565000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+11-15,9,2,Konut,120,3+1,9.Kat,Merkezi Doğalgaz,1375000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+11-15,14,1,Konut,140,3+1,10.Kat,Merkezi (Pay Ölçer),1550000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+4,12,0,Konut,145,3+1,12.Kat,Merkezi (Pay Ölçer),1620000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+4,8,2,Konut,130,3+1,2.Kat,Merkezi (Pay Ölçer),1300000,Kayseri - Kocasinan - Barbaros Mahallesi,Kayseri,3,Barbaros Mahallesi
+0 (Yeni),14,0,Konut,155,4+1,14.Kat,Merkezi (Pay Ölçer),3700000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+5-10,9,2,Konut,130,3+1,4.Kat,Kombi Doğalgaz,1650000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+0 (Yeni),5,0,Konut,100,3+1,Kot 2 (-2).Kat,Merkezi (Pay Ölçer),1550000,Kayseri - Melikgazi - Tavlusun Mahallesi,Kayseri,4,Tavlusun Mahallesi
+11-15,9,1,Konut,135,3+1,7.Kat,Merkezi Doğalgaz,1350000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+0 (Yeni),12,0,Konut,145,3+1,5.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),10,0,Konut,100,3+0,4.Kat,Merkezi (Pay Ölçer),1700000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+21 Ve Üzeri,5,2,Konut,120,2+1,2.Kat,Kombi Doğalgaz,1200000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+2,14,2,Konut,135,3+1,8.Kat,Merkezi (Pay Ölçer),2075000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+21 Ve Üzeri,3,1,Konut,100,2+1,1.Kat,Kombi Doğalgaz,1250000,Kayseri - Melikgazi - Aydınlıkevler Mahallesi,Kayseri,4,Aydınlıkevler Mahallesi
+0 (Yeni),12,0,Konut,135,3+1,6.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Melikgazi - Tavlusun Mahallesi,Kayseri,4,Tavlusun Mahallesi
+0 (Yeni),14,0,Konut,138,3.5+1,3.Kat,Merkezi Doğalgaz,2349000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+0 (Yeni),11,0,Konut,130,3+1,4.Kat,Merkezi Doğalgaz,2249000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+5-10,14,0,Konut,145,3+1,13.Kat,Merkezi Doğalgaz,1485000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+5-10,12,1,Konut,140,3+1,4.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+0 (Yeni),5,1,Konut,140,3+1,1.Kat,Merkezi Doğalgaz,1960000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+5-10,14,0,Konut,230,4+1,8.Kat,Merkezi (Pay Ölçer),7850000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+0 (Yeni),9,0,Konut,70,2+1,Yüksek Giriş,Merkezi (Pay Ölçer),1090000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+21 Ve Üzeri,2,2,Konut,165,3+1,1.Kat,Kombi Doğalgaz,1250000,Kayseri - Melikgazi - Osman Kavuncu Mahallesi,Kayseri,4,Osman Kavuncu Mahallesi
+5-10,14,1,Konut,100,2+1,11.Kat,Merkezi Doğalgaz,1465000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,3,1,Konut,65,2+1,3.Kat,Merkezi (Pay Ölçer),760000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+5-10,11,2,Konut,155,3+1,6.Kat,Merkezi Doğalgaz,1485000,Kayseri - Melikgazi - Gökkent Mahallesi,Kayseri,4,Gökkent Mahallesi
+21 Ve Üzeri,2,0,Konut,250,3+1,Düz Giriş,Sobalı,2695000,Kayseri - Melikgazi - Kıranardı Mahallesi,Kayseri,4,Kıranardı Mahallesi
+11-15,8,2,Konut,135,3+1,5.Kat,Kombi Doğalgaz,1575000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+5-10,7,0,Konut,130,3+1,6.Kat,Merkezi Doğalgaz,1550000,Kayseri - Melikgazi - Keykubat Mahallesi,Kayseri,4,Keykubat Mahallesi
+0 (Yeni),11,0,Konut,130,3+1,2.Kat,Merkezi Doğalgaz,2250000,Kayseri - Kocasinan - Hoca Ahmet Yesevi Mahallesi,Kayseri,3,Hoca Ahmet Yesevi Mahallesi
+5-10,13,0,Konut,160,4+1,13.Kat,Merkezi (Pay Ölçer),3440000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+0 (Yeni),10,0,Konut,132,3+1,5.Kat,Merkezi Doğalgaz,1799000,Kayseri - Melikgazi - Anbar Mahallesi,Kayseri,4,Anbar Mahallesi
+5-10,14,0,Konut,165,4+1,5.Kat,Merkezi Doğalgaz,2990000,Kayseri - Kocasinan - Barbaros Mahallesi,Kayseri,3,Barbaros Mahallesi
+3,17,1,Konut,70,2+1,4.Kat,Merkezi Doğalgaz,1790000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+5-10,9,1,Konut,130,3+1,1.Kat,Merkezi Doğalgaz,1460000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+2,17,1,Konut,130,3+1,5.Kat,Merkezi Doğalgaz,2095000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+4,2,0,Konut,190,4.5+1,Bahçe Dublex,Kombi Doğalgaz,5150000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+4,14,0,Konut,183,4+1,13.Kat,Merkezi (Pay Ölçer),5750000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+0 (Yeni),14,0,Konut,135,3+1,2.Kat,Merkezi (Pay Ölçer),1970000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+4,3,0,Konut,250,8+1,Villa Tipi,Kombi Doğalgaz,12500000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+5-10,6,2,Konut,135,3+1,5.Kat,Merkezi (Pay Ölçer),1975000,Kayseri - Melikgazi - Kazımkarabekir Mahallesi,Kayseri,4,Kazımkarabekir Mahallesi
+21 Ve Üzeri,15,2,Konut,170,4+1,6.Kat,Merkezi (Pay Ölçer),2480000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+11-15,11,0,Konut,90,2.5+1,8.Kat,Merkezi Doğalgaz,1295000,Kayseri - Melikgazi - Kazımkarabekir Mahallesi,Kayseri,4,Kazımkarabekir Mahallesi
+4,10,1,Konut,115,2+1,6.Kat,Merkezi (Pay Ölçer),1275000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+5-10,12,2,Konut,145,3+1,9.Kat,Merkezi (Pay Ölçer),1325000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+5-10,11,0,Konut,90,2.5+1,8.Kat,Merkezi Doğalgaz,1295000,Kayseri - Melikgazi - Kazımkarabekir Mahallesi,Kayseri,4,Kazımkarabekir Mahallesi
+0 (Yeni),12,0,Konut,110,2+1,5.Kat,Merkezi (Pay Ölçer),300000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+11-15,10,0,Konut,125,3+1,9.Kat,Merkezi Doğalgaz,1190000,Kayseri - Melikgazi - Tınaztepe Mahallesi,Kayseri,4,Tınaztepe Mahallesi
+4,11,0,Konut,130,3+1,10.Kat,Merkezi Doğalgaz,1650000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+21 Ve Üzeri,4,2,Konut,135,3+1,4.Kat,Merkezi Doğalgaz,1350000,Kayseri - Melikgazi - Osman Kavuncu Mahallesi,Kayseri,4,Osman Kavuncu Mahallesi
+5-10,2,0,Konut,95,1 Oda,Düz Giriş,Isıtma Yok,1130000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+0 (Yeni),5,0,Konut,90,2+1,3.Kat,Merkezi (Pay Ölçer),1400000,Kayseri - Kocasinan - Oymaağaç Mahallesi,Kayseri,3,Oymaağaç Mahallesi
+16-20,15,2,Konut,110,3+1,14.Kat,Merkezi Doğalgaz,965000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+5-10,8,1,Konut,150,3+1,1.Kat,Merkezi Doğalgaz,1550000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+11-15,3,0,Konut,500,7+1,Villa Tipi,Kombi Doğalgaz,22750000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+5-10,12,2,Konut,180,3+1,11.Kat,Merkezi (Pay Ölçer),1550000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+0 (Yeni),3,0,Konut,270,6+2,Bahçe Dublex,Yerden Isıtma,15500000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),12,0,Konut,135,3+1,5.Kat,Merkezi Doğalgaz,1850000,Kayseri - Melikgazi - Mimarsinan Mahallesi,Kayseri,4,Mimarsinan Mahallesi
+21 Ve Üzeri,7,1,Konut,100,3+1,Yüksek Giriş,Kombi Doğalgaz,780000,Kayseri - Melikgazi - Tınaztepe Mahallesi,Kayseri,4,Tınaztepe Mahallesi
+0 (Yeni),9,0,Konut,85,2+1,4.Kat,Merkezi Doğalgaz,295000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+0 (Yeni),14,0,Konut,165,3+1,11.Kat,Merkezi Doğalgaz,1850000,Kayseri - Melikgazi - Tınaztepe Mahallesi,Kayseri,4,Tınaztepe Mahallesi
+0 (Yeni),9,0,Konut,80,2+1,4.Kat,Kombi Doğalgaz,1345000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+11-15,9,0,Konut,75,1+1,8.Kat,Kombi Doğalgaz,825000,Kayseri - Melikgazi - Selçuklu Mahallesi,Kayseri,4,Selçuklu Mahallesi
+5-10,10,1,Konut,145,3+1,3.Kat,Merkezi Doğalgaz,1800000,Kayseri - Melikgazi - Anbar Mahallesi,Kayseri,4,Anbar Mahallesi
+5-10,10,2,Konut,125,3+1,4.Kat,Merkezi Doğalgaz,1580000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+5-10,1,0,Konut,60,1.5+1,Villa Tipi,Güneş Enerjisi,2250000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),6,0,Konut,115,3+1,1.Kat,Kombi Doğalgaz,1700000,Kayseri - Melikgazi - Hürriyet Mahallesi,Kayseri,4,Hürriyet Mahallesi
+3,2,2,Konut,320,6+1,Düz Giriş,Kombi Doğalgaz,13750000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+16-20,10,2,Konut,170,3+1,2.Kat,Merkezi (Pay Ölçer),3050000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+5-10,14,1,Konut,100,2+1,11.Kat,Merkezi Doğalgaz,1470000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,11,2,Konut,150,3+1,6.Kat,Merkezi (Pay Ölçer),1530000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+5-10,12,2,Konut,150,3+1,9.Kat,Merkezi Doğalgaz,3500000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+16-20,8,1,Konut,80,3+1,2.Kat,Merkezi (Pay Ölçer),910000,Kayseri - Melikgazi - Anafartalar Mahallesi,Kayseri,4,Anafartalar Mahallesi
+16-20,15,1,Konut,100,3+1,5.Kat,Merkezi (Pay Ölçer),920000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+21 Ve Üzeri,2,2,Konut,150,3+1,Bahçe Katı,Sobalı,1725000,Kayseri - Kocasinan - Saraycık Mahallesi,Kayseri,3,Saraycık Mahallesi
+4,12,2,Konut,135,3+1,5.Kat,Merkezi Doğalgaz,1650000,Kayseri - Kocasinan - Erkilet Mahallesi,Kayseri,3,Erkilet Mahallesi
+21 Ve Üzeri,1,0,Konut,640,1+1,Düz Giriş,Sobalı,945000,Kayseri - Kocasinan - Saraycık Mahallesi,Kayseri,3,Saraycık Mahallesi
+2,6,2,Konut,135,3+1,6.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+3,3,2,Konut,200,9+ Oda,3.Kat,Kombi Doğalgaz,15000000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),3,0,Konut,185,5+1,Müstakil.Kat,Kombi Doğalgaz,6500000,Kayseri - Melikgazi - Eğribucak Mahallesi,Kayseri,4,Eğribucak Mahallesi
+0 (Yeni),9,0,Konut,145,3+1,2.Kat,Merkezi (Pay Ölçer),2550000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+5-10,9,1,Konut,130,3+1,8.Kat,Merkezi Doğalgaz,1350000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+3,4,0,Konut,200,4+1,4.Kat,Merkezi (Pay Ölçer),2350000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+1,14,0,Konut,100,2.5+1,8.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Kocasinan - Ziyagökalp Mahallesi,Kayseri,3,Ziyagökalp Mahallesi
+2,14,0,Konut,145,3.5+1,7.Kat,Merkezi (Pay Ölçer),2295000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+11-15,6,2,Konut,80,2+1,3.Kat,Kombi Doğalgaz,1065000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+5-10,8,1,Konut,135,3+1,7.Kat,Kombi Doğalgaz,1545000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+1,12,2,Konut,130,3+1,8.Kat,Merkezi (Pay Ölçer),1440000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+1,10,0,Konut,138,3+1,2.Kat,Merkezi (Pay Ölçer),1755000,Kayseri - Kocasinan - Hoca Ahmet Yesevi Mahallesi,Kayseri,3,Hoca Ahmet Yesevi Mahallesi
+0 (Yeni),14,0,Konut,260,4+1,2.Kat,Merkezi (Pay Ölçer),8500000,Kayseri - Melikgazi - Gültepe Mahallesi,Kayseri,4,Gültepe Mahallesi
+0 (Yeni),2,0,Konut,160,3.5+1,Villa Tipi,Kombi Doğalgaz,6750000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+11-15,9,0,Konut,130,3+1,8.Kat,Merkezi (Pay Ölçer),1250000,Kayseri - Melikgazi - Tınaztepe Mahallesi,Kayseri,4,Tınaztepe Mahallesi
+0 (Yeni),14,0,Konut,260,4+1,7.Kat,Merkezi (Pay Ölçer),9250000,Kayseri - Melikgazi - Gültepe Mahallesi,Kayseri,4,Gültepe Mahallesi
+0 (Yeni),12,0,Konut,240,5+1,5.Kat,Merkezi (Pay Ölçer),7500000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+5-10,9,1,Konut,135,3+1,3.Kat,Kombi Doğalgaz,1495000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+0 (Yeni),12,0,Konut,130,3+1,10.Kat,Merkezi (Pay Ölçer),850000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+21 Ve Üzeri,10,2,Konut,110,3+1,Düz Giriş,Kombi Doğalgaz,1175000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),10,0,Konut,125,3+1,8.Kat,Merkezi (Pay Ölçer),2050000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+1,11,0,Konut,135,3+1,8.Kat,Merkezi Doğalgaz,1525000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,8,2,Konut,140,3+1,8.Kat,Merkezi (Pay Ölçer),1675000,Kayseri - Kocasinan - Argıncık Mahallesi,Kayseri,3,Argıncık Mahallesi
+16-20,9,1,Konut,125,3+1,1.Kat,Merkezi Doğalgaz,1265000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+0 (Yeni),14,0,Konut,155,3+1,4.Kat,Merkezi (Pay Ölçer),2000000,Kayseri - Kocasinan - Cırgalan Mahallesi,Kayseri,3,Cırgalan Mahallesi
+4,4,1,Konut,95,2+1,4.Kat,Merkezi (Pay Ölçer),1199000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+21 Ve Üzeri,14,1,Konut,240,4+1,5.Kat,Merkezi Doğalgaz,3550000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+3,11,1,Konut,135,3+1,2.Kat,Merkezi (Pay Ölçer),2090000,Kayseri - Melikgazi - 19 Mayıs Mahallesi,Kayseri,4,19 Mayıs Mahallesi
+21 Ve Üzeri,2,2,Konut,140,4+1,Düz Giriş,Kombi Doğalgaz,2900000,Kayseri - Melikgazi - Hisarcık Mahallesi,Kayseri,4,Hisarcık Mahallesi
+21 Ve Üzeri,4,2,Konut,100,2+1,Düz Giriş,Kombi Doğalgaz,865000,Kayseri - Melikgazi - Aydınlıkevler Mahallesi,Kayseri,4,Aydınlıkevler Mahallesi
+4,2,0,Konut,200,3.5+1,Düz Giriş,Kombi Doğalgaz,7250000,Kayseri - Melikgazi - Eğribucak Mahallesi,Kayseri,4,Eğribucak Mahallesi
+16-20,12,1,Konut,130,3+1,1.Kat,Merkezi Doğalgaz,1349999,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+5-10,11,0,Konut,120,3+1,10.Kat,Merkezi (Pay Ölçer),1700000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+4,13,2,Konut,130,3+1,5.Kat,Merkezi (Pay Ölçer),2305000,Kayseri - Melikgazi - Yeniköy Mahallesi,Kayseri,4,Yeniköy Mahallesi
+0 (Yeni),7,0,Konut,90,2+1,7.Kat,Merkezi Doğalgaz,1325000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+3,12,0,Konut,110,3+1,10.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Melikgazi - Kazımkarabekir Mahallesi,Kayseri,4,Kazımkarabekir Mahallesi
+5-10,3,0,Konut,250,6+1,Düz Giriş,Kombi Doğalgaz,7000000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+5-10,3,1,Konut,480,2+1,Düz Giriş,Sobalı,2200000,Kayseri - Melikgazi - Selçuklu Mahallesi,Kayseri,4,Selçuklu Mahallesi
+16-20,3,2,Konut,125,3+1,3.Kat,Kombi Doğalgaz,1300000,Kayseri - Kocasinan - Fevzi Çakmak Mahallesi,Kayseri,3,Fevzi Çakmak Mahallesi
+11-15,11,2,Konut,145,3+1,7.Kat,Merkezi Doğalgaz,2950000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+5-10,12,0,Konut,130,3+1,8.Kat,Merkezi Fueloil,2410000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+0 (Yeni),10,0,Konut,115,2+1,4.Kat,Merkezi (Pay Ölçer),1425000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),10,0,Konut,75,2+1,1.Kat,Merkezi (Pay Ölçer),1300000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+5-10,7,0,Konut,130,3+1,7.Kat,Merkezi Doğalgaz,1290000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+21 Ve Üzeri,5,1,Konut,90,3+1,5.Kat,Kombi Doğalgaz,925000,Kayseri - Melikgazi - Yeniköy Mahallesi,Kayseri,4,Yeniköy Mahallesi
+5-10,8,0,Konut,140,3+1,2.Kat,Merkezi (Pay Ölçer),2625000,Kayseri - Kocasinan - Erciyesevler Mahallesi,Kayseri,3,Erciyesevler Mahallesi
+16-20,4,2,Konut,150,3+1,3.Kat,Kombi Doğalgaz,1275000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+4,14,2,Konut,200,4+1,14.Kat,Merkezi (Pay Ölçer),4350000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+21 Ve Üzeri,5,2,Konut,95,2+1,2.Kat,Kombi Doğalgaz,885000,Kayseri - Kocasinan - Yavuz Selim Mahallesi,Kayseri,3,Yavuz Selim Mahallesi
+0 (Yeni),12,0,Konut,125,3+1,8.Kat,Merkezi (Pay Ölçer),311000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+11-15,14,2,Konut,135,3+1,Düz Giriş,Merkezi Doğalgaz,1330000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+16-20,9,2,Konut,125,3+1,Düz Giriş,Merkezi Doğalgaz,1330000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+16-20,5,1,Konut,100,3+1,Düz Giriş,Merkezi Doğalgaz,940000,Kayseri - Melikgazi - Selimiye Mahallesi,Kayseri,4,Selimiye Mahallesi
+2,13,1,Konut,149,4+1,1.Kat,Merkezi (Pay Ölçer),2100000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+5-10,8,2,Konut,136,3+1,8.Kat,Kombi Doğalgaz,1450000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+3,9,1,Konut,70,2+1,2.Kat,Merkezi (Pay Ölçer),1315000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+21 Ve Üzeri,5,0,Konut,135,3+1,1.Kat,Kombi Doğalgaz,940000,Kayseri - Melikgazi - Tavlusun Mahallesi,Kayseri,4,Tavlusun Mahallesi
+11-15,8,1,Konut,75,2+1,Düz Giriş,Merkezi Doğalgaz,925000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+5-10,14,1,Konut,164,3+1,11.Kat,Merkezi (Pay Ölçer),1550000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+4,10,1,Konut,125,3+1,2.Kat,Merkezi Doğalgaz,1450000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),7,0,Konut,140,3+1,4.Kat,Merkezi (Pay Ölçer),1580000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+5-10,10,0,Konut,133,3+1,3.Kat,Merkezi Doğalgaz,2040000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+21 Ve Üzeri,3,1,Konut,60,2+1,1.Kat,Sobalı,750000,Kayseri - Kocasinan - Hacı Saki Mahallesi,Kayseri,3,Hacı Saki Mahallesi
+3,11,1,Konut,115,2+1,2.Kat,Merkezi Doğalgaz,1520000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+21 Ve Üzeri,3,1,Konut,100,3+1,1.Kat,Sobalı,850000,Kayseri - Kocasinan - Fevzi Çakmak Mahallesi,Kayseri,3,Fevzi Çakmak Mahallesi
+21 Ve Üzeri,8,1,Konut,80,3+1,2.Kat,Kombi Doğalgaz,900000,Kayseri - Melikgazi - Anafartalar Mahallesi,Kayseri,4,Anafartalar Mahallesi
+11-15,8,2,Konut,130,3+1,Yüksek Giriş,Kombi Doğalgaz,1145000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),12,0,Konut,125,3+1,10.Kat,Merkezi (Pay Ölçer),1400000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+5-10,14,0,Konut,240,4+1,12.Kat,Merkezi Doğalgaz,5250000,Kayseri - Kocasinan - Alsancak Mahallesi,Kayseri,3,Alsancak Mahallesi
+5-10,14,0,Konut,175,4+1,4.Kat,Merkezi (Pay Ölçer),4150000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+5-10,14,0,Konut,140,3+1,9.Kat,Merkezi (Pay Ölçer),1800000,Kayseri - Kocasinan - Ziyagökalp Mahallesi,Kayseri,3,Ziyagökalp Mahallesi
+5-10,3,2,Konut,130,3+1,2.Kat,Kombi Doğalgaz,1800000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+21 Ve Üzeri,9,2,Konut,105,3+1,Yüksek Giriş,Merkezi Doğalgaz,1200000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+3,14,1,Konut,130,3+1,8.Kat,Merkezi (Pay Ölçer),1365000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+4,12,2,Konut,185,4+1,4.Kat,Merkezi (Pay Ölçer),3000000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+0 (Yeni),3,0,Konut,359,7+2,Düz Giriş,Kombi Doğalgaz,6500000,Kayseri - Melikgazi - Sarımsaklı Mahallesi,Kayseri,4,Sarımsaklı Mahallesi
+5-10,2,0,Konut,140,1 Oda,Düz Giriş,Isıtma Yok,1950000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+5-10,2,0,Konut,140,1 Oda,Düz Giriş,Isıtma Yok,2150000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),10,0,Konut,85,2+1,3.Kat,Merkezi Doğalgaz,275000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+0 (Yeni),10,0,Konut,120,3+1,4.Kat,Merkezi Doğalgaz,400000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+5-10,12,0,Konut,175,4+1,1.Kat,Merkezi Doğalgaz,2590000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+2,14,1,Konut,145,3+1,3.Kat,Merkezi (Pay Ölçer),3400000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+0 (Yeni),14,0,Konut,125,3+1,3.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Kocasinan - Turgut Reis Mahallesi,Kayseri,3,Turgut Reis Mahallesi
+4,12,0,Konut,135,3+1,5.Kat,Merkezi (Pay Ölçer),1475000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+11-15,13,2,Konut,200,4+1,1.Kat,Merkezi Doğalgaz,4250000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+0 (Yeni),13,0,Konut,97,3+1,8.Kat,Merkezi (Pay Ölçer),1459000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+16-20,8,2,Konut,155,3+1,3.Kat,Kombi Doğalgaz,1515000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+11-15,8,0,Konut,145,3+1,8.Kat,Merkezi Doğalgaz,1300000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+0 (Yeni),10,0,Konut,120,3+1,8.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Melikgazi - Kılıçaslan Mahallesi,Kayseri,4,Kılıçaslan Mahallesi
+5-10,11,2,Konut,165,3+1,5.Kat,Merkezi Doğalgaz,1650000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+5-10,7,0,Konut,135,3+1,6.Kat,Kombi Doğalgaz,1440000,Kayseri - Melikgazi - Osmanlı Mahallesi,Kayseri,4,Osmanlı Mahallesi
+11-15,12,0,Konut,135,3+1,5.Kat,Kombi Doğalgaz,1595000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+0 (Yeni),14,0,Konut,90,2.5+1,2.Kat,Merkezi (Pay Ölçer),1890000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+21 Ve Üzeri,11,2,Konut,170,4+1,6.Kat,Merkezi (Pay Ölçer),2350000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+5-10,13,2,Konut,130,3+1,1.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Kocasinan - Yavuzlar Mahallesi,Kayseri,3,Yavuzlar Mahallesi
+4,6,1,Konut,135,3+1,6.Kat,Kombi Doğalgaz,1275000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+2,10,0,Konut,135,3+1,5.Kat,Merkezi (Pay Ölçer),1580000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),3,0,Konut,100,2.5+1,1.Kat,Kombi Doğalgaz,1250000,Kayseri - Kocasinan - General Emir Mahallesi,Kayseri,3,General Emir Mahallesi
+0 (Yeni),3,0,Konut,300,5+2,Bahçe Dublex,Kombi Doğalgaz,22000000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9050000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9050000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9050000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9100000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+2,14,2,Konut,240,5+1,12.Kat,Merkezi Doğalgaz,8700000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+0 (Yeni),2,0,Konut,210,4.5+1,Bahçe Dublex,Kombi Doğalgaz,6750000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+0 (Yeni),5,0,Konut,85,2+1,5.Kat,Kombi Doğalgaz,950000,Kayseri - Melikgazi - Mimarsinan Mahallesi,Kayseri,4,Mimarsinan Mahallesi
+11-15,14,2,Konut,130,3+1,5.Kat,Merkezi Doğalgaz,1875000,Kayseri - Melikgazi - Tacettin Veli Mahallesi,Kayseri,4,Tacettin Veli Mahallesi
+5-10,2,0,Konut,145,1 Oda,Düz Giriş,Isıtma Yok,1950000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+0 (Yeni),10,0,Konut,135,3+1,9.Kat,Merkezi Doğalgaz,2300000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+21 Ve Üzeri,11,2,Konut,180,4+1,6.Kat,Merkezi Doğalgaz,2350000,Kayseri - Kocasinan - Sümer Mahallesi,Kayseri,3,Sümer Mahallesi
+0 (Yeni),12,0,Konut,105,3+1,8.Kat,Merkezi Doğalgaz,2100000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+0 (Yeni),14,0,Konut,140,4+1,6.Kat,Merkezi (Pay Ölçer),1875000,Kayseri - Kocasinan - Yunusemre Mahallesi,Kayseri,3,Yunusemre Mahallesi
+0 (Yeni),11,0,Konut,155,3+1,2.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Melikgazi - Tınaztepe Mahallesi,Kayseri,4,Tınaztepe Mahallesi
+0 (Yeni),12,0,Konut,100,3+0,4.Kat,Merkezi (Pay Ölçer),1680000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+0 (Yeni),15,0,Konut,140,3+1,4.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,12,1,Konut,155,3+1,6.Kat,Merkezi Doğalgaz,2525000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+21 Ve Üzeri,3,2,Konut,120,3+1,1.Kat,Kombi Doğalgaz,890000,Kayseri - Kocasinan - Mimarsinan Mahallesi,Kayseri,3,Mimarsinan Mahallesi
+21 Ve Üzeri,3,1,Konut,90,2+1,Tam Bodrum.Kat,Kombi Doğalgaz,515000,Kayseri - Kocasinan - Fevzi Çakmak Mahallesi,Kayseri,3,Fevzi Çakmak Mahallesi
+0 (Yeni),13,0,Konut,130,3+1,5.Kat,Merkezi Doğalgaz,1650000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+11-15,10,0,Konut,135,3+1,5.Kat,Kombi Doğalgaz,1590000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+5-10,11,0,Konut,150,3+1,7.Kat,Kombi Doğalgaz,1645000,Kayseri - Melikgazi - Tacettin Veli Mahallesi,Kayseri,4,Tacettin Veli Mahallesi
+16-20,1,2,Konut,150,3+1,Düz Giriş,Sobalı,2150000,Kayseri - Kocasinan - Kayabaşı Mahallesi,Kayseri,3,Kayabaşı Mahallesi
+4,12,1,Konut,120,3+1,3.Kat,Merkezi Doğalgaz,965000,Kayseri - Kocasinan - Yavuzlar Mahallesi,Kayseri,3,Yavuzlar Mahallesi
+0 (Yeni),9,0,Konut,105,2.5+1,4.Kat,Merkezi (Pay Ölçer),1350000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+5-10,14,1,Konut,155,3+1,7.Kat,Merkezi (Pay Ölçer),1920000,Kayseri - Kocasinan - Yenidoğan Mahallesi,Kayseri,3,Yenidoğan Mahallesi
+3,7,1,Konut,115,3+1,2.Kat,Kombi Doğalgaz,1750000,Kayseri - Melikgazi - Gülük Mahallesi,Kayseri,4,Gülük Mahallesi
+0 (Yeni),7,0,Konut,130,3+1,3.Kat,Kombi Doğalgaz,1950000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+5-10,6,2,Konut,85,2+1,2.Kat,Merkezi Doğalgaz,1050000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+5-10,14,1,Konut,155,3+1,6.Kat,Merkezi Doğalgaz,1850000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+5-10,14,0,Konut,175,4+1,4.Kat,Merkezi (Pay Ölçer),3500000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+0 (Yeni),14,0,Konut,260,4+1,14.Kat,Merkezi (Pay Ölçer),8500000,Kayseri - Melikgazi - Gültepe Mahallesi,Kayseri,4,Gültepe Mahallesi
+0 (Yeni),5,0,Konut,130,3+1,4.Kat,Kombi Doğalgaz,1650000,Kayseri - Kocasinan - General Emir Mahallesi,Kayseri,3,General Emir Mahallesi
+5-10,2,0,Konut,140,1 Oda,Düz Giriş,Isıtma Yok,1995000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+21 Ve Üzeri,9,1,Konut,140,3+1,6.Kat,Merkezi Doğalgaz,1595000,Kayseri - Kocasinan - Erciyesevler Mahallesi,Kayseri,3,Erciyesevler Mahallesi
+5-10,2,0,Konut,150,1 Oda,Düz Giriş,Isıtma Yok,2150000,Kayseri - Melikgazi - Osmanlı Mahallesi,Kayseri,4,Osmanlı Mahallesi
+0 (Yeni),13,0,Konut,145,4+1,1.Kat,Merkezi (Pay Ölçer),3250000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+0 (Yeni),14,0,Konut,125,3+1,2.Kat,Merkezi (Pay Ölçer),3750000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+0 (Yeni),13,0,Konut,145,4+1,1.Kat,Merkezi (Pay Ölçer),3300000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+0 (Yeni),14,0,Konut,160,4+1,1.Kat,Merkezi (Pay Ölçer),4950000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+0 (Yeni),12,0,Konut,135,4+1,10.Kat,Merkezi (Pay Ölçer),3950000,Kayseri - Kocasinan - Alsancak Mahallesi,Kayseri,3,Alsancak Mahallesi
+0 (Yeni),2,0,Konut,300,6+1,Düz Giriş,Yerden Isıtma,25500000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),14,0,Konut,125,3+1,1.Kat,Merkezi (Pay Ölçer),3350000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+21 Ve Üzeri,7,1,Konut,110,2+1,7.Kat,Merkezi Doğalgaz,850000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+11-15,5,2,Konut,119,3+1,3.Kat,Kombi Doğalgaz,930000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+5-10,14,2,Konut,135,3+1,1.Kat,Kombi Doğalgaz,1780000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+5-10,12,1,Konut,162,3+1,10.Kat,Merkezi Doğalgaz,1975000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+11-15,10,2,Konut,140,3+1,4.Kat,Merkezi Doğalgaz,1250000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+5-10,12,0,Konut,140,3+1,2.Kat,Merkezi (Pay Ölçer),2275000,Kayseri - Melikgazi - Sakarya Mahallesi,Kayseri,4,Sakarya Mahallesi
+16-20,4,2,Konut,130,3+1,4.Kat,Kombi Doğalgaz,1350000,Kayseri - Kocasinan - Yenidoğan Mahallesi,Kayseri,3,Yenidoğan Mahallesi
+16-20,12,2,Konut,220,4+1,4.Kat,Merkezi Doğalgaz,2489000,Kayseri - Kocasinan - Erciyesevler Mahallesi,Kayseri,3,Erciyesevler Mahallesi
+0 (Yeni),3,0,Konut,350,8+1,Düz Giriş,Kombi Doğalgaz,4850000,Kayseri - Kocasinan - Buğdaylı Mahallesi,Kayseri,3,Buğdaylı Mahallesi
+0 (Yeni),2,0,Konut,200,4+1,Düz Giriş,Yerden Isıtma,14550000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),14,0,Konut,155,4+1,1.Kat,Merkezi (Pay Ölçer),2600000,Kayseri - Kocasinan - Alsancak Mahallesi,Kayseri,3,Alsancak Mahallesi
+0 (Yeni),14,0,Konut,140,3+1,2.Kat,Merkezi (Pay Ölçer),2240000,Kayseri - Kocasinan - Seyrani Mahallesi,Kayseri,3,Seyrani Mahallesi
+16-20,3,1,Konut,120,3+1,1.Kat,Kombi Doğalgaz,1100000,Kayseri - Kocasinan - Fevzi Çakmak Mahallesi,Kayseri,3,Fevzi Çakmak Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9050000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9000000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+21 Ve Üzeri,3,1,Konut,130,3+1,3.Kat,Kombi Doğalgaz,1250000,Kayseri - Melikgazi - Keykubat Mahallesi,Kayseri,4,Keykubat Mahallesi
+21 Ve Üzeri,8,1,Konut,190,3+1,1.Kat,Merkezi Doğalgaz,1749000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+0 (Yeni),2,0,Konut,220,4+1,Düz Giriş,Kombi Doğalgaz,5950000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+16-20,7,1,Konut,110,3+1,5.Kat,Kombi Doğalgaz,1365000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+0 (Yeni),8,0,Konut,140,4+1,4.Kat,Merkezi Doğalgaz,3300000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+21 Ve Üzeri,9,2,Konut,105,3+1,Yüksek Giriş,Merkezi Doğalgaz,1200000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+16-20,1,1,Konut,200,5+0,Düz Giriş,Sobalı,3400000,Kayseri - Kocasinan - Kızık Mahallesi,Kayseri,3,Kızık Mahallesi
+5-10,10,1,Konut,130,3+1,1.Kat,Merkezi Doğalgaz,1185000,Kayseri - Melikgazi - Germir Mahallesi,Kayseri,4,Germir Mahallesi
+5-10,12,0,Konut,319,5+3,12.Kat,Merkezi (Pay Ölçer),4700000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+11-15,14,1,Konut,135,3+1,2.Kat,Kombi Doğalgaz,1400000,Kayseri - Melikgazi - 30 Ağustos Mahallesi,Kayseri,4,30 Ağustos Mahallesi
+11-15,14,1,Konut,130,3+1,2.Kat,Kombi Doğalgaz,1400000,Kayseri - Melikgazi - 30 Ağustos Mahallesi,Kayseri,4,30 Ağustos Mahallesi
+11-15,8,2,Konut,125,3+1,4.Kat,Merkezi Doğalgaz,1455000,Kayseri - Melikgazi - Kocatepe Mahallesi,Kayseri,4,Kocatepe Mahallesi
+21 Ve Üzeri,3,1,Konut,125,3+1,3.Kat,Sobalı,1315000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+5-10,10,2,Konut,100,2+1,1.Kat,Merkezi (Pay Ölçer),1120000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+5-10,14,2,Konut,170,4+1,13.Kat,Merkezi (Pay Ölçer),4150000,Kayseri - Melikgazi - Gültepe Mahallesi,Kayseri,4,Gültepe Mahallesi
+0 (Yeni),2,0,Konut,200,4+1,Düz Giriş,Kombi Doğalgaz,7000000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),14,0,Konut,135,3.5+1,2.Kat,Merkezi (Pay Ölçer),2050000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+0 (Yeni),7,1,Konut,145,3+1,4.Kat,Merkezi (Pay Ölçer),1500000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+0 (Yeni),8,0,Konut,155,4+1,4.Kat,Merkezi (Pay Ölçer),1920000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+0 (Yeni),14,0,Konut,155,3+1,1.Kat,Merkezi Doğalgaz,1750000,Kayseri - Melikgazi - Esentepe Mahallesi,Kayseri,4,Esentepe Mahallesi
+0 (Yeni),4,0,Konut,120,3+1,3.Kat,Merkezi (Pay Ölçer),1575000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+5-10,4,0,Konut,500,6+1,Düz Giriş,Yerden Isıtma,18250000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+5-10,15,0,Konut,165,3+1,5.Kat,Merkezi Doğalgaz,1850000,Kayseri - Melikgazi - Tacettin Veli Mahallesi,Kayseri,4,Tacettin Veli Mahallesi
+5-10,15,2,Konut,155,3+1,1.Kat,Kombi Doğalgaz,1472000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),10,0,Konut,115,2+1,5.Kat,Kombi Doğalgaz,300000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+5-10,13,0,Konut,160,3+1,4.Kat,Merkezi (Pay Ölçer),1640000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+21 Ve Üzeri,1,2,Konut,200,3+1,Düz Giriş,Isıtma Yok,19500000,Kayseri - Melikgazi - Hisarcık Mahallesi,Kayseri,4,Hisarcık Mahallesi
+21 Ve Üzeri,1,2,Konut,200,3+1,Düz Giriş,Isıtma Yok,28500000,Kayseri - Melikgazi - Hisarcık Mahallesi,Kayseri,4,Hisarcık Mahallesi
+4,4,1,Konut,124,3+1,1.Kat,Merkezi (Pay Ölçer),1410000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+21 Ve Üzeri,3,0,Konut,290,6+1,Müstakil.Kat,Sobalı,5100000,Kayseri - Kocasinan - Saraycık Mahallesi,Kayseri,3,Saraycık Mahallesi
+2,12,1,Konut,135,3+1,6.Kat,Merkezi (Pay Ölçer),1570000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+5-10,8,1,Konut,190,4+1,8.Kat,Yerden Isıtma,2325000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+2,14,1,Konut,145,3.5+1,1.Kat,Merkezi (Pay Ölçer),1510000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),6,0,Konut,135,3+1,3.Kat,Kombi Doğalgaz,1850000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+16-20,4,1,Konut,100,3+1,2.Kat,Kombi Doğalgaz,995000,Kayseri - Melikgazi - Tınaztepe Mahallesi,Kayseri,4,Tınaztepe Mahallesi
+0 (Yeni),13,0,Konut,160,4+1,8.Kat,Merkezi (Pay Ölçer),2450000,Kayseri - Kocasinan - Seyrani Mahallesi,Kayseri,3,Seyrani Mahallesi
+0 (Yeni),2,0,Konut,150,4+1,Düz Giriş,Kombi Doğalgaz,6100000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),13,0,Konut,130,3+1,1.Kat,Merkezi (Pay Ölçer),1700000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+16-20,1,1,Konut,428,3+1,Düz Giriş,Sobalı,1700000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+2,2,2,Konut,200,5+1,Düz Giriş,Kombi Doğalgaz,6799000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+5-10,2,2,Konut,190,3+2,Düz Giriş,Kombi Doğalgaz,7750000,Kayseri - Melikgazi - Eğribucak Mahallesi,Kayseri,4,Eğribucak Mahallesi
+0 (Yeni),14,0,Konut,130,4+1,5.Kat,Merkezi (Pay Ölçer),600000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),14,0,Konut,175,4.5+1,2.Kat,Merkezi (Pay Ölçer),4250000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+0 (Yeni),1,0,Konut,180,4+1,Düz Giriş,Kombi Doğalgaz,5800000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+21 Ve Üzeri,3,0,Konut,80,3+1,Tam Bodrum.Kat,Sobalı,580000,Kayseri - Kocasinan - Mimarsinan Mahallesi,Kayseri,3,Mimarsinan Mahallesi
+0 (Yeni),6,0,Konut,125,3+1,1.Kat,Kombi Doğalgaz,1499000,Kayseri - Kocasinan - General Emir Mahallesi,Kayseri,3,General Emir Mahallesi
+11-15,9,2,Konut,110,3+1,5.Kat,Merkezi (Pay Ölçer),1275000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),12,0,Konut,125,3+1,1.Kat,Merkezi (Pay Ölçer),1800000,Kayseri - Kocasinan - Seyrani Mahallesi,Kayseri,3,Seyrani Mahallesi
+21 Ve Üzeri,4,1,Konut,100,3+1,2.Kat,Kombi Doğalgaz,1750000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+21 Ve Üzeri,8,1,Konut,145,3+1,5.Kat,Merkezi Doğalgaz,1850000,Kayseri - Kocasinan - Erciyesevler Mahallesi,Kayseri,3,Erciyesevler Mahallesi
+0 (Yeni),14,0,Konut,140,3+1,6.Kat,Merkezi (Pay Ölçer),1700000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+5-10,11,1,Konut,135,3+1,1.Kat,Merkezi (Pay Ölçer),1695000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+16-20,14,0,Konut,220,4+1,6.Kat,Kombi Doğalgaz,3350000,Kayseri - Melikgazi - Gültepe Mahallesi,Kayseri,4,Gültepe Mahallesi
+0 (Yeni),10,0,Konut,130,2.5+1,6.Kat,Merkezi Doğalgaz,1065000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+16-20,5,2,Konut,110,2+1,5.Kat,Sobalı,660000,Kayseri - Kocasinan - Sanayi Mahallesi,Kayseri,3,Sanayi Mahallesi
+2,16,0,Konut,90,2+1,4.Kat,Merkezi (Pay Ölçer),1395000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+5-10,12,2,Konut,110,3+1,12.Kat,Merkezi Doğalgaz,1950000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+4,14,0,Konut,130,3+1,11.Kat,Merkezi (Pay Ölçer),1640000,Kayseri - Kocasinan - Yavuzlar Mahallesi,Kayseri,3,Yavuzlar Mahallesi
+0 (Yeni),2,0,Konut,100,3+1,Düz Giriş,Sobalı,2400000,Kayseri - Kocasinan - Buğdaylı Mahallesi,Kayseri,3,Buğdaylı Mahallesi
+0 (Yeni),2,0,Konut,130,4+1,Düz Giriş,Kombi Doğalgaz,8600000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),6,0,Konut,130,3+1,Yüksek Giriş,Kombi Doğalgaz,1100000,Kayseri - Melikgazi - Fatih Mahallesi,Kayseri,4,Fatih Mahallesi
+21 Ve Üzeri,12,0,Konut,135,3+1,4.Kat,Yerden Isıtma,1500000,Kayseri - Melikgazi - 30 Ağustos Mahallesi,Kayseri,4,30 Ağustos Mahallesi
+16-20,8,2,Konut,110,3+1,6.Kat,Kombi Doğalgaz,1150000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+0 (Yeni),10,0,Konut,85,2+1,9.Kat,Merkezi Doğalgaz,300000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+5-10,6,0,Konut,130,3+1,1.Kat,Kombi Doğalgaz,1350000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+5-10,3,0,Konut,329,1 Oda,,Isıtma Yok,1820000,Kayseri - Melikgazi - Danişmend Gazi Mahallesi,Kayseri,4,Danişmend Gazi Mahallesi
+0 (Yeni),10,0,Konut,135,3+1,1.Kat,Merkezi Doğalgaz,1800000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+0 (Yeni),12,0,Konut,190,4+1,4.Kat,Merkezi (Pay Ölçer),2500000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+0 (Yeni),8,0,Konut,110,3+1,1.Kat,Kombi Doğalgaz,1850000,Kayseri - Kocasinan - Yavuzlar Mahallesi,Kayseri,3,Yavuzlar Mahallesi
+5-10,3,2,Konut,65,2+1,2.Kat,Merkezi (Pay Ölçer),820000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),13,0,Konut,95,2+1,12.Kat,Merkezi (Pay Ölçer),1400000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),8,0,Konut,145,3+1,Çatı Katı,Merkezi Doğalgaz,1670000,Kayseri - Melikgazi - Gökkent Mahallesi,Kayseri,4,Gökkent Mahallesi
+0 (Yeni),14,0,Konut,130,3+1,12.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+5-10,3,0,Konut,50,1+1,2.Kat,Kombi Doğalgaz,649000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+3,14,0,Konut,180,3+1,7.Kat,Merkezi Doğalgaz,1800000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,13,0,Konut,315,6+2,13.Kat,Yerden Isıtma,5950000,Kayseri - Melikgazi - Germir Mahallesi,Kayseri,4,Germir Mahallesi
+0 (Yeni),14,0,Konut,153,4+1,2.Kat,Merkezi (Pay Ölçer),3699000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+4,8,2,Konut,140,3+1,7.Kat,Merkezi (Pay Ölçer),1350000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+11-15,4,2,Konut,440,2+1,Bahçe Dublex,Kombi Doğalgaz,3150000,Kayseri - Melikgazi - Danişmend Gazi Mahallesi,Kayseri,4,Danişmend Gazi Mahallesi
+5-10,13,1,Konut,230,4+1,11.Kat,Merkezi Doğalgaz,7600000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+5-10,11,0,Konut,200,5+2,11.Kat,Kombi Doğalgaz,2350000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+0 (Yeni),10,0,Konut,140,3+2,2.Kat,Merkezi (Pay Ölçer),2090000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+5-10,4,0,Konut,380,9+ Oda,Bahçe Katı,Kombi Doğalgaz,16900000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+5-10,13,2,Konut,150,3+1,11.Kat,Merkezi (Pay Ölçer),1535000,Kayseri - Melikgazi - Tacettin Veli Mahallesi,Kayseri,4,Tacettin Veli Mahallesi
+4,6,0,Konut,85,2+1,4.Kat,Merkezi (Pay Ölçer),1250000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+0 (Yeni),7,0,Konut,145,3+1,6.Kat,Merkezi Doğalgaz,1850000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+0 (Yeni),11,0,Konut,140,3+1,10.Kat,Merkezi Doğalgaz,1575000,Kayseri - Melikgazi - Esentepe Mahallesi,Kayseri,4,Esentepe Mahallesi
+5-10,14,2,Konut,145,3+1,6.Kat,Merkezi Doğalgaz,1900000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+11-15,9,0,Konut,116,3+1,9.Kat,Kombi Doğalgaz,1150000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),12,0,Konut,125,3+1,6.Kat,Merkezi (Pay Ölçer),415000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+0 (Yeni),12,0,Konut,95,2+1,5.Kat,Merkezi Doğalgaz,300000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+21 Ve Üzeri,2,0,Konut,300,3+1,Bahçe Katı,Sobalı,1600000,Kayseri - Melikgazi - Hürriyet Mahallesi,Kayseri,4,Hürriyet Mahallesi
+0 (Yeni),3,0,Konut,350,3+1,Düz Giriş,Kombi Doğalgaz,22500000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),14,0,Konut,118,3+1,5.Kat,Merkezi Doğalgaz,205000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),3,0,Konut,260,5+1,Düz Giriş,Kombi Doğalgaz,14500000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),3,0,Konut,216,5+1,Düz Giriş,Kombi Doğalgaz,5750000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+1,11,1,Konut,140,3+1,1.Kat,Merkezi (Pay Ölçer),3490000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+0 (Yeni),3,0,Konut,280,7+1,Düz Giriş,Yerden Isıtma,18500000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),9,0,Konut,110,3+1,3.Kat,Merkezi (Pay Ölçer),1675000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+16-20,3,0,Konut,55,1+1,Düz Giriş,Kombi Doğalgaz,675000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+21 Ve Üzeri,8,0,Konut,135,3+1,1.Kat,Merkezi Doğalgaz,1449000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+21 Ve Üzeri,8,0,Konut,135,3+1,1.Kat,Merkezi Doğalgaz,1149000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+21 Ve Üzeri,3,0,Konut,120,2+1,2.Kat,Kombi Doğalgaz,920000,Kayseri - Kocasinan - Mimarsinan Mahallesi,Kayseri,3,Mimarsinan Mahallesi
+21 Ve Üzeri,10,0,Konut,240,4+1,6.Kat,Merkezi (Pay Ölçer),4350000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9100000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),14,0,Konut,175,4+1,3.Kat,Merkezi (Pay Ölçer),2350000,Kayseri - Kocasinan - Saray Bosna Mahallesi,Kayseri,3,Saray Bosna Mahallesi
+0 (Yeni),12,0,Konut,175,4+1,5.Kat,Merkezi (Pay Ölçer),3400000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),9,0,Konut,125,3+1,5.Kat,Merkezi (Pay Ölçer),1675000,Kayseri - Kocasinan - Erkilet Mahallesi,Kayseri,3,Erkilet Mahallesi
+5-10,12,0,Konut,130,3+1,7.Kat,Merkezi Doğalgaz,1570000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),10,0,Konut,85,2+1,7.Kat,Merkezi Doğalgaz,300000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+16-20,11,0,Konut,135,3+1,9.Kat,Merkezi Doğalgaz,1270000,Kayseri - Melikgazi - 19 Mayıs Mahallesi,Kayseri,4,19 Mayıs Mahallesi
+5-10,5,0,Konut,250,4+1,Villa Tipi,Merkezi Doğalgaz,2350000,Kayseri - Melikgazi - Germir Mahallesi,Kayseri,4,Germir Mahallesi
+5-10,11,0,Konut,220,4.5+1,11.Kat,Merkezi (Pay Ölçer),5250000,Kayseri - Kocasinan - Erciyesevler Mahallesi,Kayseri,3,Erciyesevler Mahallesi
+1,14,0,Konut,95,2+1,7.Kat,Merkezi Doğalgaz,1450000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+5-10,13,1,Konut,145,3+1,8.Kat,Merkezi Doğalgaz,1950000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+21 Ve Üzeri,5,1,Konut,140,3+1,4.Kat,Kombi Doğalgaz,1400000,Kayseri - Kocasinan - Fevzi Çakmak Mahallesi,Kayseri,3,Fevzi Çakmak Mahallesi
+0 (Yeni),3,0,Konut,289,6+1,Düz Giriş,Kombi Doğalgaz,10500000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+5-10,2,2,Konut,280,4+1,Düz Giriş,Sobalı,12850000,Kayseri - Melikgazi - Eğribucak Mahallesi,Kayseri,4,Eğribucak Mahallesi
+4,1,2,Konut,80,2+1,Düz Giriş,Sobalı,2250000,Kayseri - Melikgazi - Kazımkarabekir Mahallesi,Kayseri,4,Kazımkarabekir Mahallesi
+0 (Yeni),12,0,Konut,145,4+1,7.Kat,Merkezi (Pay Ölçer),3700000,Kayseri - Kocasinan - Alsancak Mahallesi,Kayseri,3,Alsancak Mahallesi
+3,4,2,Konut,210,4+1,Yüksek Giriş,Merkezi Doğalgaz,2200000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+3,5,2,Konut,85,2+1,3.Kat,Merkezi Doğalgaz,1010000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+16-20,12,0,Konut,130,3+1,8.Kat,Merkezi Doğalgaz,1300000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+11-15,12,0,Konut,130,3+1,7.Kat,Kombi Doğalgaz,1380000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+16-20,9,1,Konut,100,3+1,5.Kat,Merkezi Doğalgaz,1300000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+16-20,3,0,Konut,90,2+1,3.Kat,Doğalgaz Sobalı,775000,Kayseri - Melikgazi - Aydınlıkevler Mahallesi,Kayseri,4,Aydınlıkevler Mahallesi
+0 (Yeni),10,0,Konut,185,3+1,9.Kat,Merkezi (Pay Ölçer),2400000,Kayseri - Kocasinan - Hoca Ahmet Yesevi Mahallesi,Kayseri,3,Hoca Ahmet Yesevi Mahallesi
+0 (Yeni),12,0,Konut,129,3+1,6.Kat,Merkezi (Pay Ölçer),2080000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+11-15,12,0,Konut,130,3+1,4.Kat,Merkezi (Pay Ölçer),1500000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+11-15,13,0,Konut,138,3+1,7.Kat,Merkezi (Pay Ölçer),2300000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+0 (Yeni),2,0,Konut,190,5+1,Villa Tipi,Kombi Doğalgaz,11000000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+3,10,0,Konut,175,4+1,1.Kat,Merkezi (Pay Ölçer),2590000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+0 (Yeni),10,0,Konut,75,2+1,2.Kat,Kat Kaloriferi,1525000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+2,15,1,Konut,105,3+1,6.Kat,Kat Kaloriferi,1650000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,15,0,Konut,130,3+1,4.Kat,Kat Kaloriferi,1750000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+2,17,0,Konut,106,2+1,9.Kat,Merkezi (Pay Ölçer),2100000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+16-20,10,1,Konut,140,3+1,7.Kat,Merkezi Doğalgaz,1500000,Kayseri - Melikgazi - Tacettin Veli Mahallesi,Kayseri,4,Tacettin Veli Mahallesi
+0 (Yeni),10,0,Konut,145,3+1,2.Kat,Merkezi Doğalgaz,1350000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+0 (Yeni),12,0,Konut,120,3+1,4.Kat,Merkezi Doğalgaz,305000,Kayseri - Melikgazi - Tavlusun Mahallesi,Kayseri,4,Tavlusun Mahallesi
+0 (Yeni),12,0,Konut,120,3+1,4.Kat,Merkezi Doğalgaz,375000,Kayseri - Kocasinan - Yavuz Selim Mahallesi,Kayseri,3,Yavuz Selim Mahallesi
+0 (Yeni),12,0,Konut,120,3+1,5.Kat,Merkezi Doğalgaz,375000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),13,0,Konut,128,3+1,3.Kat,Merkezi (Pay Ölçer),2200000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+0 (Yeni),12,0,Konut,110,2+1,4.Kat,Merkezi Doğalgaz,260000,Kayseri - Melikgazi - Tavlusun Mahallesi,Kayseri,4,Tavlusun Mahallesi
+0 (Yeni),12,0,Konut,110,2+1,4.Kat,Merkezi Doğalgaz,276000,Kayseri - Kocasinan - Yavuz Selim Mahallesi,Kayseri,3,Yavuz Selim Mahallesi
+0 (Yeni),12,0,Konut,100,2+1,6.Kat,Merkezi Doğalgaz,275000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),14,0,Konut,112,3+1,4.Kat,Merkezi Doğalgaz,395000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,5,2,Konut,190,4+1,1.Kat,Kombi Doğalgaz,2150000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+0 (Yeni),7,0,Konut,135,3.5+1,4.Kat,Merkezi (Pay Ölçer),1840000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+21 Ve Üzeri,9,1,Konut,130,3+1,Yüksek Giriş,Merkezi Doğalgaz,1000000,Kayseri - Melikgazi - Kocatepe Mahallesi,Kayseri,4,Kocatepe Mahallesi
+5-10,13,1,Konut,135,3+1,8.Kat,Merkezi Doğalgaz,1475000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+16-20,4,2,Konut,150,3+1,2.Kat,Kombi Doğalgaz,1179000,Kayseri - Kocasinan - Barbaros Mahallesi,Kayseri,3,Barbaros Mahallesi
+1,9,0,Konut,135,3+1,1.Kat,Merkezi (Pay Ölçer),1470000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+4,13,2,Konut,155,3+1,5.Kat,Merkezi (Pay Ölçer),1999000,Kayseri - Melikgazi - Sakarya Mahallesi,Kayseri,4,Sakarya Mahallesi
+11-15,7,0,Konut,80,3+1,6.Kat,Kombi Doğalgaz,845000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+5-10,2,2,Konut,120,3+1,Bahçe Katı,Merkezi Doğalgaz,1970000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+5-10,3,0,Konut,110,2+1,Bahçe Dublex,Merkezi Doğalgaz,3250000,Kayseri - Melikgazi - Danişmend Gazi Mahallesi,Kayseri,4,Danişmend Gazi Mahallesi
+0 (Yeni),14,0,Konut,90,2+1,5.Kat,Merkezi Doğalgaz,290000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),10,0,Konut,85,2+1,1.Kat,Merkezi Doğalgaz,295000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+5-10,12,1,Konut,200,4+1,7.Kat,Merkezi Doğalgaz,3550000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+5-10,3,0,Konut,60,1+1,3.Kat,Kombi Doğalgaz,680000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+21 Ve Üzeri,5,1,Konut,80,2+1,Bahçe Katı,Kombi Doğalgaz,660000,Kayseri - Kocasinan - Mevlana Mahallesi,Kayseri,3,Mevlana Mahallesi
+11-15,11,1,Konut,135,3+1,2.Kat,Merkezi Doğalgaz,1120000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+5-10,12,1,Konut,145,3+1,8.Kat,Merkezi Doğalgaz,1795000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,11,0,Konut,135,3+1,4.Kat,Merkezi Doğalgaz,1745000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+5-10,12,0,Konut,140,3+1,1.Kat,Merkezi Doğalgaz,2230000,Kayseri - Kocasinan - Hoca Ahmet Yesevi Mahallesi,Kayseri,3,Hoca Ahmet Yesevi Mahallesi
+0 (Yeni),12,0,Konut,135,4+1,6.Kat,Merkezi Doğalgaz,625000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,10,0,Konut,140,3+1,1.Kat,Merkezi Doğalgaz,2230000,Kayseri - Kocasinan - Hoca Ahmet Yesevi Mahallesi,Kayseri,3,Hoca Ahmet Yesevi Mahallesi
+0 (Yeni),5,0,Konut,123,3+1,1.Kat,Kombi Doğalgaz,1850000,Kayseri - Kocasinan - Yavuz Selim Mahallesi,Kayseri,3,Yavuz Selim Mahallesi
+0 (Yeni),5,0,Konut,88,2+1,Düz Giriş,Merkezi Doğalgaz,1315000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+5-10,10,0,Konut,170,4+1,6.Kat,Merkezi (Pay Ölçer),5250000,Kayseri - Kocasinan - Erciyesevler Mahallesi,Kayseri,3,Erciyesevler Mahallesi
+4,6,1,Konut,85,2+1,Yüksek Giriş,Merkezi (Pay Ölçer),1150000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+5-10,11,1,Konut,135,3+1,4.Kat,Merkezi Doğalgaz,1550000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),5,0,Konut,87,2+1,1.Kat,Merkezi Doğalgaz,950000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+0 (Yeni),12,0,Konut,120,3+1,6.Kat,Merkezi (Pay Ölçer),585000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+0 (Yeni),12,0,Konut,120,3+1,2.Kat,Merkezi (Pay Ölçer),340000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+0 (Yeni),15,0,Konut,70,2+1,7.Kat,Merkezi (Pay Ölçer),1795000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+5-10,12,0,Konut,135,3+1,7.Kat,Merkezi (Pay Ölçer),2000000,Kayseri - Melikgazi - Hürriyet Mahallesi,Kayseri,4,Hürriyet Mahallesi
+3,3,1,Konut,65,1+1,1.Kat,Kombi Doğalgaz,1095000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+11-15,8,2,Konut,132,3+1,1.Kat,Kombi Doğalgaz,1200000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+5-10,5,1,Konut,65,2+1,1.Kat,Merkezi (Pay Ölçer),784000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),2,0,Konut,198,4.5+1,Bahçe Dublex,Kombi Doğalgaz,6750000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+0 (Yeni),2,0,Konut,75,2+1,2.Kat,Kombi Doğalgaz,1750000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+0 (Yeni),10,0,Konut,75,2+1,2.Kat,Merkezi (Pay Ölçer),1525000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+5-10,11,0,Konut,140,3+1,1.Kat,Kombi Doğalgaz,2230000,Kayseri - Kocasinan - Seyrani Mahallesi,Kayseri,3,Seyrani Mahallesi
+0 (Yeni),14,0,Konut,135,3+1,13.Kat,Merkezi (Pay Ölçer),1575000,Kayseri - Kocasinan - Saray Bosna Mahallesi,Kayseri,3,Saray Bosna Mahallesi
+0 (Yeni),5,0,Konut,85,2+1,Kot 1 (-1).Kat,Merkezi (Pay Ölçer),1150000,Kayseri - Melikgazi - Tavlusun Mahallesi,Kayseri,4,Tavlusun Mahallesi
+5-10,12,2,Konut,120,3+1,8.Kat,Merkezi (Pay Ölçer),1450000,Kayseri - Melikgazi - 19 Mayıs Mahallesi,Kayseri,4,19 Mayıs Mahallesi
+21 Ve Üzeri,4,0,Konut,100,3+1,4.Kat,Kombi Doğalgaz,1300000,Kayseri - Kocasinan - Sümer Mahallesi,Kayseri,3,Sümer Mahallesi
+16-20,1,2,Konut,120,3+1,Düz Giriş,Sobalı,830000,Kayseri - Kocasinan - Yenidoğan Mahallesi,Kayseri,3,Yenidoğan Mahallesi
+0 (Yeni),14,0,Konut,160,4+1,11.Kat,Merkezi (Pay Ölçer),2450000,Kayseri - Kocasinan - Seyrani Mahallesi,Kayseri,3,Seyrani Mahallesi
+4,4,0,Konut,60,1+1,2.Kat,Kombi Doğalgaz,680000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+5-10,10,1,Konut,155,3+1,5.Kat,Merkezi (Pay Ölçer),1500000,Kayseri - Melikgazi - Gökkent Mahallesi,Kayseri,4,Gökkent Mahallesi
+16-20,9,1,Konut,120,3+1,3.Kat,Merkezi Doğalgaz,1350000,Kayseri - Melikgazi - Esentepe Mahallesi,Kayseri,4,Esentepe Mahallesi
+16-20,9,2,Konut,135,3+1,1.Kat,Merkezi Doğalgaz,1450000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+5-10,12,0,Konut,128,3+1,2.Kat,Merkezi Doğalgaz,1675000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+11-15,3,0,Konut,240,5+1,Düz Giriş,Kombi Doğalgaz,4650000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+2,11,0,Konut,135,3+1,7.Kat,Merkezi Doğalgaz,2100000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+0 (Yeni),11,0,Konut,185,4+1,10.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+11-15,9,1,Konut,95,3+1,2.Kat,Merkezi Doğalgaz,1125000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),9,0,Konut,100,2+1,9.Kat,Merkezi (Pay Ölçer),1175000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+0 (Yeni),9,0,Konut,145,3+1,4.Kat,Merkezi (Pay Ölçer),1550000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+1,10,0,Konut,135,3+1,8.Kat,Merkezi (Pay Ölçer),1849000,Kayseri - Kocasinan - Saray Bosna Mahallesi,Kayseri,3,Saray Bosna Mahallesi
+5-10,14,0,Konut,90,2+1,3.Kat,Merkezi Doğalgaz,1260000,Kayseri - Melikgazi - 19 Mayıs Mahallesi,Kayseri,4,19 Mayıs Mahallesi
+11-15,15,0,Konut,120,3+1,7.Kat,Merkezi Doğalgaz,930000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+16-20,10,0,Konut,130,3+1,4.Kat,Merkezi (Pay Ölçer),1450000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+16-20,4,1,Konut,95,3+1,4.Kat,Sobalı,1850000,Kayseri - Melikgazi - Osmanlı Mahallesi,Kayseri,4,Osmanlı Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9050000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9000000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+11-15,10,0,Konut,110,3+1,10.Kat,Kat Kaloriferi,1125000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+0 (Yeni),15,2,Konut,200,4+1,4.Kat,Merkezi (Pay Ölçer),3550000,Kayseri - Kocasinan - General Emir Mahallesi,Kayseri,3,General Emir Mahallesi
+1,15,0,Konut,115,3+1,6.Kat,Merkezi Doğalgaz,1595000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),10,0,Konut,145,4+1,2.Kat,Merkezi (Pay Ölçer),2150000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+11-15,5,2,Konut,125,3+1,4.Kat,Kombi Doğalgaz,1250000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+0 (Yeni),8,0,Konut,135,3+1,5.Kat,Merkezi (Pay Ölçer),2850000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+0 (Yeni),10,0,Konut,135,3+1,4.Kat,Merkezi (Pay Ölçer),1875000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+0 (Yeni),9,0,Konut,110,3+1,7.Kat,Merkezi Doğalgaz,2250000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+11-15,9,1,Konut,155,3+1,3.Kat,Kombi Doğalgaz,1420000,Kayseri - Kocasinan - Camiikebir Mahallesi,Kayseri,3,Camiikebir Mahallesi
+0 (Yeni),3,0,Konut,285,6+1,Bahçe Dublex,Yerden Isıtma,13000000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+11-15,9,0,Konut,135,3+1,9.Kat,Merkezi Doğalgaz,1479000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+5-10,14,0,Konut,180,4+1,10.Kat,Merkezi (Pay Ölçer),2455000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+21 Ve Üzeri,2,0,Konut,90,2+1,Düz Giriş,Kombi Doğalgaz,680000,Kayseri - Kocasinan - Mevlana Mahallesi,Kayseri,3,Mevlana Mahallesi
+11-15,12,1,Konut,125,3+1,1.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+16-20,6,2,Konut,125,3+1,4.Kat,Kombi Doğalgaz,1550000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+3,7,1,Konut,112,3+1,4.Kat,Merkezi (Pay Ölçer),1430000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+5-10,12,0,Konut,90,3+1,5.Kat,Merkezi Doğalgaz,100000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9000000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),2,0,Konut,250,3+2,Düz Giriş,Yerden Isıtma,8950000,Kayseri - Melikgazi - Hisarcık Mahallesi,Kayseri,4,Hisarcık Mahallesi
+5-10,3,2,Konut,400,6+2,Düz Giriş,Kombi Doğalgaz,21000000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9050000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),12,0,Konut,140,3+1,Yüksek Giriş,Merkezi (Pay Ölçer),2150000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),11,0,Konut,135,4+1,6.Kat,Merkezi (Pay Ölçer),2070000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+0 (Yeni),7,0,Konut,155,3+1,5.Kat,Kombi Doğalgaz,1695000,Kayseri - Melikgazi - Mimarsinan Mahallesi,Kayseri,4,Mimarsinan Mahallesi
+5-10,14,1,Konut,135,3+1,10.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),2,0,Konut,180,4+1,Düz Giriş,Kombi Doğalgaz,5750000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+1,12,1,Konut,130,3+1,2.Kat,Merkezi (Pay Ölçer),1325000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+0 (Yeni),13,0,Konut,135,3+1,1.Kat,Merkezi (Pay Ölçer),1590000,Kayseri - Melikgazi - Mimarsinan Mahallesi,Kayseri,4,Mimarsinan Mahallesi
+16-20,5,1,Konut,130,3+1,Çatı Katı,Kombi Doğalgaz,998000,Kayseri - Melikgazi - Tınaztepe Mahallesi,Kayseri,4,Tınaztepe Mahallesi
+1,12,0,Konut,135,3+1,3.Kat,Merkezi (Pay Ölçer),1900000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+5-10,8,2,Konut,185,4+1,Çatı Katı,Merkezi (Pay Ölçer),2500000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+5-10,5,2,Konut,85,2+1,2.Kat,Merkezi Doğalgaz,965000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),5,0,Konut,135,3+1,2.Kat,Kombi Doğalgaz,1540000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+0 (Yeni),12,0,Konut,140,3+1,7.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+4,14,1,Konut,145,3+1,10.Kat,Merkezi (Pay Ölçer),1625000,Kayseri - Melikgazi - 19 Mayıs Mahallesi,Kayseri,4,19 Mayıs Mahallesi
+21 Ve Üzeri,2,1,Konut,85,2+1,2.Kat,Sobalı,850000,Kayseri - Kocasinan - Yeni Mahallesi,Kayseri,3,Yeni Mahallesi
+3,10,0,Konut,200,4+1,4.Kat,Merkezi (Pay Ölçer),4700000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+11-15,9,1,Konut,135,3+1,8.Kat,Kombi Doğalgaz,1375000,Kayseri - Melikgazi - Gökkent Mahallesi,Kayseri,4,Gökkent Mahallesi
+0 (Yeni),14,0,Konut,140,3+1,1.Kat,Merkezi (Pay Ölçer),2000000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+5-10,4,0,Konut,60,2+1,2.Kat,Merkezi Doğalgaz,820000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),10,0,Konut,100,2+1,5.Kat,Merkezi (Pay Ölçer),230000,Kayseri - Kocasinan - Cırgalan Mahallesi,Kayseri,3,Cırgalan Mahallesi
+0 (Yeni),14,0,Konut,140,3+1,12.Kat,Merkezi Doğalgaz,1890000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+0 (Yeni),10,0,Konut,135,3+1,6.Kat,Merkezi (Pay Ölçer),2050000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+0 (Yeni),10,0,Konut,135,3+1,3.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+0 (Yeni),13,0,Konut,150,3+1,11.Kat,Merkezi (Pay Ölçer),1800000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),13,0,Konut,150,4+1,8.Kat,Merkezi (Pay Ölçer),2789000,Kayseri - Melikgazi - Germir Mahallesi,Kayseri,4,Germir Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9000000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+5-10,9,0,Konut,135,3+1,8.Kat,Merkezi (Pay Ölçer),1599000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+11-15,4,1,Konut,90,2+1,4.Kat,Kombi Doğalgaz,900000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9000000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),2,0,Konut,165,5+1,Villa Tipi,Kombi Doğalgaz,9000000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),10,2,Konut,160,3+1,4.Kat,Merkezi (Pay Ölçer),1780000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),10,0,Konut,135,3.5+1,1.Kat,Merkezi (Pay Ölçer),1450000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+4,7,1,Konut,130,3+1,7.Kat,Kombi Doğalgaz,1650000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+11-15,15,2,Konut,120,3+1,13.Kat,Merkezi Doğalgaz,935000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+0 (Yeni),14,0,Konut,150,4+1,6.Kat,Merkezi (Pay Ölçer),3600000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+0 (Yeni),7,0,Konut,125,3+1,3.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+2,2,2,Konut,180,5+1,Düz Giriş,Kombi Doğalgaz,7900000,Kayseri - Melikgazi - Eğribucak Mahallesi,Kayseri,4,Eğribucak Mahallesi
+5-10,13,1,Konut,190,4+1,6.Kat,Merkezi Doğalgaz,3075000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+0 (Yeni),5,0,Konut,145,3.5+1,5.Kat,Kombi Doğalgaz,1400000,Kayseri - Melikgazi - Fatih Mahallesi,Kayseri,4,Fatih Mahallesi
+3,2,2,Konut,250,3.5+1,Villa Tipi,Kombi Doğalgaz,6750000,Kayseri - Melikgazi - Eğribucak Mahallesi,Kayseri,4,Eğribucak Mahallesi
+4,3,0,Konut,60,1+1,3.Kat,Kombi Doğalgaz,670000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),13,0,Konut,200,4+1,4.Kat,Merkezi (Pay Ölçer),3550000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+0 (Yeni),10,0,Konut,100,3+0,4.Kat,Merkezi (Pay Ölçer),1680000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+0 (Yeni),11,0,Konut,140,4+1,2.Kat,Merkezi (Pay Ölçer),2999000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+0 (Yeni),10,0,Konut,110,2+1,1.Kat,Merkezi (Pay Ölçer),195000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+21 Ve Üzeri,2,0,Konut,95,2+1,Düz Giriş,Kombi Doğalgaz,2750000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+21 Ve Üzeri,3,2,Konut,110,3+1,2.Kat,Sobalı,950000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+0 (Yeni),7,0,Konut,75,2+1,6.Kat,Merkezi (Pay Ölçer),1250000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+0 (Yeni),1,0,Konut,70,2+1,Düz Giriş,Isıtma Yok,2750000,Kayseri - Melikgazi - Sarımsaklı Mahallesi,Kayseri,4,Sarımsaklı Mahallesi
+4,5,1,Konut,85,2+1,5.Kat,Merkezi Doğalgaz,1075000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),2,0,Konut,250,6+1,Düz Giriş,Kombi Doğalgaz,6750000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+0 (Yeni),9,0,Konut,100,2.5+1,1.Kat,Merkezi (Pay Ölçer),1320000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+0 (Yeni),12,0,Konut,110,3+1,1.Kat,Merkezi Doğalgaz,1750000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+3,9,1,Konut,70,2+1,2.Kat,Merkezi (Pay Ölçer),1450000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+0 (Yeni),5,0,Konut,135,3+1,1.Kat,Kombi Doğalgaz,1390000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+21 Ve Üzeri,35,1,Konut,80,2+1,Yüksek Bodrum,Kombi Doğalgaz,650000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+1,9,0,Konut,120,3+1,5.Kat,Merkezi (Pay Ölçer),1720000,Kayseri - Melikgazi - Kazımkarabekir Mahallesi,Kayseri,4,Kazımkarabekir Mahallesi
+0 (Yeni),2,0,Konut,150,4+1,Düz Giriş,Kombi Doğalgaz,4999000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+4,11,2,Konut,170,4+1,8.Kat,Merkezi (Pay Ölçer),2550000,Kayseri - Melikgazi - Yeniköy Mahallesi,Kayseri,4,Yeniköy Mahallesi
+5-10,12,0,Konut,120,3+1,12.Kat,Merkezi Doğalgaz,1350000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+1,4,0,Konut,110,3+1,Düz Giriş,Merkezi (Pay Ölçer),1200000,Kayseri - Kocasinan - Oruçreis Mahallesi,Kayseri,3,Oruçreis Mahallesi
+16-20,9,2,Konut,120,3+1,9.Kat,Merkezi Doğalgaz,1375000,Kayseri - Melikgazi - Tınaztepe Mahallesi,Kayseri,4,Tınaztepe Mahallesi
+5-10,9,0,Konut,100,3+1,9.Kat,Kombi Doğalgaz,1050000,Kayseri - Melikgazi - Selimiye Mahallesi,Kayseri,4,Selimiye Mahallesi
+21 Ve Üzeri,4,1,Konut,135,2+1,1.Kat,Kat Kaloriferi,780000,Kayseri - Kocasinan - Mimarsinan Mahallesi,Kayseri,3,Mimarsinan Mahallesi
+11-15,12,0,Konut,132,3+1,4.Kat,Merkezi Doğalgaz,1295000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+4,2,2,Konut,180,3+1,Düz Giriş,Kombi Doğalgaz,4000000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),12,0,Konut,100,2+1,5.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),8,0,Konut,130,3+1,2.Kat,Kombi Doğalgaz,1475000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+3,12,1,Konut,135,3+1,5.Kat,Merkezi (Pay Ölçer),1475000,Kayseri - Melikgazi - Tavlusun Mahallesi,Kayseri,4,Tavlusun Mahallesi
+5-10,11,0,Konut,160,3+1,2.Kat,Merkezi Doğalgaz,2350000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+0 (Yeni),13,0,Konut,150,3.5+1,2.Kat,Merkezi (Pay Ölçer),1999999,Kayseri - Kocasinan - Saray Bosna Mahallesi,Kayseri,3,Saray Bosna Mahallesi
+11-15,12,2,Konut,210,4+1,7.Kat,Merkezi (Pay Ölçer),3900000,Kayseri - Kocasinan - Yıldızevler Mahallesi,Kayseri,3,Yıldızevler Mahallesi
+21 Ve Üzeri,7,1,Konut,110,2+1,Düz Giriş,Merkezi (Pay Ölçer),820000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+21 Ve Üzeri,12,1,Konut,135,3+1,9.Kat,Merkezi Doğalgaz,1415000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+16-20,2,0,Konut,250,4+1,Düz Giriş,Kombi Doğalgaz,8750000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+1,11,0,Konut,135,3+1,1.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Kocasinan - Argıncık Mahallesi,Kayseri,3,Argıncık Mahallesi
+0 (Yeni),14,0,Konut,175,4+1,6.Kat,Merkezi (Pay Ölçer),2365000,Kayseri - Kocasinan - Yenidoğan Mahallesi,Kayseri,3,Yenidoğan Mahallesi
+5-10,14,0,Konut,185,3+1,1.Kat,Merkezi (Pay Ölçer),1975000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+11-15,14,2,Konut,160,3+1,7.Kat,Merkezi Doğalgaz,2780000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+5-10,3,2,Konut,250,6+1,Düz Giriş,Kombi Doğalgaz,7000000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+11-15,5,1,Konut,110,3+1,2.Kat,Kombi Doğalgaz,789000,Kayseri - Melikgazi - Germir Mahallesi,Kayseri,4,Germir Mahallesi
+21 Ve Üzeri,5,0,Konut,130,3+1,5.Kat,Kombi Doğalgaz,1299000,Kayseri - Kocasinan - Fevzi Çakmak Mahallesi,Kayseri,3,Fevzi Çakmak Mahallesi
+11-15,13,2,Konut,220,4.5+1,13.Kat,Kombi Doğalgaz,2575000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+21 Ve Üzeri,2,1,Konut,200,3+1,Düz Giriş,Kombi Doğalgaz,1690000,Kayseri - Melikgazi - Selçuklu Mahallesi,Kayseri,4,Selçuklu Mahallesi
+21 Ve Üzeri,1,0,Konut,120,3+1,Düz Giriş,Sobalı,590000,Kayseri - Kocasinan - Saraycık Mahallesi,Kayseri,3,Saraycık Mahallesi
+0 (Yeni),12,0,Konut,100,2+1,6.Kat,Merkezi Doğalgaz,275000,Kayseri - Kocasinan - Yavuz Selim Mahallesi,Kayseri,3,Yavuz Selim Mahallesi
+0 (Yeni),6,0,Konut,105,2+1,2.Kat,Merkezi (Pay Ölçer),74500,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+5-10,13,1,Konut,125,3+1,11.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),12,0,Konut,110,2+1,3.Kat,Merkezi (Pay Ölçer),315000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+21 Ve Üzeri,13,2,Konut,140,3+1,9.Kat,Merkezi Doğalgaz,1275000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+11-15,8,2,Konut,190,4+2,8.Kat,Kombi Doğalgaz,2400000,Kayseri - Melikgazi - Keykubat Mahallesi,Kayseri,4,Keykubat Mahallesi
+21 Ve Üzeri,8,0,Konut,230,5+1,5.Kat,Merkezi Doğalgaz,2985000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+16-20,4,1,Konut,200,9+ Oda,Müstakil.Kat,Kombi Doğalgaz,2550000,Kayseri - Melikgazi - Danişmend Gazi Mahallesi,Kayseri,4,Danişmend Gazi Mahallesi
+0 (Yeni),9,0,Konut,70,1+1,9.Kat,Merkezi (Pay Ölçer),1050000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+0 (Yeni),10,0,Konut,110,3+1,5.Kat,Merkezi Doğalgaz,410000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+0 (Yeni),12,0,Konut,85,2+1,6.Kat,Merkezi Doğalgaz,295000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+4,14,1,Konut,250,4+1,11.Kat,Merkezi (Pay Ölçer),3000000,Kayseri - Kocasinan - Alsancak Mahallesi,Kayseri,3,Alsancak Mahallesi
+16-20,10,0,Konut,115,3+1,10.Kat,Kombi Doğalgaz,1000000,Kayseri - Kocasinan - Gevhernesibe Mahallesi,Kayseri,3,Gevhernesibe Mahallesi
+5-10,11,1,Konut,125,3+1,10.Kat,Merkezi Doğalgaz,1520000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+1,8,0,Konut,135,3+1,7.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Kocasinan - Yeşil Mahallesi,Kayseri,3,Yeşil Mahallesi
+5-10,2,1,Konut,240,7+1,Düz Giriş,Kombi Doğalgaz,5900000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+5-10,11,0,Konut,185,4+1,1.Kat,Merkezi (Pay Ölçer),2750000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+0 (Yeni),14,0,Konut,240,4+1,7.Kat,Merkezi (Pay Ölçer),9000000,Kayseri - Melikgazi - Gültepe Mahallesi,Kayseri,4,Gültepe Mahallesi
+11-15,11,0,Konut,135,3+1,9.Kat,Merkezi Doğalgaz,1360000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+16-20,14,0,Konut,250,4+1,2.Kat,Merkezi Doğalgaz,4950000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+3,13,0,Konut,155,3+1,11.Kat,Merkezi (Pay Ölçer),2750000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+0 (Yeni),2,0,Konut,300,5+1,Düz Giriş,Yerden Isıtma,38000000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),14,0,Konut,155,3+1,12.Kat,Merkezi (Pay Ölçer),4000000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+0 (Yeni),8,0,Konut,170,3+1,7.Kat,Merkezi (Pay Ölçer),1900000,Kayseri - Melikgazi - Esentepe Mahallesi,Kayseri,4,Esentepe Mahallesi
+11-15,1,2,Konut,120,3+1,Müstakil.Kat,Sobalı,1970000,Kayseri - Melikgazi - Danişmend Gazi Mahallesi,Kayseri,4,Danişmend Gazi Mahallesi
+0 (Yeni),1,0,Konut,90,2+1,Düz Giriş,Sobalı,1350000,Kayseri - Melikgazi - Esentepe Mahallesi,Kayseri,4,Esentepe Mahallesi
+11-15,11,0,Konut,265,4+2,11.Kat,Kombi Doğalgaz,2499000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+2,10,2,Konut,138,3+1,6.Kat,Merkezi (Pay Ölçer),1820000,Kayseri - Kocasinan - Hoca Ahmet Yesevi Mahallesi,Kayseri,3,Hoca Ahmet Yesevi Mahallesi
+11-15,8,2,Konut,100,2+1,3.Kat,Merkezi Doğalgaz,1250000,Kayseri - Melikgazi - Anbar Mahallesi,Kayseri,4,Anbar Mahallesi
+5-10,5,1,Konut,125,3+1,3.Kat,Kombi Doğalgaz,1350000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+0 (Yeni),15,0,Konut,150,2+1,6.Kat,Merkezi (Pay Ölçer),280000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+0 (Yeni),1,0,Konut,100,2.5+1,Düz Giriş,Sobalı,2400000,Kayseri - Melikgazi - Esentepe Mahallesi,Kayseri,4,Esentepe Mahallesi
+0 (Yeni),2,0,Konut,160,4+2,Düz Giriş,Kombi Doğalgaz,8500000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+5-10,15,1,Konut,140,3+1,10-20.Kat,Merkezi (Pay Ölçer),1550000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+21 Ve Üzeri,5,1,Konut,90,2+1,2.Kat,Kombi Doğalgaz,875000,Kayseri - Kocasinan - Kocasinan Mahallesi,Kayseri,3,Kocasinan Mahallesi
+5-10,14,0,Konut,230,4+1,8.Kat,Merkezi (Pay Ölçer),6400000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+5-10,14,0,Konut,185,3+1,1.Kat,Merkezi (Pay Ölçer),1970000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+4,2,0,Konut,110,4+2,1.Kat,Kombi Doğalgaz,2825000,Kayseri - Kocasinan - Gömeç Mahallesi,Kayseri,3,Gömeç Mahallesi
+0 (Yeni),10,0,Konut,75,2+1,4.Kat,Merkezi Doğalgaz,180000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+5-10,14,0,Konut,150,4+1,6.Kat,Merkezi (Pay Ölçer),5990000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+3,14,0,Konut,200,4+1,12.Kat,Merkezi (Pay Ölçer),4200000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+11-15,13,0,Konut,130,3+1,10.Kat,Merkezi Doğalgaz,1625000,Kayseri - Kocasinan - Yenişehir Mahallesi,Kayseri,3,Yenişehir Mahallesi
+5-10,7,1,Konut,131,3+1,1.Kat,Kombi Doğalgaz,985000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),10,0,Konut,115,2+1,4.Kat,Merkezi (Pay Ölçer),1500000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),12,0,Konut,135,3.5+1,7.Kat,Merkezi (Pay Ölçer),2100000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),9,0,Konut,155,4+1,4.Kat,Merkezi (Pay Ölçer),3200000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+5-10,11,2,Konut,235,4+1,11.Kat,Merkezi Doğalgaz,3700000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+16-20,8,0,Konut,188,3+1,6.Kat,Merkezi Doğalgaz,1790000,Kayseri - Kocasinan - Gevhernesibe Mahallesi,Kayseri,3,Gevhernesibe Mahallesi
+0 (Yeni),11,0,Konut,130,3+1,1.Kat,Merkezi Doğalgaz,1590000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+5-10,13,0,Konut,115,2+1,1.Kat,Merkezi Doğalgaz,1925000,Kayseri - Melikgazi - Germir Mahallesi,Kayseri,4,Germir Mahallesi
+16-20,14,2,Konut,250,4+1,11.Kat,Merkezi Doğalgaz,6250000,Kayseri - Melikgazi - Gültepe Mahallesi,Kayseri,4,Gültepe Mahallesi
+0 (Yeni),9,0,Konut,110,3+1,3.Kat,Merkezi (Pay Ölçer),1675000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+11-15,3,2,Konut,450,8+1,Düz Giriş,Kombi Doğalgaz,15000000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+21 Ve Üzeri,14,2,Konut,230,4+1,14.Kat,Merkezi Doğalgaz,3300000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+5-10,14,2,Konut,180,3+1,11.Kat,Merkezi (Pay Ölçer),2490000,Kayseri - Melikgazi - Esentepe Mahallesi,Kayseri,4,Esentepe Mahallesi
+21 Ve Üzeri,1,0,Konut,370,3+1,Müstakil.Kat,Isıtma Yok,990000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+4,14,2,Konut,135,3+1,9.Kat,Merkezi (Pay Ölçer),1480000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),10,0,Konut,130,3+1,4.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+1,12,2,Konut,120,3+1,5.Kat,Merkezi (Pay Ölçer),2140000,Kayseri - Kocasinan - Saray Bosna Mahallesi,Kayseri,3,Saray Bosna Mahallesi
+0 (Yeni),1,0,Konut,200,4+1,Villa Tipi,Kombi Doğalgaz,7000000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),11,0,Konut,185,4+1,7.Kat,Merkezi (Pay Ölçer),1675000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+5-10,2,2,Konut,200,3+1,Düz Giriş,Kombi Doğalgaz,4550000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+5-10,4,1,Konut,65,2+1,2.Kat,Kombi Doğalgaz,750000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),8,0,Konut,155,4+1,5.Kat,Merkezi (Pay Ölçer),2750000,Kayseri - Kocasinan - Cırgalan Mahallesi,Kayseri,3,Cırgalan Mahallesi
+11-15,9,1,Konut,135,3+1,7.Kat,Merkezi Doğalgaz,1720000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+3,1,0,Konut,75,2+1,Düz Giriş,Kombi Doğalgaz,3850000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+21 Ve Üzeri,12,1,Konut,145,3+1,Yüksek Giriş,Merkezi Doğalgaz,1675000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+21 Ve Üzeri,3,0,Konut,100,3+1,2.Kat,Sobalı,805000,Kayseri - Kocasinan - General Emir Mahallesi,Kayseri,3,General Emir Mahallesi
+11-15,4,2,Konut,80,2+1,Kot 2 (-2).Kat,Merkezi Doğalgaz,895000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+21 Ve Üzeri,15,0,Konut,180,3+1,11.Kat,Kombi Doğalgaz,2100000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+0 (Yeni),8,0,Konut,110,3+1,5.Kat,Merkezi (Pay Ölçer),2250000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+16-20,12,2,Konut,175,4+1,6.Kat,Merkezi Doğalgaz,3000000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+0 (Yeni),12,0,Konut,175,4+1,11.Kat,Merkezi (Pay Ölçer),3250000,Kayseri - Melikgazi - Germir Mahallesi,Kayseri,4,Germir Mahallesi
+16-20,5,1,Konut,160,3+1,1.Kat,Merkezi Doğalgaz,2150000,Kayseri - Kocasinan - Fevzi Çakmak Mahallesi,Kayseri,3,Fevzi Çakmak Mahallesi
+21 Ve Üzeri,12,0,Konut,230,4+1,5.Kat,Merkezi Doğalgaz,2550000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+1,14,1,Konut,225,4+1,5.Kat,Merkezi (Pay Ölçer),12500000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+5-10,13,1,Konut,175,3+1,2.Kat,Merkezi (Pay Ölçer),2850000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+21 Ve Üzeri,12,0,Konut,150,3+1,12.Kat,Merkezi (Pay Ölçer),2395000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+4,13,1,Konut,170,4+1,2.Kat,Merkezi (Pay Ölçer),2625000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+1,6,1,Konut,65,1+1,1.Kat,Merkezi (Pay Ölçer),850000,Kayseri - Melikgazi - Anbar Mahallesi,Kayseri,4,Anbar Mahallesi
+5-10,13,0,Konut,270,4+1,1.Kat,Merkezi (Pay Ölçer),4000000,Kayseri - Melikgazi - Tavlusun Mahallesi,Kayseri,4,Tavlusun Mahallesi
+0 (Yeni),7,0,Konut,200,4+1,7.Kat,Merkezi (Pay Ölçer),2800000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+5-10,13,0,Konut,185,4+1,3.Kat,Merkezi (Pay Ölçer),2625000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+11-15,13,2,Konut,200,4+1,2.Kat,Merkezi (Pay Ölçer),3450000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+16-20,14,2,Konut,240,4+1,4.Kat,Merkezi Doğalgaz,3850000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+11-15,14,0,Konut,145,3+1,8.Kat,Merkezi Doğalgaz,1750000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+11-15,13,2,Konut,175,3+1,9.Kat,Merkezi Doğalgaz,2250000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+0 (Yeni),11,0,Konut,160,4+1,9.Kat,Merkezi (Pay Ölçer),2250000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+0 (Yeni),2,0,Konut,180,4+1,Düz Giriş,Kombi Doğalgaz,7750000,Kayseri - Kocasinan - General Emir Mahallesi,Kayseri,3,General Emir Mahallesi
+0 (Yeni),9,0,Konut,75,2+1,Düz Giriş,Merkezi (Pay Ölçer),1300000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+11-15,6,0,Konut,160,3+1,4.Kat,Kombi Doğalgaz,3000000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+5-10,13,2,Konut,270,4+1,9.Kat,Merkezi (Pay Ölçer),4200000,Kayseri - Melikgazi - Tavlusun Mahallesi,Kayseri,4,Tavlusun Mahallesi
+0 (Yeni),3,0,Konut,300,6+1,Düz Giriş,Kombi Doğalgaz,19500000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+4,13,0,Konut,170,4+1,1.Kat,Merkezi (Pay Ölçer),2450000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+11-15,13,2,Konut,400,6+1,13.Kat,Merkezi Doğalgaz,5570000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+21 Ve Üzeri,8,2,Konut,180,4+1,8.Kat,Merkezi Doğalgaz,3450000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+0 (Yeni),6,0,Konut,120,3+1,5.Kat,Merkezi Doğalgaz,2250000,Kayseri - Kocasinan - Yeşil Mahallesi,Kayseri,3,Yeşil Mahallesi
+16-20,9,2,Konut,120,3+1,1.Kat,Kombi Doğalgaz,3150000,Kayseri - Melikgazi - Kılıçaslan Mahallesi,Kayseri,4,Kılıçaslan Mahallesi
+3,10,0,Konut,175,4+1,9.Kat,Merkezi (Pay Ölçer),2950000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+0 (Yeni),3,0,Konut,300,7+1,Düz Giriş,Kombi Doğalgaz,14750000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+16-20,2,0,Konut,90,9+ Oda,Düz Giriş,Sobalı,4250000,Kayseri - Melikgazi - Hisarcık Mahallesi,Kayseri,4,Hisarcık Mahallesi
+21 Ve Üzeri,2,2,Konut,130,3+1,2.Kat,Kombi Doğalgaz,1400000,Kayseri - Kocasinan - Yeni Mahallesi,Kayseri,3,Yeni Mahallesi
+0 (Yeni),14,0,Konut,200,4+1,4.Kat,Merkezi (Pay Ölçer),4000000,Kayseri - Kocasinan - Saray Bosna Mahallesi,Kayseri,3,Saray Bosna Mahallesi
+0 (Yeni),9,0,Konut,90,2+1,1.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Kocasinan - Mimarsinan Mahallesi,Kayseri,3,Mimarsinan Mahallesi
+5-10,12,2,Konut,140,3+1,2.Kat,Kombi Doğalgaz,1365000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+5-10,2,2,Konut,400,7+1,Düz Giriş,Kombi Doğalgaz,22000000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+21 Ve Üzeri,12,1,Konut,180,3+1,11.Kat,Merkezi Doğalgaz,1415000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+21 Ve Üzeri,3,1,Konut,100,3+1,3.Kat,Kombi Doğalgaz,950000,Kayseri - Kocasinan - Fevzi Çakmak Mahallesi,Kayseri,3,Fevzi Çakmak Mahallesi
+0 (Yeni),10,0,Konut,135,3+1,5.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Melikgazi - Mimarsinan Mahallesi,Kayseri,4,Mimarsinan Mahallesi
+5-10,13,2,Konut,125,3+1,11.Kat,Merkezi (Pay Ölçer),1330000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+5-10,6,1,Konut,120,3+1,4.Kat,Merkezi (Pay Ölçer),1430000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+1,7,1,Konut,130,3+1,6.Kat,Merkezi (Pay Ölçer),1640000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+1,4,2,Konut,110,3+1,4.Kat,Merkezi (Pay Ölçer),1250000,Kayseri - Kocasinan - Oruçreis Mahallesi,Kayseri,3,Oruçreis Mahallesi
+21 Ve Üzeri,2,0,Konut,100,3+1,Bahçe Katı,Kombi Doğalgaz,800000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+21 Ve Üzeri,4,1,Konut,120,3+1,3.Kat,Kombi Doğalgaz,910000,Kayseri - Melikgazi - Hürriyet Mahallesi,Kayseri,4,Hürriyet Mahallesi
+16-20,9,2,Konut,100,3+1,3.Kat,Kombi Doğalgaz,975000,Kayseri - Melikgazi - 30 Ağustos Mahallesi,Kayseri,4,30 Ağustos Mahallesi
+0 (Yeni),12,0,Konut,110,3+1,10.Kat,Merkezi Doğalgaz,1430000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+21 Ve Üzeri,3,2,Konut,130,3+1,1.Kat,Kombi Doğalgaz,850000,Kayseri - Kocasinan - Mimarsinan Mahallesi,Kayseri,3,Mimarsinan Mahallesi
+5-10,14,0,Konut,185,4+1,14.Kat,Merkezi (Pay Ölçer),3950000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+0 (Yeni),2,0,Konut,175,4+1,Düz Giriş,Kombi Doğalgaz,6000000,Kayseri - Melikgazi - Eğribucak Mahallesi,Kayseri,4,Eğribucak Mahallesi
+2,14,2,Konut,149,4+1,1.Kat,Merkezi (Pay Ölçer),2620000,Kayseri - Kocasinan - Alsancak Mahallesi,Kayseri,3,Alsancak Mahallesi
+0 (Yeni),12,0,Konut,135,3+1,9.Kat,Merkezi (Pay Ölçer),210000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+16-20,8,2,Konut,80,3+1,4.Kat,Kombi Doğalgaz,1070000,Kayseri - Melikgazi - Anafartalar Mahallesi,Kayseri,4,Anafartalar Mahallesi
+16-20,8,1,Konut,180,3+1,2.Kat,Merkezi Doğalgaz,1625000,Kayseri - Kocasinan - Seyrani Mahallesi,Kayseri,3,Seyrani Mahallesi
+0 (Yeni),8,0,Konut,120,3+1,7.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Kocasinan - Yavuzlar Mahallesi,Kayseri,3,Yavuzlar Mahallesi
+4,1,0,Konut,736,2+1,Müstakil.Kat,Sobalı,1690000,Kayseri - Kocasinan - Kemer Mahallesi,Kayseri,3,Kemer Mahallesi
+1,8,0,Konut,140,4+1,6.Kat,Merkezi (Pay Ölçer),2750000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+5-10,5,1,Konut,65,2+1,1.Kat,Merkezi (Pay Ölçer),800000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+1,7,1,Konut,120,3+1,7.Kat,Kombi Doğalgaz,1700000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+1,10,0,Konut,85,2+1,2.Kat,Kombi Doğalgaz,1250000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+0 (Yeni),15,0,Konut,125,3+1,4.Kat,Merkezi (Pay Ölçer),1625000,Kayseri - Kocasinan - Yunusemre Mahallesi,Kayseri,3,Yunusemre Mahallesi
+0 (Yeni),15,0,Konut,125,3+1,5.Kat,Merkezi Doğalgaz,295000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+3,11,2,Konut,130,3+1,4.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+11-15,12,1,Konut,130,3+1,7.Kat,Merkezi Doğalgaz,1200000,Kayseri - Kocasinan - Turgut Reis Mahallesi,Kayseri,3,Turgut Reis Mahallesi
+11-15,9,2,Konut,135,3+1,2.Kat,Merkezi (Pay Ölçer),1250000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+0 (Yeni),12,0,Konut,90,2+1,4.Kat,Merkezi (Pay Ölçer),350000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),10,0,Konut,145,3+1,1.Kat,Merkezi (Pay Ölçer),1780000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+5-10,7,2,Konut,85,2+1,5.Kat,Merkezi Doğalgaz,920000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+16-20,9,2,Konut,95,2+1,1.Kat,Merkezi Doğalgaz,899000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),12,0,Konut,185,5+1,1.Kat,Merkezi (Pay Ölçer),2000000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+11-15,13,2,Konut,155,3+1,3.Kat,Merkezi (Pay Ölçer),3000000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+0 (Yeni),7,0,Konut,140,3+1,7.Kat,Merkezi (Pay Ölçer),1925000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+0 (Yeni),11,0,Konut,135,3+1,4.Kat,Merkezi Doğalgaz,1850000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+11-15,13,0,Konut,155,3+1,11.Kat,Kombi Doğalgaz,2500000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+21 Ve Üzeri,2,1,Konut,200,2+1,2.Kat,Kombi Doğalgaz,1450000,Kayseri - Kocasinan - Alsancak Mahallesi,Kayseri,3,Alsancak Mahallesi
+0 (Yeni),12,0,Konut,135,3+1,10.Kat,Merkezi Doğalgaz,1550000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+0 (Yeni),13,0,Konut,135,3+1,7.Kat,Merkezi (Pay Ölçer),1800000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,7,1,Konut,120,3+1,3.Kat,Merkezi (Pay Ölçer),1135000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),13,0,Konut,135,3+1,7.Kat,Merkezi (Pay Ölçer),1800000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+11-15,13,1,Konut,160,3+1,5.Kat,Kombi Doğalgaz,2450000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+21 Ve Üzeri,8,0,Konut,100,3+1,Düz Giriş,Sobalı,745000,Kayseri - Melikgazi - Kocatepe Mahallesi,Kayseri,4,Kocatepe Mahallesi
+0 (Yeni),14,0,Konut,140,3+1,11.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+0 (Yeni),12,0,Konut,85,2+1,1.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Kocasinan - Saray Bosna Mahallesi,Kayseri,3,Saray Bosna Mahallesi
+0 (Yeni),14,0,Konut,165,4.5+1,3.Kat,Merkezi (Pay Ölçer),2240000,Kayseri - Kocasinan - Saray Bosna Mahallesi,Kayseri,3,Saray Bosna Mahallesi
+0 (Yeni),7,1,Konut,120,3+1,7.Kat,Kombi Doğalgaz,1695000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+3,3,0,Konut,180,4+1,Villa Tipi,Kat Kaloriferi,3200000,Kayseri - Kocasinan - Çevril Mahallesi,Kayseri,3,Çevril Mahallesi
+5-10,8,2,Konut,135,3+1,7.Kat,Kombi Doğalgaz,1700000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+0 (Yeni),3,0,Konut,265,7+1,Düz Giriş,Yerden Isıtma,10000000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+0 (Yeni),9,0,Konut,140,3+1,2.Kat,Merkezi (Pay Ölçer),1420000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+5-10,7,1,Konut,155,3+1,3.Kat,Merkezi Doğalgaz,1200000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+5-10,9,0,Konut,90,2+1,6.Kat,Kombi Doğalgaz,1240000,Kayseri - Melikgazi - 19 Mayıs Mahallesi,Kayseri,4,19 Mayıs Mahallesi
+11-15,10,0,Konut,132,3+1,4.Kat,Merkezi (Pay Ölçer),1159000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+5-10,10,2,Konut,85,2+1,4.Kat,Merkezi Doğalgaz,1050000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+11-15,13,2,Konut,190,4+1,9.Kat,Merkezi Doğalgaz,2500000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+11-15,7,1,Konut,130,3+1,6.Kat,Merkezi Doğalgaz,1135000,Kayseri - Melikgazi - Gülük Mahallesi,Kayseri,4,Gülük Mahallesi
+5-10,11,2,Konut,180,4+1,2.Kat,Merkezi (Pay Ölçer),4000000,Kayseri - Kocasinan - Hoca Ahmet Yesevi Mahallesi,Kayseri,3,Hoca Ahmet Yesevi Mahallesi
+5-10,10,1,Konut,135,3+1,2.Kat,Merkezi Doğalgaz,1450000,Kayseri - Kocasinan - Turgut Reis Mahallesi,Kayseri,3,Turgut Reis Mahallesi
+2,10,0,Konut,135,3+2,2.Kat,Merkezi (Pay Ölçer),2075000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+0 (Yeni),10,0,Konut,145,3+1,4.Kat,Merkezi (Pay Ölçer),1849000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+5-10,1,2,Konut,100,2+1,Müstakil.Kat,Şömine,9350000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),3,0,Konut,250,6+1,Düz Giriş,Kombi Doğalgaz,9000000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+4,13,1,Konut,135,3+1,11.Kat,Merkezi (Pay Ölçer),1300000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),2,0,Konut,340,5+1,Müstakil.Kat,Kombi Doğalgaz,13990000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),12,0,Konut,130,3+1,3.Kat,Merkezi Doğalgaz,275000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+3,13,2,Konut,130,3+1,8.Kat,Merkezi (Pay Ölçer),1470000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+2,2,0,Konut,195,4+1,Düz Giriş,Kombi Doğalgaz,4900000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),9,0,Konut,66,2+1,9.Kat,Merkezi (Pay Ölçer),1450000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+0 (Yeni),8,0,Konut,125,3+1,8.Kat,Merkezi Doğalgaz,2300000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+21 Ve Üzeri,6,2,Konut,100,3+1,4.Kat,Kombi Doğalgaz,850000,Kayseri - Kocasinan - Gevhernesibe Mahallesi,Kayseri,3,Gevhernesibe Mahallesi
+21 Ve Üzeri,4,0,Konut,125,3+1,3.Kat,Kombi Doğalgaz,995000,Kayseri - Melikgazi - Keykubat Mahallesi,Kayseri,4,Keykubat Mahallesi
+5-10,11,2,Konut,155,4+1,10.Kat,Kombi Doğalgaz,2195000,Kayseri - Melikgazi - Tacettin Veli Mahallesi,Kayseri,4,Tacettin Veli Mahallesi
+1,9,2,Konut,115,2+1,1.Kat,Merkezi Doğalgaz,1350000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+0 (Yeni),8,2,Konut,150,4+1,1.Kat,Merkezi (Pay Ölçer),1999000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+11-15,2,0,Konut,1850,3.5+1,Müstakil.Kat,Sobalı,4000000,Kayseri - Melikgazi - Güzelköy Mahallesi,Kayseri,4,Güzelköy Mahallesi
+16-20,4,1,Konut,400,9+ Oda,4.Kat,Sobalı,1700000,Kayseri - Melikgazi - Osmanlı Mahallesi,Kayseri,4,Osmanlı Mahallesi
+5-10,14,0,Konut,220,4+1,1.Kat,Merkezi Doğalgaz,3250000,Kayseri - Melikgazi - Gültepe Mahallesi,Kayseri,4,Gültepe Mahallesi
+5-10,16,2,Konut,165,3+1,8.Kat,Kombi Doğalgaz,1650000,Kayseri - Melikgazi - Germir Mahallesi,Kayseri,4,Germir Mahallesi
+0 (Yeni),10,0,Konut,70,2+1,9.Kat,Merkezi (Pay Ölçer),900000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+5-10,1,2,Konut,100,2+1,Düz Giriş,Kombi Doğalgaz,3850000,Kayseri - Melikgazi - Eğribucak Mahallesi,Kayseri,4,Eğribucak Mahallesi
+0 (Yeni),15,0,Konut,125,3+1,4.Kat,Merkezi (Pay Ölçer),1625000,Kayseri - Kocasinan - Turgut Reis Mahallesi,Kayseri,3,Turgut Reis Mahallesi
+0 (Yeni),10,0,Konut,120,3+1,5.Kat,Merkezi Doğalgaz,1990000,Kayseri - Melikgazi - Kazımkarabekir Mahallesi,Kayseri,4,Kazımkarabekir Mahallesi
+0 (Yeni),14,2,Konut,120,3+1,8.Kat,Merkezi (Pay Ölçer),1900000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+16-20,10,2,Konut,165,4+1,1.Kat,Kombi Doğalgaz,2750000,Kayseri - Kocasinan - Yıldızevler Mahallesi,Kayseri,3,Yıldızevler Mahallesi
+16-20,3,2,Konut,150,3+1,Düz Giriş,Kombi Doğalgaz,6800000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+0 (Yeni),13,2,Konut,150,4+1,5.Kat,Merkezi (Pay Ölçer),2745000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+2,2,2,Konut,270,4+1,Düz Giriş,Kombi Doğalgaz,8950000,Kayseri - Melikgazi - Hisarcık Mahallesi,Kayseri,4,Hisarcık Mahallesi
+11-15,9,2,Konut,140,3+1,9.Kat,Merkezi Doğalgaz,1325000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+11-15,14,2,Konut,120,3+1,11.Kat,Merkezi Doğalgaz,1290000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+21 Ve Üzeri,2,0,Konut,360,9+ Oda,Düz Giriş,Isıtma Yok,12000000,Kayseri - Melikgazi - Hisarcık Mahallesi,Kayseri,4,Hisarcık Mahallesi
+11-15,6,1,Konut,110,3+1,5.Kat,Kombi Doğalgaz,840000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+5-10,15,2,Konut,160,3+1,1.Kat,Merkezi Doğalgaz,1550000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,11,2,Konut,180,4+1,11.Kat,Merkezi (Pay Ölçer),4350000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+5-10,5,2,Konut,80,2+1,3.Kat,Merkezi (Pay Ölçer),1000000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+0 (Yeni),10,0,Konut,130,3+1,1.Kat,Merkezi (Pay Ölçer),1300000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),6,0,Konut,150,3+1,5.Kat,Kombi Doğalgaz,1350000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+4,14,0,Konut,300,5+1,7.Kat,Merkezi (Pay Ölçer),8450000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+11-15,8,0,Konut,120,3+1,6.Kat,Kombi Doğalgaz,1250000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+0 (Yeni),2,0,Konut,120,2+1,1.Kat,Kombi Doğalgaz,1750000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+5-10,15,1,Konut,130,3+1,4.Kat,Merkezi Doğalgaz,1450000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),2,0,Konut,210,4+1,Villa Tipi,Kombi Doğalgaz,6750000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+21 Ve Üzeri,4,0,Konut,90,2+1,3.Kat,Isıtma Yok,1199000,Kayseri - Melikgazi - Hunat Mahallesi,Kayseri,4,Hunat Mahallesi
+0 (Yeni),13,0,Konut,185,4+1,3.Kat,Merkezi Doğalgaz,2800000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+0 (Yeni),14,0,Konut,125,3+1,3.Kat,Merkezi (Pay Ölçer),1625000,Kayseri - Kocasinan - Yunusemre Mahallesi,Kayseri,3,Yunusemre Mahallesi
+16-20,3,1,Konut,65,2+1,2.Kat,Merkezi Doğalgaz,739000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+21 Ve Üzeri,5,1,Konut,130,3+1,3.Kat,Sobalı,775000,Kayseri - Melikgazi - Cumhuriyet Mahallesi,Kayseri,4,Cumhuriyet Mahallesi
+0 (Yeni),12,0,Konut,150,4+1,1.Kat,Merkezi (Pay Ölçer),2300000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+11-15,9,1,Konut,120,3+1,9.Kat,Merkezi Doğalgaz,1200000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+0 (Yeni),76,0,Konut,110,3+1,7.Kat,Kombi Doğalgaz,1300000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+11-15,12,1,Konut,132,3+1,1.Kat,Merkezi (Pay Ölçer),1325000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+21 Ve Üzeri,2,0,Konut,250,6+2,Yüksek Giriş,Kombi Doğalgaz,2150000,Kayseri - Kocasinan - Yeni Mahallesi,Kayseri,3,Yeni Mahallesi
+5-10,6,2,Konut,185,3+1,1.Kat,Kombi Doğalgaz,1400000,Kayseri - Melikgazi - Tavlusun Mahallesi,Kayseri,4,Tavlusun Mahallesi
+11-15,14,0,Konut,220,4.5+1,10.Kat,Merkezi (Pay Ölçer),4600000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+0 (Yeni),2,0,Konut,210,5+1,Düz Giriş,Kombi Doğalgaz,6000000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+0 (Yeni),9,0,Konut,115,3.5+1,4.Kat,Merkezi (Pay Ölçer),2200000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+5-10,9,2,Konut,135,3+1,5.Kat,Kombi Doğalgaz,1250000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+11-15,12,2,Konut,185,4+1,9.Kat,Merkezi Doğalgaz,2999000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+5-10,10,1,Konut,140,3+1,4.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Melikgazi - Kazımkarabekir Mahallesi,Kayseri,4,Kazımkarabekir Mahallesi
+5-10,2,0,Konut,300,5+1,Düz Giriş,Kombi Doğalgaz,14900000,Kayseri - Melikgazi - Eğribucak Mahallesi,Kayseri,4,Eğribucak Mahallesi
+5-10,14,1,Konut,260,4+1,8.Kat,Merkezi (Pay Ölçer),4100000,Kayseri - Melikgazi - Köşk Mahallesi,Kayseri,4,Köşk Mahallesi
+0 (Yeni),7,0,Konut,115,3+1,Düz Giriş,Kombi Doğalgaz,1500000,Kayseri - Kocasinan - Yavuzlar Mahallesi,Kayseri,3,Yavuzlar Mahallesi
+2,12,2,Konut,156,3+1,1.Kat,Merkezi (Pay Ölçer),2175000,Kayseri - Kocasinan - Yenidoğan Mahallesi,Kayseri,3,Yenidoğan Mahallesi
+0 (Yeni),1,0,Konut,60,Stüdyo,Villa Tipi,Isıtma Yok,1500000,Kayseri - Kocasinan - Boyacı Mahallesi,Kayseri,3,Boyacı Mahallesi
+0 (Yeni),14,0,Konut,115,2+1,3.Kat,Merkezi Doğalgaz,197000,Kayseri - Kocasinan - Cırgalan Mahallesi,Kayseri,3,Cırgalan Mahallesi
+16-20,2,2,Konut,360,7+1,Müstakil.Kat,Sobalı,9950000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),2,0,Konut,450,5+2,Villa Tipi,Kombi Doğalgaz,8999000,Kayseri - Melikgazi - Eğribucak Mahallesi,Kayseri,4,Eğribucak Mahallesi
+21 Ve Üzeri,4,0,Konut,120,3+1,3.Kat,Merkezi Doğalgaz,739000,Kayseri - Melikgazi - Kılıçaslan Mahallesi,Kayseri,4,Kılıçaslan Mahallesi
+0 (Yeni),15,0,Konut,170,4+1,6.Kat,Merkezi Doğalgaz,2650000,Kayseri - Kocasinan - Ziyagökalp Mahallesi,Kayseri,3,Ziyagökalp Mahallesi
+16-20,4,2,Konut,350,9+ Oda,Düz Giriş,Kombi Doğalgaz,3500000,Kayseri - Melikgazi - Hisarcık Mahallesi,Kayseri,4,Hisarcık Mahallesi
+0 (Yeni),6,0,Konut,120,3+1,2.Kat,Merkezi (Pay Ölçer),1640000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+0 (Yeni),12,0,Konut,90,2+1,3.Kat,Merkezi (Pay Ölçer),292000,Kayseri - Kocasinan - Ahi Evran Mahallesi,Kayseri,3,Ahi Evran Mahallesi
+0 (Yeni),14,0,Konut,180,4+1,6.Kat,Merkezi (Pay Ölçer),2650000,Kayseri - Kocasinan - Ziyagökalp Mahallesi,Kayseri,3,Ziyagökalp Mahallesi
+5-10,15,2,Konut,140,3+1,7.Kat,Merkezi Doğalgaz,1500000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+0 (Yeni),14,0,Konut,150,3+1,10.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Kocasinan - Hoca Ahmet Yesevi Mahallesi,Kayseri,3,Hoca Ahmet Yesevi Mahallesi
+11-15,9,1,Konut,125,3+1,2.Kat,Kombi Doğalgaz,1250000,Kayseri - Melikgazi - 30 Ağustos Mahallesi,Kayseri,4,30 Ağustos Mahallesi
+11-15,10,1,Konut,135,3+1,3.Kat,Merkezi Doğalgaz,1565000,Kayseri - Melikgazi - Aydınlıkevler Mahallesi,Kayseri,4,Aydınlıkevler Mahallesi
+11-15,2,0,Konut,140,3+1,Düz Giriş,Sobalı,3200000,Kayseri - Melikgazi - Ağırnas Mahallesi,Kayseri,4,Ağırnas Mahallesi
+21 Ve Üzeri,2,1,Konut,120,2+1,1.Kat,Kombi Doğalgaz,875000,Kayseri - Kocasinan - Yeni Mahallesi,Kayseri,3,Yeni Mahallesi
+0 (Yeni),14,0,Konut,160,4+1,6.Kat,Merkezi (Pay Ölçer),2200000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+5-10,13,0,Konut,122,3+1,12.Kat,Merkezi Doğalgaz,1550000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+2,16,0,Konut,85,2+1,16.Kat,Merkezi (Pay Ölçer),1550000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+4,14,0,Konut,175,3+1,Yüksek Giriş,Merkezi Doğalgaz,2900000,Kayseri - Kocasinan - Barbaros Mahallesi,Kayseri,3,Barbaros Mahallesi
+0 (Yeni),2,0,Konut,190,5+1,Düz Giriş,Kombi Doğalgaz,5850000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+0 (Yeni),13,0,Konut,155,4+1,1.Kat,Merkezi Doğalgaz,2250000,Kayseri - Kocasinan - Saray Bosna Mahallesi,Kayseri,3,Saray Bosna Mahallesi
+5-10,14,0,Konut,180,4+1,9.Kat,Merkezi (Pay Ölçer),2600000,Kayseri - Kocasinan - Barbaros Mahallesi,Kayseri,3,Barbaros Mahallesi
+5-10,8,0,Konut,250,6+1,8.Kat,Merkezi (Pay Ölçer),7750000,Kayseri - Kocasinan - Yıldızevler Mahallesi,Kayseri,3,Yıldızevler Mahallesi
+5-10,12,2,Konut,125,3+1,2.Kat,Merkezi (Pay Ölçer),1475000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+2,13,0,Konut,105,3+1,13.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+3,8,2,Konut,130,3+1,5.Kat,Kombi Doğalgaz,1675000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+16-20,9,2,Konut,195,4+1,8.Kat,Merkezi Doğalgaz,3450000,Kayseri - Kocasinan - Erciyesevler Mahallesi,Kayseri,3,Erciyesevler Mahallesi
+5-10,12,1,Konut,160,3+1,10.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+5-10,12,2,Konut,140,3+1,7.Kat,Merkezi (Pay Ölçer),1500000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+5-10,14,2,Konut,165,3+1,8.Kat,Merkezi Doğalgaz,1750000,Kayseri - Kocasinan - Argıncık Mahallesi,Kayseri,3,Argıncık Mahallesi
+5-10,3,2,Konut,250,6+1,Düz Giriş,Kombi Doğalgaz,11500000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+2,9,1,Konut,140,3+1,9.Kat,Merkezi (Pay Ölçer),1800000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+21 Ve Üzeri,14,0,Konut,230,4+1,10.Kat,Merkezi Doğalgaz,2950000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+0 (Yeni),12,0,Konut,135,3+1,5.Kat,Merkezi (Pay Ölçer),165000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),12,0,Konut,100,2+1,4.Kat,Merkezi (Pay Ölçer),96000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),12,0,Konut,135,4+1,4.Kat,Merkezi Doğalgaz,650000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),10,0,Konut,220,4+1,4.Kat,Merkezi Doğalgaz,3300000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+21 Ve Üzeri,5,2,Konut,130,3+1,5.Kat,Kombi Doğalgaz,1150000,Kayseri - Melikgazi - Osman Kavuncu Mahallesi,Kayseri,4,Osman Kavuncu Mahallesi
+16-20,2,0,Konut,150,3+1,Düz Giriş,Sobalı,1100000,Kayseri - Melikgazi - Ağırnas Mahallesi,Kayseri,4,Ağırnas Mahallesi
+0 (Yeni),14,0,Konut,90,2+1,9.Kat,Merkezi (Pay Ölçer),310000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+16-20,2,1,Konut,361,3+1,Düz Giriş,Sobalı,5500000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+0 (Yeni),13,0,Konut,110,3+1,1.Kat,Merkezi (Pay Ölçer),550000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),2,0,Konut,200,4+1,Düz Giriş,Kombi Doğalgaz,6750000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),14,0,Konut,140,3+1,1.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+21 Ve Üzeri,2,1,Konut,219,3+1,Düz Giriş,Sobalı,1000000,Kayseri - Kocasinan - Argıncık Mahallesi,Kayseri,3,Argıncık Mahallesi
+5-10,15,0,Konut,200,4+1,7.Kat,Merkezi Doğalgaz,3450000,Kayseri - Kocasinan - Kocasinan Mahallesi,Kayseri,3,Kocasinan Mahallesi
+0 (Yeni),15,0,Konut,135,3+1,10.Kat,Merkezi Doğalgaz,1550000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+16-20,3,2,Konut,350,7+2,Düz Giriş,Isıtma Yok,5999000,Kayseri - Melikgazi - Kazımkarabekir Mahallesi,Kayseri,4,Kazımkarabekir Mahallesi
+0 (Yeni),14,0,Konut,87,2+1,2.Kat,Merkezi (Pay Ölçer),1000000,Kayseri - Melikgazi - Tavlusun Mahallesi,Kayseri,4,Tavlusun Mahallesi
+5-10,14,2,Konut,135,3+1,14.Kat,Merkezi Doğalgaz,1535000,Kayseri - Melikgazi - 30 Ağustos Mahallesi,Kayseri,4,30 Ağustos Mahallesi
+0 (Yeni),9,0,Konut,130,3+1,5.Kat,Merkezi (Pay Ölçer),2380000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+21 Ve Üzeri,8,2,Konut,120,3+1,Yüksek Giriş,Merkezi (Pay Ölçer),965000,Kayseri - Kocasinan - Mimarsinan Mahallesi,Kayseri,3,Mimarsinan Mahallesi
+21 Ve Üzeri,14,2,Konut,195,4+1,2.Kat,Merkezi Doğalgaz,2250000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+4,3,2,Konut,300,1+1,Villa Tipi,Kombi Doğalgaz,4850000,Kayseri - Melikgazi - Mimarsinan Mahallesi,Kayseri,4,Mimarsinan Mahallesi
+2,2,2,Konut,120,2+1,Düz Giriş,Sobalı,2500000,Kayseri - Melikgazi - Kayabağ Mahallesi,Kayseri,4,Kayabağ Mahallesi
+2,12,0,Konut,90,2+1,9.Kat,Merkezi (Pay Ölçer),1110000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+3,10,2,Konut,180,4+1,1.Kat,Merkezi (Pay Ölçer),2500000,Kayseri - Kocasinan - Yakut Mahallesi,Kayseri,3,Yakut Mahallesi
+11-15,14,2,Konut,250,4+1,12.Kat,Merkezi (Pay Ölçer),5200000,Kayseri - Melikgazi - Yıldırım Beyazıt Mahallesi,Kayseri,4,Yıldırım Beyazıt Mahallesi
+2,14,2,Konut,132,3+1,10.Kat,Merkezi (Pay Ölçer),2050000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+5-10,10,1,Konut,150,3+1,3.Kat,Kombi Doğalgaz,1300000,Kayseri - Kocasinan - Argıncık Mahallesi,Kayseri,3,Argıncık Mahallesi
+0 (Yeni),2,0,Konut,200,6+2,Düz Giriş,Kombi Doğalgaz,7500000,Kayseri - Melikgazi - Altınoluk Mahallesi,Kayseri,4,Altınoluk Mahallesi
+5-10,12,2,Konut,125,3+1,5.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),10,0,Konut,135,3+1,2.Kat,Merkezi (Pay Ölçer),1350000,Kayseri - Kocasinan - Ertuğrul Gazi Mahallesi,Kayseri,3,Ertuğrul Gazi Mahallesi
+21 Ve Üzeri,3,0,Konut,540,6+4,Düz Giriş,Kombi Doğalgaz,9000000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+5-10,4,2,Konut,100,2+1,,Kombi Doğalgaz,3650000,Kayseri - Melikgazi - Danişmend Gazi Mahallesi,Kayseri,4,Danişmend Gazi Mahallesi
+11-15,14,2,Konut,150,3+1,12.Kat,Kombi Doğalgaz,2090000,Kayseri - Kocasinan - Seyrani Mahallesi,Kayseri,3,Seyrani Mahallesi
+11-15,10,2,Konut,150,3+1,3.Kat,Kombi Doğalgaz,2375000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+11-15,12,1,Konut,240,4+1,2.Kat,Merkezi Doğalgaz,3460000,Kayseri - Melikgazi - Alpaslan Mahallesi,Kayseri,4,Alpaslan Mahallesi
+21 Ve Üzeri,8,0,Konut,140,3+1,8.Kat,Merkezi Doğalgaz,1650000,Kayseri - Melikgazi - Kılıçaslan Mahallesi,Kayseri,4,Kılıçaslan Mahallesi
+11-15,14,2,Konut,115,3+1,1.Kat,Merkezi Doğalgaz,1100000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+21 Ve Üzeri,3,1,Konut,120,3+1,3.Kat,Kombi Doğalgaz,785000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+5-10,3,1,Konut,385,9+ Oda,Villa Tipi,Kombi Doğalgaz,13500000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+1,2,2,Konut,300,5+1,Düz Giriş,Yerden Isıtma,9980000,Kayseri - Melikgazi - Eğribucak Mahallesi,Kayseri,4,Eğribucak Mahallesi
+5-10,14,2,Konut,135,3+1,5.Kat,Merkezi Doğalgaz,1455000,Kayseri - Melikgazi - 19 Mayıs Mahallesi,Kayseri,4,19 Mayıs Mahallesi
+11-15,15,2,Konut,135,3+1,10-20.Kat,Merkezi Doğalgaz,1700000,Kayseri - Melikgazi - Gülük Mahallesi,Kayseri,4,Gülük Mahallesi
+0 (Yeni),13,0,Konut,130,3+1,6.Kat,Merkezi (Pay Ölçer),1590000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+1,13,0,Konut,135,3.5+1,6.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+11-15,1,0,Konut,150,2+1,Bahçe Katı,Sobalı,2200000,Kayseri - Melikgazi - Bağpınar Mahallesi,Kayseri,4,Bağpınar Mahallesi
+0 (Yeni),10,0,Konut,135,3+1,2.Kat,Merkezi Doğalgaz,1575000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,2,2,Konut,250,4+1,Bahçe Dublex,Sobalı,6750000,Kayseri - Kocasinan - Oymaağaç Mahallesi,Kayseri,3,Oymaağaç Mahallesi
+21 Ve Üzeri,7,2,Konut,160,3+1,1.Kat,Merkezi Doğalgaz,990000,Kayseri - Melikgazi - Gülük Mahallesi,Kayseri,4,Gülük Mahallesi
+0 (Yeni),10,0,Konut,180,3+1,8.Kat,Merkezi Doğalgaz,2100000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+2,10,0,Konut,140,3+1,2.Kat,Merkezi Doğalgaz,1640000,Kayseri - Melikgazi - Esentepe Mahallesi,Kayseri,4,Esentepe Mahallesi
+1,12,0,Konut,140,4+1,2.Kat,Merkezi (Pay Ölçer),2390000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+5-10,12,1,Konut,135,3+1,4.Kat,Merkezi Doğalgaz,1300000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+5-10,10,1,Konut,185,4+1,4.Kat,Merkezi Doğalgaz,2225000,Kayseri - Kocasinan - Erciyesevler Mahallesi,Kayseri,3,Erciyesevler Mahallesi
+0 (Yeni),3,0,Konut,250,6+1,Düz Giriş,Kombi Doğalgaz,11000000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+21 Ve Üzeri,5,2,Konut,100,3+1,4.Kat,Kombi Doğalgaz,970000,Kayseri - Melikgazi - Anafartalar Mahallesi,Kayseri,4,Anafartalar Mahallesi
+5-10,2,2,Konut,450,9+ Oda,Düz Giriş,Kombi Doğalgaz,18000000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+0 (Yeni),12,0,Konut,135,3+1,1.Kat,Merkezi Doğalgaz,1560000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+1,14,2,Konut,145,3+1,4.Kat,Merkezi (Pay Ölçer),1450000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+4,9,0,Konut,135,3+1,3.Kat,Merkezi (Pay Ölçer),1590000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+21 Ve Üzeri,1,2,Konut,110,2+1,Düz Giriş,Kombi Doğalgaz,1250000,Kayseri - Kocasinan - Yeşil Mahallesi,Kayseri,3,Yeşil Mahallesi
+0 (Yeni),12,0,Konut,120,3+1,5.Kat,Merkezi Doğalgaz,1535000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+0 (Yeni),8,0,Konut,140,3+1,1.Kat,Kombi Doğalgaz,1475000,Kayseri - Kocasinan - Yavuzlar Mahallesi,Kayseri,3,Yavuzlar Mahallesi
+5-10,12,0,Konut,135,3+1,10.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Melikgazi - Fatih Mahallesi,Kayseri,4,Fatih Mahallesi
+0 (Yeni),7,0,Konut,130,3+1,3.Kat,Merkezi (Pay Ölçer),1590000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+11-15,5,1,Konut,190,3+1,1.Kat,Kombi Doğalgaz,1389000,Kayseri - Kocasinan - Barbaros Mahallesi,Kayseri,3,Barbaros Mahallesi
+2,2,0,Konut,380,5+1,Düz Giriş,Kombi Doğalgaz,8350000,Kayseri - Melikgazi - Hisarcık Mahallesi,Kayseri,4,Hisarcık Mahallesi
+16-20,6,2,Konut,144,3+1,4.Kat,Kombi Doğalgaz,1460000,Kayseri - Melikgazi - Yeniköy Mahallesi,Kayseri,4,Yeniköy Mahallesi
+0 (Yeni),10,0,Konut,130,3+1,3.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),13,0,Konut,140,3+1,3.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),14,0,Konut,135,3.5+1,1.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+21 Ve Üzeri,9,1,Konut,150,3+1,3.Kat,Merkezi Doğalgaz,1325000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+21 Ve Üzeri,8,2,Konut,170,4+1,7.Kat,Merkezi Doğalgaz,2150000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+0 (Yeni),15,0,Konut,95,2+1,6.Kat,Merkezi (Pay Ölçer),1350000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+1,6,0,Konut,120,3+1,2.Kat,Kombi Doğalgaz,1380000,Kayseri - Melikgazi - Gökkent Mahallesi,Kayseri,4,Gökkent Mahallesi
+5-10,13,1,Konut,135,3+1,1.Kat,Merkezi Doğalgaz,1360000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),14,0,Konut,145,3+1,11.Kat,Merkezi (Pay Ölçer),1790000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+0 (Yeni),2,0,Konut,200,4+1,Bahçe Dublex,Kombi Doğalgaz,5500000,Kayseri - Melikgazi - Gesi Mahallesi,Kayseri,4,Gesi Mahallesi
+0 (Yeni),5,0,Konut,135,3+1,3.Kat,Kombi Doğalgaz,1875000,Kayseri - Kocasinan - Erkilet Mahallesi,Kayseri,3,Erkilet Mahallesi
+0 (Yeni),14,0,Konut,95,2.5+1,12.Kat,Merkezi Doğalgaz,1125000,Kayseri - Kocasinan - Yavuzlar Mahallesi,Kayseri,3,Yavuzlar Mahallesi
+0 (Yeni),10,0,Konut,95,2+1,6.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+0 (Yeni),14,0,Konut,135,3+1,2.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),9,0,Konut,120,3+1,6.Kat,Merkezi (Pay Ölçer),2000000,Kayseri - Melikgazi - Aydınlıkevler Mahallesi,Kayseri,4,Aydınlıkevler Mahallesi
+4,9,2,Konut,120,2.5+1,4.Kat,Merkezi (Pay Ölçer),1120000,Kayseri - Melikgazi - Anbar Mahallesi,Kayseri,4,Anbar Mahallesi
+5-10,13,1,Konut,120,3+1,11.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),14,0,Konut,155,4+1,4.Kat,Merkezi (Pay Ölçer),2350000,Kayseri - Kocasinan - Alsancak Mahallesi,Kayseri,3,Alsancak Mahallesi
+0 (Yeni),14,0,Konut,110,3+1,14.Kat,Merkezi Doğalgaz,1310000,Kayseri - Kocasinan - Turgut Reis Mahallesi,Kayseri,3,Turgut Reis Mahallesi
+0 (Yeni),10,0,Konut,149,4+1,7.Kat,Merkezi (Pay Ölçer),1800000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+0 (Yeni),8,0,Konut,140,3+1,1.Kat,Kombi Doğalgaz,1475000,Kayseri - Kocasinan - Yavuzlar Mahallesi,Kayseri,3,Yavuzlar Mahallesi
+4,12,1,Konut,130,3+1,10.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),10,0,Konut,130,3+1,1.Kat,Merkezi (Pay Ölçer),1890000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+3,15,2,Konut,132,3+1,10.Kat,Merkezi Doğalgaz,1690000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),14,0,Konut,140,4+1,8.Kat,Merkezi Doğalgaz,2800000,Kayseri - Melikgazi - 30 Ağustos Mahallesi,Kayseri,4,30 Ağustos Mahallesi
+5-10,15,1,Konut,120,3+1,10-20.Kat,Merkezi (Pay Ölçer),1599000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),3,0,Konut,430,4+2,3.Kat,Kombi Doğalgaz,10500000,Kayseri - Melikgazi - Erenköy Mahallesi,Kayseri,4,Erenköy Mahallesi
+1,10,2,Konut,135,3+1,10.Kat,Merkezi Doğalgaz,1550000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+16-20,11,1,Konut,120,3+1,9.Kat,Kombi Doğalgaz,1135000,Kayseri - Kocasinan - Yavuzlar Mahallesi,Kayseri,3,Yavuzlar Mahallesi
+0 (Yeni),11,0,Konut,135,3+2,3.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Kocasinan - Beyazşehir Mahallesi,Kayseri,3,Beyazşehir Mahallesi
+0 (Yeni),9,0,Konut,130,3+1,4.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Kocasinan - Şeker Mahallesi,Kayseri,3,Şeker Mahallesi
+0 (Yeni),13,0,Konut,140,3+1,10.Kat,Merkezi Doğalgaz,2050000,Kayseri - Kocasinan - Sancaktepe Mahallesi,Kayseri,3,Sancaktepe Mahallesi
+1,23,0,Konut,185,4+1,7.Kat,Merkezi Doğalgaz,7500000,Kayseri - Kocasinan - Sahabiye Mahallesi,Kayseri,3,Sahabiye Mahallesi
+0 (Yeni),11,0,Konut,100,2+1,3.Kat,Kombi Doğalgaz,1700000,Kayseri - Melikgazi - Kılıçaslan Mahallesi,Kayseri,4,Kılıçaslan Mahallesi
+2,9,2,Konut,130,3+1,8.Kat,Merkezi Doğalgaz,2245000,Kayseri - Melikgazi - Kocatepe Mahallesi,Kayseri,4,Kocatepe Mahallesi
+0 (Yeni),6,0,Konut,140,3+1,4.Kat,Kombi Doğalgaz,1880000,Kayseri - Melikgazi - Demokrasi Mahallesi,Kayseri,4,Demokrasi Mahallesi
+4,12,0,Konut,200,4+1,4.Kat,Merkezi (Pay Ölçer),5700000,Kayseri - Kocasinan - Erciyesevler Mahallesi,Kayseri,3,Erciyesevler Mahallesi
+0 (Yeni),12,0,Konut,135,3+1,2.Kat,Merkezi Doğalgaz,1750000,Kayseri - Kocasinan - Yavuzlar Mahallesi,Kayseri,3,Yavuzlar Mahallesi
+0 (Yeni),12,0,Konut,125,3+1,1.Kat,Kat Kaloriferi,1650000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+0 (Yeni),14,0,Konut,100,3+1,4.Kat,Merkezi (Pay Ölçer),560000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+16-20,4,1,Konut,100,9+ Oda,4.Kat,Kombi Doğalgaz,2450000,Kayseri - Melikgazi - Osmanlı Mahallesi,Kayseri,4,Osmanlı Mahallesi
+0 (Yeni),6,0,Konut,135,3+1,1.Kat,Kombi Doğalgaz,1900000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+21 Ve Üzeri,3,0,Konut,160,3+1,3.Kat,Kombi Doğalgaz,1200000,Kayseri - Kocasinan - Barbaros Mahallesi,Kayseri,3,Barbaros Mahallesi
+0 (Yeni),12,0,Konut,120,2.5+1,5.Kat,Merkezi Doğalgaz,540000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+11-15,3,1,Konut,100,2+1,3.Kat,Kombi Doğalgaz,840000,Kayseri - Kocasinan - General Emir Mahallesi,Kayseri,3,General Emir Mahallesi
+11-15,14,2,Konut,130,3+1,3.Kat,Merkezi Doğalgaz,1615000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+0 (Yeni),12,0,Konut,150,4+1,11.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),14,0,Konut,120,3+1,8.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Kocasinan - Seyrani Mahallesi,Kayseri,3,Seyrani Mahallesi
+1,7,0,Konut,130,3+1,3.Kat,Kombi Doğalgaz,1980000,Kayseri - Kocasinan - Mithatpaşa Mahallesi,Kayseri,3,Mithatpaşa Mahallesi
+21 Ve Üzeri,3,2,Konut,115,3+1,3.Kat,Doğalgaz Sobalı,775000,Kayseri - Melikgazi - Kılıçaslan Mahallesi,Kayseri,4,Kılıçaslan Mahallesi
+11-15,14,1,Konut,135,3+1,12.Kat,Merkezi Doğalgaz,1510000,Kayseri - Melikgazi - Battalgazi Mahallesi,Kayseri,4,Battalgazi Mahallesi
+11-15,10,1,Konut,140,3+1,4.Kat,Merkezi Doğalgaz,1125000,Kayseri - Kocasinan - Osmangazi Mahallesi,Kayseri,3,Osmangazi Mahallesi
+0 (Yeni),12,0,Konut,120,3+1,8.Kat,Merkezi (Pay Ölçer),1730000,Kayseri - Melikgazi - Gülük Mahallesi,Kayseri,4,Gülük Mahallesi
+21 Ve Üzeri,7,1,Konut,125,3+1,3.Kat,Kombi Doğalgaz,945000,Kayseri - Kocasinan - Gevhernesibe Mahallesi,Kayseri,3,Gevhernesibe Mahallesi
+5-10,12,0,Konut,240,4+1,6.Kat,Merkezi (Pay Ölçer),4575000,Kayseri - Kocasinan - Mimarsinan Mahallesi,Kayseri,3,Mimarsinan Mahallesi
+21 Ve Üzeri,1,0,Konut,145,4+1,Düz Giriş,Isıtma Yok,350000,Kayseri - Kocasinan - Güneşli Mahallesi,Kayseri,3,Güneşli Mahallesi
+5-10,3,2,Konut,350,6+2,Villa Tipi,Kombi Doğalgaz,12500000,Kayseri - Melikgazi - Becen Mahallesi,Kayseri,4,Becen Mahallesi
+0 (Yeni),14,0,Konut,160,4+1,5.Kat,Merkezi (Pay Ölçer),3600000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+5-10,14,2,Konut,165,4+1,2.Kat,Merkezi (Pay Ölçer),5150000,Kayseri - Kocasinan - Yıldızevler Mahallesi,Kayseri,3,Yıldızevler Mahallesi
+5-10,3,2,Konut,350,6+2,Villa Tipi,Kombi Doğalgaz,11500000,Kayseri - Melikgazi - Kıranardı Mahallesi,Kayseri,4,Kıranardı Mahallesi
+0 (Yeni),12,0,Konut,90,2+1,7.Kat,Merkezi (Pay Ölçer),235000,Kayseri - Melikgazi - Yeşilyurt Mahallesi,Kayseri,4,Yeşilyurt Mahallesi
+5-10,10,1,Konut,135,3+1,9.Kat,Merkezi Doğalgaz,1283000,Kayseri - Kocasinan - Hoca Ahmet Yesevi Mahallesi,Kayseri,3,Hoca Ahmet Yesevi Mahallesi
+16-20,12,1,Konut,100,3+1,4.Kat,Merkezi Doğalgaz,670000,Kayseri - Melikgazi - Mimarsinan Mahallesi,Kayseri,4,Mimarsinan Mahallesi
+21 Ve Üzeri,7,1,Konut,135,3+1,3.Kat,Kombi Doğalgaz,1550000,Kayseri - Kocasinan - Gevhernesibe Mahallesi,Kayseri,3,Gevhernesibe Mahallesi
+5-10,14,2,Konut,125,3+1,13.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Kocasinan - Uğurevler Mahallesi,Kayseri,3,Uğurevler Mahallesi
+0 (Yeni),12,0,Konut,120,3+1,8.Kat,Merkezi Doğalgaz,1850000,Kayseri - Kocasinan - Zümrüt Mahallesi,Kayseri,3,Zümrüt Mahallesi
+21 Ve Üzeri,3,0,Konut,125,3+1,2.Kat,Kombi Doğalgaz,1250000,Kayseri - Melikgazi - Esenyurt Mahallesi,Kayseri,4,Esenyurt Mahallesi
+0 (Yeni),9,0,Konut,135,3+1,8.Kat,Merkezi (Pay Ölçer),1975000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),12,0,Konut,140,3+1,6.Kat,Merkezi Doğalgaz,1555000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+0 (Yeni),12,0,Konut,140,3.5+1,12.Kat,Merkezi (Pay Ölçer),1895000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+21 Ve Üzeri,3,1,Konut,140,3+1,Bahçe Dublex,Kombi Doğalgaz,6200000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+0 (Yeni),12,0,Konut,140,3+1,1.Kat,Merkezi (Pay Ölçer),2000000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+2,10,2,Konut,110,2+1,4.Kat,Merkezi Doğalgaz,1580000,Kayseri - Melikgazi - Kazımkarabekir Mahallesi,Kayseri,4,Kazımkarabekir Mahallesi
+5-10,12,2,Konut,135,3+1,8.Kat,Merkezi (Pay Ölçer),1400000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),10,0,Konut,110,2+1,3.Kat,Merkezi (Pay Ölçer),1800000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+0 (Yeni),10,0,Konut,125,3+1,5.Kat,Merkezi Doğalgaz,2300000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+21 Ve Üzeri,2,0,Konut,140,2+1,Bahçe Katı,Sobalı,5500000,Kayseri - Kocasinan - Buğdaylı Mahallesi,Kayseri,3,Buğdaylı Mahallesi
+0 (Yeni),14,0,Konut,140,3.5+1,6.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Melikgazi - Gesi Fatih Mahallesi,Kayseri,4,Gesi Fatih Mahallesi
+0 (Yeni),10,0,Konut,125,3+1,5.Kat,Merkezi (Pay Ölçer),1350000,Kayseri - Melikgazi - Bahçelievler Mahallesi,Kayseri,4,Bahçelievler Mahallesi
+0 (Yeni),10,0,Konut,125,3+1,7.Kat,Merkezi Doğalgaz,1350000,Kayseri - Melikgazi - Şirintepe Mahallesi,Kayseri,4,Şirintepe Mahallesi
+0 (Yeni),14,2,Konut,160,4+1,1.Kat,Merkezi (Pay Ölçer),2000000,Kayseri - Melikgazi - İldem Cumhuriyet Mahallesi,Kayseri,4,İldem Cumhuriyet Mahallesi
+5-10,11,1,Konut,165,4+1,4.Kat,Merkezi Doğalgaz,2225000,Kayseri - Kocasinan - Erciyesevler Mahallesi,Kayseri,3,Erciyesevler Mahallesi
+5-10,3,0,Konut,1860,9+ Oda,Villa Tipi,Kat Kaloriferi,10500000,Kayseri - Melikgazi - Mimarsinan Mahallesi,Kayseri,4,Mimarsinan Mahallesi
+5-10,3,2,Konut,450,9+ Oda,Düz Giriş,Kat Kaloriferi,4250000,Kayseri - Melikgazi - Bağpınar Mahallesi,Kayseri,4,Bağpınar Mahallesi
+21 Ve Üzeri,3,1,Konut,90,2+1,Tam Bodrum.Kat,Kombi Doğalgaz,420000,Kayseri - Kocasinan - Yeni Mahallesi,Kayseri,3,Yeni Mahallesi
+5-10,14,1,Konut,30,1+1,9.Kat,Merkezi (Pay Ölçer),850000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,1,0,Konut,42,2+0,Düz Giriş,Isıtma Yok,1100000,Kayseri - Talas - Tablakaya Mahallesi,Kayseri,7,Tablakaya Mahallesi
+11-15,9,0,Konut,145,3+1,5.Kat,Merkezi Doğalgaz,1950000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+11-15,14,1,Konut,110,3+1,12.Kat,Merkezi Doğalgaz,1235000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,140,4+1,2.Kat,Merkezi (Pay Ölçer),2585000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,13,0,Konut,200,4+1,8.Kat,Merkezi (Pay Ölçer),2875000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),1,0,Konut,155,1+1,Düz Giriş,Sobalı,1890000,Kayseri - Hacılar - Akyazı Mahallesi,Kayseri,2,Akyazı Mahallesi
+5-10,13,0,Konut,110,3+1,10.Kat,Merkezi (Pay Ölçer),2200000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,2,Konut,150,3+1,13.Kat,Merkezi (Pay Ölçer),2100000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),7,0,Konut,90,2.5+1,5.Kat,Kombi Doğalgaz,1950000,Kayseri - Talas - Tablakaya Mahallesi,Kayseri,7,Tablakaya Mahallesi
+2,4,0,Konut,170,4+1,Çatı Katı,Kombi Doğalgaz,1575000,Kayseri - Develi - Harman Mahallesi,Kayseri,1,Harman Mahallesi
+11-15,14,1,Konut,135,3+1,11.Kat,Merkezi (Pay Ölçer),1500000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+2,13,1,Konut,85,2+1,3.Kat,Merkezi (Pay Ölçer),1400000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,1,Konut,90,2+1,12.Kat,Merkezi (Pay Ölçer),1250000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,13,1,Konut,165,3+1,12.Kat,Merkezi (Pay Ölçer),2200000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+1,14,1,Konut,100,2+1,3.Kat,Merkezi (Pay Ölçer),1375000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+1,1,2,Konut,100,1+1,1.Kat,Sobalı,3000000,Kayseri - İncesu - Garipçe Mahallesi,Kayseri,10,Garipçe Mahallesi
+0 (Yeni),14,0,Konut,125,3+1,7.Kat,Merkezi Doğalgaz,377000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,105,3+1,5.Kat,Merkezi Doğalgaz,306000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),10,0,Konut,100,2+1,4.Kat,Merkezi Doğalgaz,265000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),2,0,Konut,200,3.5+1,Düz Giriş,Kombi Doğalgaz,4250000,Kayseri - Hacılar - Beğendik Mahallesi,Kayseri,2,Beğendik Mahallesi
+11-15,14,1,Konut,125,3+1,12.Kat,Merkezi Doğalgaz,1240000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,4,2,Konut,140,3+1,1.Kat,Kombi Doğalgaz,1575000,Kayseri - Develi - Camiicedit Mahallesi,Kayseri,1,Camiicedit Mahallesi
+16-20,15,0,Konut,125,3+1,6.Kat,Merkezi Doğalgaz,1265000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,2,Konut,160,3+1,11.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,4,2,Konut,100,2+1,Düz Giriş,Kombi Doğalgaz,1250000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,8,1,Konut,135,3+1,2.Kat,Merkezi Doğalgaz,2000000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,0,Konut,135,3+1,7.Kat,Merkezi Doğalgaz,1450000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,130,3+1,6.Kat,Merkezi Doğalgaz,1550000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,15,0,Konut,135,3+1,12.Kat,Merkezi Doğalgaz,1347500,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+16-20,14,0,Konut,135,3+1,11.Kat,Merkezi Doğalgaz,1400000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,14,2,Konut,135,3+1,7.Kat,Merkezi (Pay Ölçer),1250000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+1,4,1,Konut,85,2+1,2.Kat,Kombi Doğalgaz,1195000,Kayseri - Develi - Aşık Seyrani Mahallesi,Kayseri,1,Aşık Seyrani Mahallesi
+0 (Yeni),4,0,Konut,120,3+1,Düz Giriş,Kombi Doğalgaz,1260000,Kayseri - Develi - Mehmet Akif Ersoy Mahallesi,Kayseri,1,Mehmet Akif Ersoy Mahallesi
+11-15,12,1,Konut,125,3+1,2.Kat,Merkezi (Pay Ölçer),1795000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+0 (Yeni),10,0,Konut,145,3.5+1,7.Kat,Merkezi (Pay Ölçer),2350000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+2,14,1,Konut,155,3+1,9.Kat,Merkezi (Pay Ölçer),2525000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,2,0,Konut,220,6+1,Düz Giriş,Kombi Doğalgaz,4950000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+21 Ve Üzeri,3,2,Konut,400,6+2,Düz Giriş,Kombi Doğalgaz,4350000,Kayseri - Talas - Tablakaya Mahallesi,Kayseri,7,Tablakaya Mahallesi
+1,2,1,Konut,95,2.5+1,1.Kat,Kombi Doğalgaz,1499000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+5-10,6,1,Konut,135,3+0,3.Kat,Kombi Doğalgaz,1375000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,14,2,Konut,130,3+1,9.Kat,Merkezi (Pay Ölçer),1587000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,0,Konut,85,2+1,3.Kat,Merkezi (Pay Ölçer),1410000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+0 (Yeni),3,0,Konut,110,3+1,3.Kat,Kombi Doğalgaz,1750000,Kayseri - Develi - Harman Mahallesi,Kayseri,1,Harman Mahallesi
+5-10,14,0,Konut,165,3+1,4.Kat,Kombi Doğalgaz,1980000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,14,0,Konut,155,3+1,14.Kat,Merkezi (Pay Ölçer),1625000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,0,Konut,250,4+1,14.Kat,Merkezi (Pay Ölçer),2799000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,2,Konut,135,3+1,7.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,7,1,Konut,70,1+1,7.Kat,Merkezi Doğalgaz,955000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,0,Konut,135,3+1,10.Kat,Merkezi Doğalgaz,1625000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,14,1,Konut,135,3+1,1.Kat,Merkezi Doğalgaz,1450000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),4,0,Konut,99,2+1,1.Kat,Kombi Doğalgaz,1250000,Kayseri - Develi - Reşadiye Mahallesi,Kayseri,1,Reşadiye Mahallesi
+5-10,14,0,Konut,125,3+1,11.Kat,Merkezi (Pay Ölçer),1585000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,0,Konut,135,3+1,13.Kat,Merkezi (Pay Ölçer),2200000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+1,14,1,Konut,100,2.5+1,10.Kat,Merkezi (Pay Ölçer),1580000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+2,14,1,Konut,100,2.5+1,3.Kat,Merkezi (Pay Ölçer),1380000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+2,14,1,Konut,115,2+1,3.Kat,Merkezi (Pay Ölçer),1365000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,1,2,Konut,100,2+1,Müstakil.Kat,Kombi Doğalgaz,850000,Kayseri - Develi - Güneyyukarı Mahallesi,Kayseri,1,Güneyyukarı Mahallesi
+11-15,15,1,Konut,115,3+1,9.Kat,Merkezi (Pay Ölçer),1200000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,15,2,Konut,145,3+1,11.Kat,Merkezi Doğalgaz,1690000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,2,Konut,140,3+1,14.Kat,Merkezi (Pay Ölçer),1350000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,4,2,Konut,154,4+1,Bahçe Dublex,Kombi Doğalgaz,1450000,Kayseri - Develi - Yeni Mahallesi,Kayseri,1,Yeni Mahallesi
+11-15,2,2,Konut,220,8+1,Villa Tipi,Sobalı,1930000,Kayseri - Sarıoğlan - Gaziler Mahallesi,Kayseri,5,Gaziler Mahallesi
+0 (Yeni),3,1,Konut,85,2.5+1,1.Kat,Kombi Doğalgaz,1359000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,8,1,Konut,50,1+1,7.Kat,Merkezi Doğalgaz,965000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,14,1,Konut,140,3+1,11.Kat,Merkezi Doğalgaz,1350000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+21 Ve Üzeri,3,1,Konut,120,3+1,2.Kat,Merkezi Doğalgaz,1400000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+11-15,15,2,Konut,110,3+1,3.Kat,Merkezi Doğalgaz,1195000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,8,2,Konut,115,3+1,3.Kat,Merkezi (Pay Ölçer),2050000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,1,Konut,160,3.5+1,1.Kat,Merkezi (Pay Ölçer),2080000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,14,1,Konut,135,3+1,11.Kat,Merkezi Doğalgaz,1350000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+11-15,14,0,Konut,135,3+1,8.Kat,Merkezi Doğalgaz,1375000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+1,7,1,Konut,60,1+1,2.Kat,Merkezi (Pay Ölçer),1100000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),14,0,Konut,210,4+1,5.Kat,Merkezi (Pay Ölçer),5500000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),14,0,Konut,135,3+1,2.Kat,Merkezi (Pay Ölçer),2775000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),5,0,Konut,75,2+1,3.Kat,Kombi Doğalgaz,1150000,Kayseri - Develi - Harman Mahallesi,Kayseri,1,Harman Mahallesi
+3,9,0,Konut,140,3+1,5.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,1,Konut,150,3+1,13.Kat,Merkezi (Pay Ölçer),1999000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),13,0,Konut,150,3+1,9.Kat,Merkezi (Pay Ölçer),2280000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+11-15,14,2,Konut,135,3+1,14.Kat,Merkezi Doğalgaz,1350000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,15,0,Konut,110,3+1,12.Kat,Merkezi Doğalgaz,1270000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,7,1,Konut,55,1+1,1.Kat,Merkezi (Pay Ölçer),935000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),4,0,Konut,125,3+1,3.Kat,Kombi Doğalgaz,1320000,Kayseri - Develi - Alpaslan Mahallesi,Kayseri,1,Alpaslan Mahallesi
+5-10,14,0,Konut,185,3+1,3.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,140,3+1,13.Kat,Merkezi Doğalgaz,1630000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,1,Konut,135,3+1,12.Kat,Merkezi (Pay Ölçer),1330000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,175,4+1,5.Kat,Merkezi (Pay Ölçer),2850000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,3,1,Konut,100,3+1,1.Kat,Kombi Doğalgaz,960000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+11-15,8,0,Konut,110,2+1,2.Kat,Kombi Doğalgaz,1220000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+4,14,2,Konut,145,3.5+1,10.Kat,Merkezi (Pay Ölçer),2299000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),4,0,Konut,80,2+1,1.Kat,Kombi Doğalgaz,1350000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,155,4+1,3.Kat,Merkezi (Pay Ölçer),3650000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,11,0,Konut,140,3+1,6.Kat,Kombi Doğalgaz,2150000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,6,2,Konut,115,3+1,2.Kat,Kombi Doğalgaz,1500000,Kayseri - Develi - İbrahimağa Mahallesi,Kayseri,1,İbrahimağa Mahallesi
+4,14,2,Konut,145,3+1,14.Kat,Merkezi (Pay Ölçer),1694000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+3,14,2,Konut,180,4+1,8.Kat,Merkezi Doğalgaz,3400000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),5,0,Konut,90,3+0,4.Kat,Kombi Doğalgaz,1675000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,8,0,Konut,145,3+1,6.Kat,Kombi Doğalgaz,1700000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,15,1,Konut,150,3+1,6.Kat,Merkezi Doğalgaz,1850000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,14,2,Konut,100,2.5+1,12.Kat,Merkezi (Pay Ölçer),1400000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,90,2+1,10.Kat,Merkezi (Pay Ölçer),2250000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,10,1,Konut,100,2+1,5.Kat,Merkezi (Pay Ölçer),1460000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,14,1,Konut,145,3+1,6.Kat,Merkezi (Pay Ölçer),1700000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,10,0,Konut,180,4+1,10.Kat,Merkezi (Pay Ölçer),2380000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,14,2,Konut,110,3+1,7.Kat,Merkezi Fueloil,1230000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),2,0,Konut,175,4+1,Düz Giriş,Kombi Doğalgaz,4950000,Kayseri - Hacılar - Yediağaç Mahallesi,Kayseri,2,Yediağaç Mahallesi
+16-20,4,0,Konut,150,3+1,1.Kat,Kombi Doğalgaz,1300000,Kayseri - Develi - Mehmet Akif Ersoy Mahallesi,Kayseri,1,Mehmet Akif Ersoy Mahallesi
+0 (Yeni),14,0,Konut,90,2.5+1,3.Kat,Merkezi (Pay Ölçer),1475000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),8,0,Konut,100,2.5+1,3.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+0 (Yeni),14,0,Konut,140,3+1,2.Kat,Merkezi (Pay Ölçer),2520000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,12,0,Konut,140,3+1,6.Kat,Merkezi (Pay Ölçer),2150000,Kayseri - Talas - Harman Mahallesi,Kayseri,7,Harman Mahallesi
+11-15,14,0,Konut,175,3+1,11.Kat,Kombi Doğalgaz,1890000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,15,1,Konut,135,3+1,14.Kat,Merkezi Doğalgaz,1395000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,100,2.5+1,6.Kat,Merkezi Doğalgaz,1549000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,1,Konut,115,3+1,11.Kat,Merkezi (Pay Ölçer),1410000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,2,Konut,125,3+1,11.Kat,Merkezi (Pay Ölçer),1425000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,2,0,Konut,135,1 Oda,Düz Giriş,Isıtma Yok,1210000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+1,1,0,Konut,3999,1+1,Müstakil.Kat,Sobalı,1485000,Kayseri - Talas - Kuruköprü Mahallesi,Kayseri,7,Kuruköprü Mahallesi
+11-15,14,2,Konut,180,4+1,3.Kat,Kombi Doğalgaz,2745000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,14,2,Konut,140,3+1,11.Kat,Merkezi (Pay Ölçer),1419000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),5,0,Konut,110,3+1,Yüksek Giriş,Kombi Doğalgaz,1100000,Kayseri - Develi - Aşık Seyrani Mahallesi,Kayseri,1,Aşık Seyrani Mahallesi
+5-10,4,0,Konut,100,2+1,Çatı Dubleks,Isıtma Yok,1200000,Kayseri - Develi - Harman Mahallesi,Kayseri,1,Harman Mahallesi
+1,14,1,Konut,85,2+1,1.Kat,Merkezi (Pay Ölçer),1350000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,2,Konut,140,3+1,13.Kat,Merkezi (Pay Ölçer),1990000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,4,2,Konut,480,5+4,Düz Giriş,Kombi Doğalgaz,17950000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+0 (Yeni),14,0,Konut,180,4+1,9.Kat,Merkezi (Pay Ölçer),3500000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,140,3+1,2.Kat,Merkezi (Pay Ölçer),1825000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,14,2,Konut,125,3+1,11.Kat,Merkezi (Pay Ölçer),1420000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,0,Konut,135,3+1,1.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,90,2.5+1,1.Kat,Merkezi (Pay Ölçer),1500000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,10,1,Konut,140,3+1,7.Kat,Kombi Doğalgaz,1640000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+0 (Yeni),10,0,Konut,140,3+1,2.Kat,Merkezi Doğalgaz,3400000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),5,0,Konut,90,2+1,2.Kat,Isıtma Yok,1300000,Kayseri - Develi - Mustafa Asım Köksal Mahallesi,Kayseri,1,Mustafa Asım Köksal Mahallesi
+5-10,14,1,Konut,90,2+1,7.Kat,Merkezi (Pay Ölçer),1375000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+1,1,2,Konut,125,3+1,Düz Giriş,Sobalı,2500000,Kayseri - İncesu - Garipçe Mahallesi,Kayseri,10,Garipçe Mahallesi
+5-10,14,2,Konut,135,3+1,12.Kat,Merkezi (Pay Ölçer),1525000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,2,0,Konut,125,1 Oda,Düz Giriş,Isıtma Yok,1550000,Kayseri - Develi - Yeni Mahallesi,Kayseri,1,Yeni Mahallesi
+5-10,14,1,Konut,135,3+1,12.Kat,Merkezi Doğalgaz,1420000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),10,0,Konut,90,2.5+1,3.Kat,Merkezi (Pay Ölçer),1579000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+0 (Yeni),5,0,Konut,49,Stüdyo,3.Kat,Kombi Doğalgaz,699000,Kayseri - Develi - Feneseaşağı Mahallesi,Kayseri,1,Feneseaşağı Mahallesi
+2,14,0,Konut,140,3+1,3.Kat,Merkezi (Pay Ölçer),1675000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,4,0,Konut,90,2+1,Yüksek Giriş,Sobalı,750000,Kayseri - Develi - İbrahimağa Mahallesi,Kayseri,1,İbrahimağa Mahallesi
+21 Ve Üzeri,3,2,Konut,95,2+1,Yüksek Giriş,Kombi Doğalgaz,800000,Kayseri - Develi - Alpaslan Mahallesi,Kayseri,1,Alpaslan Mahallesi
+4,3,2,Konut,140,3+1,3.Kat,Kombi Doğalgaz,1800000,Kayseri - Develi - Şehit Üsteğmen Hasan Şahan Mahallesi,Kayseri,1,Şehit Üsteğmen Hasan Şahan Mahallesi
+5-10,13,1,Konut,145,3+1,12.Kat,Merkezi Doğalgaz,1650000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+4,10,0,Konut,145,3+1,8.Kat,Merkezi (Pay Ölçer),2000000,Kayseri - Talas - Tablakaya Mahallesi,Kayseri,7,Tablakaya Mahallesi
+11-15,15,0,Konut,135,3+1,5.Kat,Merkezi Doğalgaz,1320000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,12,1,Konut,160,3+1,3.Kat,Kombi Doğalgaz,1920000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,2,2,Konut,100,5+2,Düz Giriş,Sobalı,2500000,Kayseri - Talas - Harman Mahallesi,Kayseri,7,Harman Mahallesi
+11-15,4,0,Konut,260,6+2,Bahçe Katı,Kombi Doğalgaz,6150000,Kayseri - Talas - Harman Mahallesi,Kayseri,7,Harman Mahallesi
+11-15,3,2,Konut,3014,9+ Oda,Bahçe Katı,Kombi Doğalgaz,10950000,Kayseri - Hacılar - Beğendik Mahallesi,Kayseri,2,Beğendik Mahallesi
+0 (Yeni),12,0,Konut,138,3+1,6.Kat,Merkezi (Pay Ölçer),3200000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,0,Konut,150,3+1,9.Kat,Merkezi Doğalgaz,1950000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,2,0,Konut,1235,3+1,Bahçe Dublex,Sobalı,9500000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+21 Ve Üzeri,3,1,Konut,80,2+1,2.Kat,Sobalı,500000,Kayseri - Develi - Harman Mahallesi,Kayseri,1,Harman Mahallesi
+5-10,14,0,Konut,155,3+1,8.Kat,Merkezi (Pay Ölçer),1525000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,14,1,Konut,160,4+1,11.Kat,Merkezi Doğalgaz,2300000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),3,0,Konut,320,7+1,Düz Giriş,Kombi Doğalgaz,9500000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+5-10,4,1,Konut,145,4+1,1.Kat,Kombi Doğalgaz,1700000,Kayseri - Hacılar - Akdam Mahallesi,Kayseri,2,Akdam Mahallesi
+11-15,14,1,Konut,145,3+1,9.Kat,Merkezi (Pay Ölçer),1965000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+2,14,0,Konut,150,3+1,13.Kat,Merkezi (Pay Ölçer),2200000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),2,0,Konut,411,3+0,Düz Giriş,Sobalı,750000,Kayseri - Bünyan - İbrahimbey Mahallesi,Kayseri,0,İbrahimbey Mahallesi
+4,14,1,Konut,65,3+1,7.Kat,Merkezi (Pay Ölçer),825000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,4,1,Konut,110,3+1,1.Kat,Kombi Doğalgaz,1050000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+2,3,1,Konut,100,2+1,Yüksek Giriş,Merkezi Doğalgaz,1390000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,14,2,Konut,155,3+1,3.Kat,Merkezi Doğalgaz,2599000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+1,6,1,Konut,78,2+1,3.Kat,Kombi Doğalgaz,1285000,Kayseri - Talas - Tablakaya Mahallesi,Kayseri,7,Tablakaya Mahallesi
+11-15,13,2,Konut,200,4+1,Yüksek Giriş,Merkezi (Pay Ölçer),1990000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+0 (Yeni),2,0,Konut,200,3.5+1,Villa Tipi,Isıtma Yok,4000000,Kayseri - Hacılar - Akyazı Mahallesi,Kayseri,2,Akyazı Mahallesi
+21 Ve Üzeri,2,0,Konut,170,7+1,Müstakil.Kat,Sobalı,4900000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+0 (Yeni),11,0,Konut,135,3+1,9.Kat,Merkezi (Pay Ölçer),2400000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),5,0,Konut,115,3+1,2.Kat,Kombi Doğalgaz,1350000,Kayseri - Develi - Harman Mahallesi,Kayseri,1,Harman Mahallesi
+0 (Yeni),14,0,Konut,105,3+1,2.Kat,Merkezi Doğalgaz,345000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,3,0,Konut,260,6+2,Bahçe Dublex,Merkezi Doğalgaz,6150000,Kayseri - Talas - Harman Mahallesi,Kayseri,7,Harman Mahallesi
+5-10,14,0,Konut,125,3+1,11.Kat,Merkezi (Pay Ölçer),1585000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,5,0,Konut,200,4+2,5.Kat,Kombi Doğalgaz,3250000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+3,14,0,Konut,135,3+1,13.Kat,Merkezi (Pay Ölçer),2300000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,0,Konut,155,3+1,8.Kat,Merkezi (Pay Ölçer),1525000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+2,14,0,Konut,100,2+1,12.Kat,Merkezi (Pay Ölçer),1410000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,2,Konut,140,3+1,8.Kat,Merkezi (Pay Ölçer),2070000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,0,Konut,150,3+1,10.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,126,3+1,13.Kat,Merkezi (Pay Ölçer),3499000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,2,Konut,130,3+1,12.Kat,Merkezi (Pay Ölçer),1565000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,0,Konut,130,3+1,4.Kat,Merkezi (Pay Ölçer),1435000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,0,Konut,140,3+1,6.Kat,Merkezi (Pay Ölçer),1540000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,15,1,Konut,140,3+1,11.Kat,Merkezi Doğalgaz,1385000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),10,0,Konut,100,2+1,5.Kat,Merkezi (Pay Ölçer),265000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,4,1,Konut,145,3.5+1,1.Kat,Kombi Doğalgaz,1700000,Kayseri - Hacılar - Akdam Mahallesi,Kayseri,2,Akdam Mahallesi
+4,2,2,Konut,150,3+1,Bahçe Dublex,Kombi Doğalgaz,2500000,Kayseri - Develi - Zile Mahallesi,Kayseri,1,Zile Mahallesi
+3,14,0,Konut,115,3+1,1.Kat,Merkezi (Pay Ölçer),1350000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,15,1,Konut,175,3+1,13.Kat,Kombi Doğalgaz,1800000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),4,0,Konut,120,3+1,1.Kat,Kombi Doğalgaz,1350000,Kayseri - Develi - Bahçelievler Mahallesi,Kayseri,1,Bahçelievler Mahallesi
+11-15,13,1,Konut,135,3+1,2.Kat,Merkezi (Pay Ölçer),1665000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+21 Ve Üzeri,3,2,Konut,120,3+1,Yüksek Giriş,Kombi Doğalgaz,880000,Kayseri - Develi - Yeni Mahallesi,Kayseri,1,Yeni Mahallesi
+4,14,0,Konut,125,3+1,1.Kat,Merkezi (Pay Ölçer),1350000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,1,Konut,175,3+1,2.Kat,Merkezi Doğalgaz,2145000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,14,2,Konut,135,3+1,11.Kat,Merkezi Doğalgaz,1400000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),5,0,Konut,110,3+0,1.Kat,Merkezi (Pay Ölçer),1445000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),2,0,Konut,150,4+1,Düz Giriş,Kombi Doğalgaz,4150000,Kayseri - Hacılar - Beğendik Mahallesi,Kayseri,2,Beğendik Mahallesi
+11-15,14,1,Konut,125,3+1,11.Kat,Merkezi Doğalgaz,1135000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,1,Konut,135,3+1,3.Kat,Merkezi (Pay Ölçer),1675000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+3,5,0,Konut,85,3+1,2.Kat,Merkezi (Pay Ölçer),885000,Kayseri - İncesu - Karakoyunlu Mahallesi,Kayseri,10,Karakoyunlu Mahallesi
+0 (Yeni),2,0,Konut,90,2+1,1.Kat,Kombi Doğalgaz,1375000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+4,14,2,Konut,135,3+1,3.Kat,Merkezi (Pay Ölçer),1449000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,3,2,Konut,370,6+1,Düz Giriş,Kombi Doğalgaz,17900000,Kayseri - Talas - Harman Mahallesi,Kayseri,7,Harman Mahallesi
+11-15,13,1,Konut,135,3+1,2.Kat,Merkezi (Pay Ölçer),1665000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+21 Ve Üzeri,2,0,Konut,110,3+1,2.Kat,Kombi Doğalgaz,1200000,Kayseri - Develi - Aşağıeverek Mahallesi,Kayseri,1,Aşağıeverek Mahallesi
+0 (Yeni),11,0,Konut,115,3+1,9.Kat,Merkezi (Pay Ölçer),2400000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,8,0,Konut,65,1+1,5.Kat,Merkezi Doğalgaz,875000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,12,2,Konut,210,4+1,Yüksek Giriş,Merkezi (Pay Ölçer),2090000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+16-20,15,1,Konut,100,3+1,2.Kat,Merkezi Doğalgaz,1200000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),4,0,Konut,70,2+1,1.Kat,Kombi Doğalgaz,950000,Kayseri - Develi - Harman Mahallesi,Kayseri,1,Harman Mahallesi
+0 (Yeni),6,0,Konut,118,3+1,5.Kat,Kombi Doğalgaz,2250000,Kayseri - Develi - Yeni Mahallesi,Kayseri,1,Yeni Mahallesi
+5-10,3,0,Konut,440,5+1,Villa Tipi,Kombi Doğalgaz,10500000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+0 (Yeni),5,0,Konut,85,2+1,1.Kat,Kombi Doğalgaz,1250000,Kayseri - Develi - Yeni Mahallesi,Kayseri,1,Yeni Mahallesi
+5-10,14,0,Konut,130,3+1,11.Kat,Merkezi (Pay Ölçer),1600000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,10,2,Konut,140,3+1,3.Kat,Kombi Doğalgaz,1599000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,14,0,Konut,145,4+1,7.Kat,Merkezi (Pay Ölçer),1670000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+1,1,2,Konut,100,2.5+1,Villa Tipi,Kat Kaloriferi,4250000,Kayseri - Hacılar - Yediağaç Mahallesi,Kayseri,2,Yediağaç Mahallesi
+5-10,7,2,Konut,129,3+1,Düz Giriş,Kombi Doğalgaz,1019000,Kayseri - Develi - Aşık Seyrani Mahallesi,Kayseri,1,Aşık Seyrani Mahallesi
+3,13,0,Konut,140,3+1,13.Kat,Merkezi (Pay Ölçer),2530000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,1,Konut,135,3+1,10.Kat,Merkezi Doğalgaz,1430000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,7,0,Konut,90,2+1,6.Kat,Kombi Doğalgaz,1219000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,1,Konut,40,1+1,12.Kat,Merkezi (Pay Ölçer),925000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,0,Konut,100,2.5+1,8.Kat,Merkezi (Pay Ölçer),1490000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,15,1,Konut,120,3+1,14.Kat,Merkezi Doğalgaz,1300000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,5,0,Konut,160,3.5+1,2.Kat,Kombi Doğalgaz,1870000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,10,2,Konut,230,4+1,5.Kat,Merkezi Doğalgaz,2940000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+11-15,15,1,Konut,118,3+1,9.Kat,Merkezi Doğalgaz,1400000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,14,2,Konut,210,4+1,13.Kat,Kombi Doğalgaz,4000000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+11-15,15,0,Konut,110,3+1,9.Kat,Merkezi Doğalgaz,1175000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+16-20,4,0,Konut,120,3+1,4.Kat,Kombi Doğalgaz,1200000,Kayseri - İncesu - Karamustafapaşa Mahallesi,Kayseri,10,Karamustafapaşa Mahallesi
+5-10,4,1,Konut,55,1+1,2.Kat,Merkezi Doğalgaz,780000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+0 (Yeni),6,0,Konut,138,3+1,2.Kat,Merkezi (Pay Ölçer),1720000,Kayseri - İncesu - Gönenkent Mahallesi,Kayseri,10,Gönenkent Mahallesi
+16-20,5,1,Konut,145,3+1,4.Kat,Kombi Doğalgaz,2750000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+21 Ve Üzeri,2,2,Konut,400,2+1,Düz Giriş,Sobalı,985000,Kayseri - İncesu - Süksün Hürriyet Mahallesi,Kayseri,10,Süksün Hürriyet Mahallesi
+11-15,15,0,Konut,175,3+1,3.Kat,Kombi Doğalgaz,1450000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,15,1,Konut,110,3+1,11.Kat,Merkezi Doğalgaz,1150000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+1,14,1,Konut,175,4+1,9.Kat,Merkezi (Pay Ölçer),2650000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+1,14,2,Konut,133,3+1,2.Kat,Merkezi (Pay Ölçer),2550000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,13,2,Konut,190,4+1,7.Kat,Kombi Doğalgaz,3020000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,13,0,Konut,165,3+1,7.Kat,Kombi Doğalgaz,2699000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,14,2,Konut,145,3+1,12.Kat,Merkezi (Pay Ölçer),2200000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+16-20,8,0,Konut,135,3+1,8.Kat,Merkezi Doğalgaz,1670000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,11,0,Konut,140,3+1,6.Kat,Merkezi (Pay Ölçer),1795000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),10,0,Konut,130,3+1,9.Kat,Merkezi Doğalgaz,2329000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+11-15,15,0,Konut,115,3+1,9.Kat,Merkezi Doğalgaz,1043000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),6,0,Konut,120,2+1,4.Kat,Merkezi (Pay Ölçer),1400000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+2,4,2,Konut,110,3+1,1.Kat,Kombi Doğalgaz,925000,Kayseri - Develi - İbrahimağa Mahallesi,Kayseri,1,İbrahimağa Mahallesi
+21 Ve Üzeri,3,2,Konut,160,3+1,3.Kat,Kombi Doğalgaz,3500000,Kayseri - Develi - İbrahimağa Mahallesi,Kayseri,1,İbrahimağa Mahallesi
+16-20,1,0,Konut,140,2.5+1,Bahçe Dublex,Doğalgaz Sobalı,2000000,Kayseri - Talas - Harman Mahallesi,Kayseri,7,Harman Mahallesi
+5-10,1,0,Konut,100,2+1,Bahçe Dublex,Sobalı,2495000,Kayseri - Talas - Han Mahallesi,Kayseri,7,Han Mahallesi
+4,14,1,Konut,145,3+1,10.Kat,Merkezi (Pay Ölçer),1690000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,110,2+1,9.Kat,Merkezi (Pay Ölçer),2075000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+21 Ve Üzeri,3,2,Konut,280,8+2,Müstakil.Kat,Kombi Doğalgaz,4000000,Kayseri - Talas - Tablakaya Mahallesi,Kayseri,7,Tablakaya Mahallesi
+0 (Yeni),9,0,Konut,100,2.5+1,4.Kat,Merkezi (Pay Ölçer),1530000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,12,2,Konut,150,3+1,10.Kat,Kombi Doğalgaz,1690000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,10,2,Konut,170,4+1,10.Kat,Merkezi Doğalgaz,2450000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+0 (Yeni),4,0,Konut,120,3+1,Çatı Katı,Kombi Doğalgaz,1650000,Kayseri - Develi - Mustafa Asım Köksal Mahallesi,Kayseri,1,Mustafa Asım Köksal Mahallesi
+0 (Yeni),9,0,Konut,155,4+1,4.Kat,Merkezi (Pay Ölçer),2950000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,4,0,Konut,140,3+1,Düz Giriş,Kombi Doğalgaz,935000,Kayseri - Hacılar - Akdam Mahallesi,Kayseri,2,Akdam Mahallesi
+21 Ve Üzeri,2,0,Konut,779,9+ Oda,2.Kat,Sobalı,1500000,Kayseri - İncesu - Süksün Hürriyet Mahallesi,Kayseri,10,Süksün Hürriyet Mahallesi
+16-20,3,0,Konut,450,9+ Oda,Bahçe Katı,Kombi Doğalgaz,11500000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+0 (Yeni),14,0,Konut,150,3+1,3.Kat,Merkezi (Pay Ölçer),2780000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+3,2,2,Konut,380,8+1,2.Kat,Kombi Doğalgaz,7500000,Kayseri - Develi - Mehmet Akif Ersoy Mahallesi,Kayseri,1,Mehmet Akif Ersoy Mahallesi
+5-10,13,1,Konut,180,3+1,10.Kat,Kombi Doğalgaz,3140000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+16-20,3,2,Konut,1249,6+1,Düz Giriş,Kombi Doğalgaz,12000000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+0 (Yeni),2,0,Konut,260,6+1,Düz Giriş,Yerden Isıtma,11450000,Kayseri - Talas - Tablakaya Mahallesi,Kayseri,7,Tablakaya Mahallesi
+3,3,0,Konut,350,6+1,Düz Giriş,Kombi Doğalgaz,9500000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+21 Ve Üzeri,3,0,Konut,450,9+ Oda,Düz Giriş,Kombi Doğalgaz,9250000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+5-10,13,0,Konut,160,3+1,7.Kat,Merkezi (Pay Ölçer),2490000,Kayseri - Talas - Harman Mahallesi,Kayseri,7,Harman Mahallesi
+3,14,0,Konut,130,3+1,9.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+2,14,1,Konut,170,3.5+1,12.Kat,Merkezi (Pay Ölçer),2950000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),9,0,Konut,130,3.5+1,6.Kat,Merkezi Doğalgaz,3500000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+0 (Yeni),2,0,Konut,400,8+1,Düz Giriş,Yerden Isıtma,25250000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+0 (Yeni),9,0,Konut,130,3.5+1,7.Kat,Merkezi (Pay Ölçer),3400000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+0 (Yeni),2,0,Konut,297,6+1,Düz Giriş,Kombi Doğalgaz,13500000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+0 (Yeni),9,0,Konut,165,4.5+1,5.Kat,Merkezi (Pay Ölçer),6500000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),6,0,Konut,80,2+1,5.Kat,Merkezi (Pay Ölçer),1300000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+2,1,0,Konut,3874,3+1,Müstakil.Kat,Sobalı,2000000,Kayseri - Sarız - Yeşilkent Mahallesi,Kayseri,6,Yeşilkent Mahallesi
+21 Ve Üzeri,4,1,Konut,85,2+1,Düz Giriş,Kombi Doğalgaz,875000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+16-20,15,1,Konut,145,3+1,14.Kat,Merkezi Doğalgaz,1280000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,1,2,Konut,180,3+1,Düz Giriş,Sobalı,2750000,Kayseri - Hacılar - Karpuzsekisi Mahallesi,Kayseri,2,Karpuzsekisi Mahallesi
+11-15,14,2,Konut,110,3+1,12.Kat,Merkezi (Pay Ölçer),985000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),9,0,Konut,120,3+1,2.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,14,0,Konut,150,3+1,3.Kat,Merkezi Doğalgaz,1600000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,14,1,Konut,185,4+1,1.Kat,Merkezi Doğalgaz,2100000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+3,4,1,Konut,140,3+1,4.Kat,Kombi Doğalgaz,1350000,Kayseri - Yeşilhisar - Karacabey Mahallesi,Kayseri,9,Karacabey Mahallesi
+1,14,1,Konut,100,2+1,3.Kat,Merkezi (Pay Ölçer),1425000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,135,3+1,5.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),5,0,Konut,120,3+1,1.Kat,Kombi Doğalgaz,1340000,Kayseri - Develi - Reşadiye Mahallesi,Kayseri,1,Reşadiye Mahallesi
+5-10,4,1,Konut,120,3+1,2.Kat,Kombi Doğalgaz,1650000,Kayseri - Develi - Yeni Mahallesi,Kayseri,1,Yeni Mahallesi
+0 (Yeni),2,0,Konut,200,5+1,Villa Tipi,Kombi Doğalgaz,3500000,Kayseri - Bünyan - Büyüktuzhisar Mahallesi,Kayseri,0,Büyüktuzhisar Mahallesi
+5-10,14,0,Konut,130,3+1,4.Kat,Merkezi (Pay Ölçer),1550000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,0,Konut,150,3+1,11.Kat,Merkezi (Pay Ölçer),2350000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,14,2,Konut,130,3+1,9.Kat,Merkezi (Pay Ölçer),1399000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,3,0,Konut,110,3+1,2.Kat,Kombi Doğalgaz,980000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+4,14,1,Konut,125,3+1,1.Kat,Merkezi (Pay Ölçer),1290000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),8,0,Konut,100,2.5+1,4.Kat,Kombi Doğalgaz,1975000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,3,0,Konut,75,2+1,1.Kat,Merkezi (Pay Ölçer),750000,Kayseri - İncesu - Saraycık Mahallesi,Kayseri,10,Saraycık Mahallesi
+0 (Yeni),14,1,Konut,165,3+1,4.Kat,Merkezi (Pay Ölçer),1900000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,1,Konut,140,3+1,8.Kat,Kombi Doğalgaz,1450000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,5,2,Konut,125,3+1,Çatı Katı,Kombi Doğalgaz,1350000,Kayseri - Develi - Yeni Mahallesi,Kayseri,1,Yeni Mahallesi
+0 (Yeni),8,0,Konut,80,2+1,2.Kat,Kombi Doğalgaz,1500000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+2,4,0,Konut,115,3+1,1.Kat,Kombi Doğalgaz,1150000,Kayseri - Develi - Harman Mahallesi,Kayseri,1,Harman Mahallesi
+5-10,10,1,Konut,135,3+1,4.Kat,Merkezi Doğalgaz,1750000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,190,4+1,3.Kat,Merkezi (Pay Ölçer),2150000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,140,4+1,4.Kat,Merkezi (Pay Ölçer),2764000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,9,0,Konut,100,3+1,1.Kat,Merkezi Doğalgaz,1050000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,3,0,Konut,135,3+1,Yüksek Giriş,Kombi Doğalgaz,1450000,Kayseri - Develi - Reşadiye Mahallesi,Kayseri,1,Reşadiye Mahallesi
+0 (Yeni),4,0,Konut,115,3+1,Düz Giriş,Kombi Doğalgaz,1200000,Kayseri - Develi - Reşadiye Mahallesi,Kayseri,1,Reşadiye Mahallesi
+0 (Yeni),9,0,Konut,108,3.5+1,1.Kat,Merkezi (Pay Ölçer),2350000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,2,Konut,140,3.5+1,14.Kat,Merkezi Doğalgaz,1650000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,150,3+1,14.Kat,Merkezi (Pay Ölçer),1865000,Kayseri - Talas - Tablakaya Mahallesi,Kayseri,7,Tablakaya Mahallesi
+0 (Yeni),4,0,Konut,90,2+1,4.Kat,Kombi Doğalgaz,1300000,Kayseri - Develi - Yeni Mahallesi,Kayseri,1,Yeni Mahallesi
+5-10,6,0,Konut,120,3+1,Yarı Bodrum,Kombi Doğalgaz,700000,Kayseri - Develi - Reşadiye Mahallesi,Kayseri,1,Reşadiye Mahallesi
+21 Ve Üzeri,2,0,Konut,120,3+1,Düz Giriş,Kombi Doğalgaz,2550000,Kayseri - Develi - Mehmet Akif Ersoy Mahallesi,Kayseri,1,Mehmet Akif Ersoy Mahallesi
+0 (Yeni),1,0,Konut,80,1+1,Villa Tipi,Sobalı,451750,Kayseri - Tomarza - Gülveren Mahallesi,Kayseri,8,Gülveren Mahallesi
+0 (Yeni),14,0,Konut,140,3+1,2.Kat,Merkezi Doğalgaz,2300000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+1,7,0,Konut,90,2+1,6.Kat,Kombi Doğalgaz,1450000,Kayseri - Develi - Feneseaşağı Mahallesi,Kayseri,1,Feneseaşağı Mahallesi
+0 (Yeni),4,0,Konut,80,2+1,4.Kat,Kombi Doğalgaz,850000,Kayseri - Develi - Harman Mahallesi,Kayseri,1,Harman Mahallesi
+0 (Yeni),2,0,Konut,120,3+1,Düz Giriş,Kombi Doğalgaz,2525000,Kayseri - Develi - Aşık Seyrani Mahallesi,Kayseri,1,Aşık Seyrani Mahallesi
+2,4,1,Konut,115,3+1,Düz Giriş,Kombi Doğalgaz,1050000,Kayseri - Develi - Harman Mahallesi,Kayseri,1,Harman Mahallesi
+0 (Yeni),4,0,Konut,110,3+1,3.Kat,Kombi Doğalgaz,975000,Kayseri - Develi - Yeni Mahallesi,Kayseri,1,Yeni Mahallesi
+0 (Yeni),14,0,Konut,135,3.5+1,2.Kat,Kat Kaloriferi,2850000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),4,0,Konut,120,3+1,Yüksek Giriş,Kombi Doğalgaz,1200000,Kayseri - Develi - Mehmet Akif Ersoy Mahallesi,Kayseri,1,Mehmet Akif Ersoy Mahallesi
+0 (Yeni),8,0,Konut,90,2+1,1.Kat,Kombi Doğalgaz,1425000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),10,0,Konut,100,2.5+1,2.Kat,Merkezi (Pay Ölçer),1800000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+0 (Yeni),2,0,Konut,260,5+1,Bahçe Katı,Kombi Doğalgaz,18000000,Kayseri - Talas - Tablakaya Mahallesi,Kayseri,7,Tablakaya Mahallesi
+1,14,0,Konut,170,3+1,4.Kat,Merkezi (Pay Ölçer),2950000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),10,0,Konut,90,2+1,1.Kat,Merkezi Doğalgaz,1500000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,14,1,Konut,150,3+1,7.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+11-15,14,2,Konut,145,3+1,2.Kat,Merkezi Doğalgaz,1900000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+2,14,2,Konut,130,3+1,4.Kat,Merkezi (Pay Ölçer),2100000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,2,Konut,136,2.5+1,13.Kat,Merkezi (Pay Ölçer),1595000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,14,1,Konut,140,3+1,6.Kat,Merkezi (Pay Ölçer),1499000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+0 (Yeni),4,0,Konut,140,3+1,4.Kat,Kombi Doğalgaz,1650000,Kayseri - Develi - Bahçelievler Mahallesi,Kayseri,1,Bahçelievler Mahallesi
+21 Ve Üzeri,2,2,Konut,1830,9+ Oda,Düz Giriş,Sobalı,11000000,Kayseri - Talas - Harman Mahallesi,Kayseri,7,Harman Mahallesi
+11-15,13,2,Konut,140,3+1,13.Kat,Kombi Doğalgaz,1899000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,12,0,Konut,155,3+1,11.Kat,Merkezi Doğalgaz,1850000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,4,1,Konut,100,2.5+1,4.Kat,Kombi Doğalgaz,1595000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+5-10,10,2,Konut,175,4+1,7.Kat,Merkezi Doğalgaz,2490000,Kayseri - Talas - Harman Mahallesi,Kayseri,7,Harman Mahallesi
+0 (Yeni),4,0,Konut,115,3+1,1.Kat,Kombi Doğalgaz,1250000,Kayseri - Develi - Reşadiye Mahallesi,Kayseri,1,Reşadiye Mahallesi
+5-10,14,0,Konut,135,3+1,4.Kat,Merkezi Doğalgaz,1625000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,1,Konut,140,3+1,13.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,8,0,Konut,60,1+1,1.Kat,Merkezi Doğalgaz,825000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,0,Konut,125,3+1,11.Kat,Merkezi (Pay Ölçer),1585000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,4,0,Konut,350,9+ Oda,Villa Tipi,Kombi Doğalgaz,8500000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+5-10,2,0,Konut,4000,4.5+1,Bahçe Dublex,Sobalı,4750000,Kayseri - Hacılar - Beğendik Mahallesi,Kayseri,2,Beğendik Mahallesi
+3,4,0,Konut,120,3+1,3.Kat,Kombi Doğalgaz,1550000,Kayseri - Develi - Bahçelievler Mahallesi,Kayseri,1,Bahçelievler Mahallesi
+1,2,0,Konut,200,4.5+1,Villa Tipi,Kombi Doğalgaz,5800000,Kayseri - Hacılar - Akyazı Mahallesi,Kayseri,2,Akyazı Mahallesi
+11-15,13,1,Konut,100,2+1,Yüksek Giriş,Merkezi Doğalgaz,1045000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,4,2,Konut,110,2+1,4.Kat,Kombi Doğalgaz,950000,Kayseri - Develi - Şehit Üsteğmen Hasan Şahan Mahallesi,Kayseri,1,Şehit Üsteğmen Hasan Şahan Mahallesi
+0 (Yeni),5,0,Konut,115,3+1,1.Kat,Kombi Doğalgaz,1200000,Kayseri - Develi - Aşık Seyrani Mahallesi,Kayseri,1,Aşık Seyrani Mahallesi
+5-10,14,0,Konut,185,4+1,3.Kat,Kombi Doğalgaz,2699000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+4,13,2,Konut,174,3+1,13.Kat,Merkezi (Pay Ölçer),2000000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,10,1,Konut,65,1+1,3.Kat,Merkezi (Pay Ölçer),755000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,12,1,Konut,150,3+1,1.Kat,Merkezi Doğalgaz,1250000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+1,14,1,Konut,150,3+1,12.Kat,Merkezi (Pay Ölçer),1675000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,2,2,Konut,225,3+1,Düz Giriş,Kombi Doğalgaz,7250000,Kayseri - Hacılar - Beğendik Mahallesi,Kayseri,2,Beğendik Mahallesi
+5-10,15,2,Konut,180,3+1,5.Kat,Merkezi (Pay Ölçer),2000000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),5,0,Konut,115,3+1,1.Kat,Kombi Doğalgaz,1200000,Kayseri - Develi - Aşık Seyrani Mahallesi,Kayseri,1,Aşık Seyrani Mahallesi
+16-20,3,0,Konut,450,9+ Oda,Villa Tipi,Kombi Doğalgaz,11500000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+0 (Yeni),5,0,Konut,170,3+1,1.Kat,Yerden Isıtma,2400000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+2,2,0,Konut,350,5+2,Villa Tipi,Kombi Doğalgaz,11250000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+0 (Yeni),14,0,Konut,100,2.5+1,8.Kat,Merkezi (Pay Ölçer),1535000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),2,0,Konut,260,5+1,Bahçe Dublex,Kombi Doğalgaz,18000000,Kayseri - Talas - Tablakaya Mahallesi,Kayseri,7,Tablakaya Mahallesi
+11-15,15,0,Konut,120,3+1,8.Kat,Merkezi Doğalgaz,1150000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,15,2,Konut,320,4+3,14.Kat,Merkezi (Pay Ölçer),2900000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,8,1,Konut,25,1 Oda,Düz Giriş,Klimalı,250000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+21 Ve Üzeri,3,2,Konut,125,3+1,Yüksek Giriş,Sobalı,650000,Kayseri - Develi - Şehit Üsteğmen Hasan Şahan Mahallesi,Kayseri,1,Şehit Üsteğmen Hasan Şahan Mahallesi
+0 (Yeni),2,0,Konut,200,5+1,Bahçe Dublex,Yerden Isıtma,12250000,Kayseri - Talas - Tablakaya Mahallesi,Kayseri,7,Tablakaya Mahallesi
+5-10,5,0,Konut,220,4+2,5.Kat,Kombi Doğalgaz,3250000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+0 (Yeni),1,0,Konut,85,Stüdyo,Düz Giriş,Kombi Doğalgaz,10000000,Kayseri - Talas - Harman Mahallesi,Kayseri,7,Harman Mahallesi
+11-15,12,0,Konut,160,3+1,9.Kat,Merkezi Doğalgaz,2450000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,14,1,Konut,120,3+1,14.Kat,Merkezi (Pay Ölçer),1310000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+2,14,2,Konut,175,3.5+1,13.Kat,Merkezi Doğalgaz,1820000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+1,14,0,Konut,140,3+1,13.Kat,Merkezi (Pay Ölçer),1650000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,14,1,Konut,90,2+1,2.Kat,Merkezi (Pay Ölçer),1350000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),5,0,Konut,145,4+1,1.Kat,Kombi Doğalgaz,1695000,Kayseri - Develi - Mustafa Asım Köksal Mahallesi,Kayseri,1,Mustafa Asım Köksal Mahallesi
+21 Ve Üzeri,1,2,Konut,558,3+1,Düz Giriş,Sobalı,2750000,Kayseri - Talas - Harman Mahallesi,Kayseri,7,Harman Mahallesi
+0 (Yeni),5,2,Konut,165,4+1,3.Kat,Kombi Doğalgaz,1700000,Kayseri - Develi - Mustafa Asım Köksal Mahallesi,Kayseri,1,Mustafa Asım Köksal Mahallesi
+5-10,12,0,Konut,150,3+1,1.Kat,Kombi Doğalgaz,1490000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,12,2,Konut,170,3+1,10.Kat,Kombi Doğalgaz,1550000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),12,0,Konut,135,3+1,6.Kat,Merkezi (Pay Ölçer),2349000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),6,0,Konut,100,2+1,6.Kat,Kombi Doğalgaz,1490000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,1,Konut,60,1+1,12.Kat,Merkezi (Pay Ölçer),850000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,13,1,Konut,255,5+1,Çatı Katı,Kombi Doğalgaz,3100000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),4,0,Konut,85,2+1,2.Kat,Kombi Doğalgaz,1450000,Kayseri - Develi - İbrahimağa Mahallesi,Kayseri,1,İbrahimağa Mahallesi
+3,5,0,Konut,130,3+1,2.Kat,Kombi Doğalgaz,1300000,Kayseri - Develi - Yeni Mahallesi,Kayseri,1,Yeni Mahallesi
+5-10,3,1,Konut,90,1+1,Çatı Katı,Kombi Doğalgaz,800000,Kayseri - Develi - Aşık Seyrani Mahallesi,Kayseri,1,Aşık Seyrani Mahallesi
+1,2,0,Konut,65,1+1,Çatı Katı,Kombi Doğalgaz,800000,Kayseri - Develi - Mustafa Asım Köksal Mahallesi,Kayseri,1,Mustafa Asım Köksal Mahallesi
+5-10,5,2,Konut,130,2+1,2.Kat,Kombi Doğalgaz,1250000,Kayseri - Develi - Yeni Mahallesi,Kayseri,1,Yeni Mahallesi
+0 (Yeni),5,1,Konut,107,3+1,Yüksek Giriş,Kombi Doğalgaz,1212121,Kayseri - Develi - Mustafa Asım Köksal Mahallesi,Kayseri,1,Mustafa Asım Köksal Mahallesi
+0 (Yeni),8,0,Konut,90,2+1,4.Kat,Kombi Doğalgaz,1450000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),14,0,Konut,145,4+1,10.Kat,Merkezi (Pay Ölçer),2450000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,12,1,Konut,170,4+1,1.Kat,Kombi Doğalgaz,1895000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+5-10,14,1,Konut,140,3+1,3.Kat,Merkezi Doğalgaz,1750000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+4,14,1,Konut,150,3+1,9.Kat,Merkezi Doğalgaz,1950000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),4,0,Konut,110,3+1,2.Kat,Kombi Doğalgaz,1350000,Kayseri - Develi - Yeni Mahallesi,Kayseri,1,Yeni Mahallesi
+11-15,7,1,Konut,150,3+1,1.Kat,Kombi Doğalgaz,1125000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi
+11-15,15,0,Konut,145,3+1,13.Kat,Merkezi (Pay Ölçer),1850000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+5-10,4,1,Konut,160,3+1,4.Kat,Kombi Doğalgaz,1750000,Kayseri - Develi - İbrahimağa Mahallesi,Kayseri,1,İbrahimağa Mahallesi
+4,5,2,Konut,120,3+1,Müstakil.Kat,Kombi Doğalgaz,1000000,Kayseri - Develi - Camiicedit Mahallesi,Kayseri,1,Camiicedit Mahallesi
+2,2,2,Konut,140,6+1,Bahçe Dublex,Kombi Doğalgaz,7500000,Kayseri - Develi - Zile Mahallesi,Kayseri,1,Zile Mahallesi
+0 (Yeni),14,0,Konut,140,3+1,5.Kat,Merkezi Doğalgaz,2300000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),10,0,Konut,130,3+1,3.Kat,Merkezi Doğalgaz,1500000,Kayseri - Talas - Harman Mahallesi,Kayseri,7,Harman Mahallesi
+11-15,3,0,Konut,500,9+ Oda,Villa Tipi,Kombi Doğalgaz,20000000,Kayseri - Talas - Yukarı Mahallesi,Kayseri,7,Yukarı Mahallesi
+11-15,2,2,Konut,140,3+1,Müstakil.Kat,Sobalı,1500000,Kayseri - Sarız - Yeşilkent Mahallesi,Kayseri,6,Yeşilkent Mahallesi
+0 (Yeni),14,0,Konut,115,3+1,13.Kat,Merkezi (Pay Ölçer),1950000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,135,3+1,7.Kat,Merkezi (Pay Ölçer),1700000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+11-15,5,2,Konut,110,3+1,4.Kat,Kombi Doğalgaz,1200000,Kayseri - Develi - Harman Mahallesi,Kayseri,1,Harman Mahallesi
+0 (Yeni),14,0,Konut,145,4+1,2.Kat,Merkezi (Pay Ölçer),2875000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,2,2,Konut,125,3+1,Müstakil.Kat,Kombi Doğalgaz,1100000,Kayseri - Develi - Aşık Seyrani Mahallesi,Kayseri,1,Aşık Seyrani Mahallesi
+5-10,9,2,Konut,110,3+1,6.Kat,Merkezi (Pay Ölçer),1750000,Kayseri - Talas - Yenidoğan Mahallesi,Kayseri,7,Yenidoğan Mahallesi
+5-10,3,2,Konut,700,7+3,3.Kat,Merkezi Doğalgaz,6000000,Kayseri - Hacılar - Yukarı Mahallesi,Kayseri,2,Yukarı Mahallesi
+0 (Yeni),2,2,Konut,120,2+1,Müstakil.Kat,Kombi Doğalgaz,1550000,Kayseri - Develi - Develi Camikebir Mahallesi,Kayseri,1,Develi Camikebir Mahallesi
+5-10,14,0,Konut,140,3+1,4.Kat,Merkezi Doğalgaz,1440000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),14,0,Konut,115,3+1,6.Kat,Merkezi (Pay Ölçer),1925000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+0 (Yeni),4,2,Konut,90,2+1,4.Kat,Kombi Doğalgaz,1850000,Kayseri - Develi - İbrahimağa Mahallesi,Kayseri,1,İbrahimağa Mahallesi
+0 (Yeni),5,2,Konut,115,3+1,1.Kat,Kombi Doğalgaz,1300000,Kayseri - Develi - Alpaslan Mahallesi,Kayseri,1,Alpaslan Mahallesi
+0 (Yeni),3,0,Konut,180,5+2,Müstakil.Kat,Sobalı,2500000,Kayseri - Sarız - Yeşilkent Mahallesi,Kayseri,6,Yeşilkent Mahallesi
+4,4,1,Konut,115,3+1,4.Kat,Kombi Doğalgaz,1480000,Kayseri - Develi - Reşadiye Mahallesi,Kayseri,1,Reşadiye Mahallesi
+0 (Yeni),5,0,Konut,115,3+1,1.Kat,Kombi Doğalgaz,1300000,Kayseri - Develi - Feneseyukarı Mahallesi,Kayseri,1,Feneseyukarı Mahallesi
+0 (Yeni),5,0,Konut,115,3+1,1.Kat,Kombi Doğalgaz,1300000,Kayseri - Develi - Feneseyukarı Mahallesi,Kayseri,1,Feneseyukarı Mahallesi
+11-15,7,1,Konut,155,3+1,4.Kat,Merkezi Doğalgaz,1850000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+0 (Yeni),2,0,Konut,256,5+1,Düz Giriş,Kombi Doğalgaz,6550000,Kayseri - Hacılar - Akdam Mahallesi,Kayseri,2,Akdam Mahallesi
+5-10,12,1,Konut,165,4+1,Yüksek Giriş,Kombi Doğalgaz,1400000,Kayseri - Talas - Bahçelievler Mahallesi,Kayseri,7,Bahçelievler Mahallesi
+1,14,0,Konut,132,3.5+1,6.Kat,Merkezi (Pay Ölçer),2450000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,1,2,Konut,120,3+1,Düz Giriş,Sobalı,410000,Kayseri - Develi - Reşadiye Mahallesi,Kayseri,1,Reşadiye Mahallesi
+4,2,0,Konut,540,4+1,Villa Tipi,Kombi Doğalgaz,7590000,Kayseri - Hacılar - Akyazı Mahallesi,Kayseri,2,Akyazı Mahallesi
+5-10,15,0,Konut,120,3+1,9.Kat,Merkezi Doğalgaz,1350000,Kayseri - Talas - Mevlana Mahallesi,Kayseri,7,Mevlana Mahallesi
+21 Ve Üzeri,2,1,Konut,140,3+1,Bahçe Katı,Sobalı,2100000,Kayseri - Talas - Kiçiköy Mahallesi,Kayseri,7,Kiçiköy Mahallesi

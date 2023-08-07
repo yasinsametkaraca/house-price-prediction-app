@@ -4,24 +4,25 @@ import scrapy
 class AllHousesSpider(scrapy.Spider):
     name = "all_houses"
     allowed_domains = ["hepsiemlak.com"]
-    start_urls = ["https://hepsiemlak.com/en/kayseri?page=2"]
+    start_urls = ["https://hepsiemlak.com/en/kayseri-satilik?page=2"]
+    custom_settings = {
+        'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36',
+        # 'DOWNLOAD_DELAY': 2,  # 1 second delay
+        # 'CONCURRENT_REQUESTS': 1,  # 1 request at a time
+    }
 
     def parse_house_detail(self, response):
-        house_details = response.xpath("//div[@class='_35T4WV']")
+        house_details = response.xpath("//li[@class='spec-item']")
         house_data = {}
         for detail in house_details:
-            label = detail.xpath(".//div[@class='_1bVOdb'][1]/text()").get()
-            value = detail.xpath(".//div[@class='_1bVOdb'][2]/text()").get()
+            label = detail.xpath(".//span[1]/text()").get()
+            value = detail.xpath(".//span[2]/text()").get()
             if label and value:
                 house_data[label.strip()] = value.strip()
-        house_data['Konumu'] = response.xpath("//div[@class='_3VQ1JB']/p/text()").get()
-        house_data['Fiyat'] = response.xpath("(//div[@class='_2TxNQv']/text())[1]").get()
-
-        house_descriptions = response.xpath("//div[@class='_3JTw7f']/text()").getall()
-        house_description = (
-            ', '.join(description.strip() for description in house_descriptions if description.strip())).replace('\xa0',
-                                                                                                                 '')
-        house_data['İlan Açıklaması'] = house_description
+        house_data['City'] = response.xpath("(//ul[@class='short-info-list']/li/text())[1]").get().strip()
+        house_data['District'] = response.xpath("(//ul[@class='short-info-list']/li/text())[2]").get().strip()
+        house_data['Town'] = response.xpath("(//ul[@class='short-info-list']/li/text())[3]").get().strip()
+        house_data['Price'] = response.xpath("//div[@class='right']/p/text()").get()
 
         yield house_data
 
@@ -39,6 +40,6 @@ class AllHousesSpider(scrapy.Spider):
             print(next_page)
             if next_page:
                 next_page_url = response.urljoin(next_page)
-                yield scrapy.Request(url=next_page_url, callback=self.parse)
+                yield scrapy.Request(url=next_page_url, callback=self.parse, dont_filter=True)
         else:
             print("Last Page")

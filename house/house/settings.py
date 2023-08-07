@@ -12,8 +12,14 @@ BOT_NAME = "house"
 SPIDER_MODULES = ["house.spiders"]
 NEWSPIDER_MODULE = "house.spiders"
 
+PROXY_POOL_ENABLED = True
 
-
+DOWNLOADER_MIDDLEWARES = {
+    # ...
+    'scrapy_proxy_pool.middlewares.ProxyPoolMiddleware': 610,
+    'scrapy_proxy_pool.middlewares.BanDetectionMiddleware': 620,
+    # ...
+}
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
@@ -95,4 +101,4 @@ TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
 FEED_FORMAT = 'csv'
-FEED_URI = 'istanbul_houses.csv'
+FEED_URI = 'kayseri_houses.csv'
